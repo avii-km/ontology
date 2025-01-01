@@ -6,20 +6,6 @@ all = {
             "Oversized",
             "Slim fit"
         ],
-        "Concept":[
-            "BASICS"
-        ],
-        "Care instructions":[
-            "Only non-chlorine bleach when needed, No dry clean, Machine wash cold, Wash with like colors, High iron, Line dry",
-            "Only non-chlorine bleach when needed, Use a laundry bag, Machine wash cold, Line dry, Can be dry cleaned, Low iron",
-            "Only non-chlorine bleach when needed, Machine wash cool, Wash with like colors, High iron, Line dry, Can be dry cleaned",
-            "Only non-chlorine bleach when needed, Medium iron, Machine wash cool, Line dry, Can be dry cleaned",
-            "Only non-chlorine bleach when needed, Medium iron, Machine wash at 40° Gentle cycle​, Line dry, Can be dry cleaned",
-            "Only non-chlorine bleach when needed, No dry clean, Do not iron on print, Machine wash cool, High iron, Line dry",
-            "Only non-chlorine bleach when needed, Medium iron, Machine wash cold, Line dry, Use mild detergent, Can be dry cleaned",
-            "Only non-chlorine bleach when needed, Medium iron, Machine wash cool, Wash with like colors, Line dry, Can be dry cleaned",
-            "Only non-chlorine bleach when needed, Medium iron, Machine wash cool, Line dry, Can be dry cleaned, Use a laundry bag, Wash with like colors"
-        ],
         "Composition":"fix",
         "Sleeve Length":[
             "Short sleeve",
@@ -79,28 +65,6 @@ all = {
             "Crop",
             "Short"
         ],
-        "imported":[
-            "Yes"
-        ],
-        "Detailed Description":[
-            "White/yellow/pink/dark gray/black, Solid-color",
-            "Beige, Solid-color",
-            "Dark gray, Solid-color",
-            "Light blue, Solid-color",
-            "Light gray, Soho Heights, Solid-color",
-            "White, Solid-color",
-            "White/beige/black, Solid-color",
-            "Beige/light blue/taupe/navy blue/black, Solid-color",
-            "Cream, Solid-color",
-            "Navy blue, Solid-color",
-            "Black/white, Soho LDN",
-            "Black, Solid-color",
-            "Forest green, Solid-color",
-            "Black melange, Solid-color"
-        ],
-        "Functions":[
-            "Thermal"
-        ],
         "Material":[
             "Embroidery",
             "Glitter",
@@ -146,20 +110,9 @@ all = {
             "Sexy",
             "Henley Shirt"
         ],
-        "Pieces/Pairs":[
-            "5",
-            "3"
-        ],
         "Collar":[
             "Turn-down Collar",
             "Henley Collar"
-        ],
-        "Number of Pieces":[
-            "3 Piece Set",
-            "1 Piece Set",
-            "5 Piece Set",
-            "4 Piece Set",
-            "2 Piece Set"
         ],
         "Color":"fix",
         "Sleeve Type":[
@@ -183,15 +136,6 @@ all = {
             "Slim Fit",
             "Regular Fit",
             "Regular Fit, Slim Fit"
-        ],
-        "Care Instructions":[
-            "Hand wash or professional dry clean",
-            "Machine wash or professional dry clean",
-            "Hand wash,do not dry clean",
-            "Damp wipe only",
-            "Machine wash, do not dry clean,wash with the soft detergent",
-            "Dry clean or Hand wash",
-            "Machine wash, do not dry clean"
         ],
         "Pockets":[
             "Yes",
@@ -222,9 +166,6 @@ all = {
         ],
         "Lined For Added Warmth":[
             "Yes",
-            "No"
-        ],
-        "Belt":[
             "No"
         ],
         "Features":[
@@ -294,10 +235,6 @@ all = {
             "No",
             "No, Unlined",
             "Unlined"
-        ],
-        "Temperature":[
-            "Late Fall (10-17℃/50-63℉)",
-            "Spring/Fall (18-25℃/63-77℉)"
         ],
         "Special Features":[
             "Forest-Safe Fibers",
@@ -385,18 +322,6 @@ all = {
             "Crop",
             "Regular, Regular"
         ],
-        "Functional Type":[
-            "Belly Support"
-        ],
-        "Tank Tops & Camis Material":[
-            "Knitted Fabric, Knitted Fabric"
-        ],
-        "Tank Tops & Camis Composition":[
-            "95% Polyester, 5% Elastane, 90% Polyester, 10% Elastane"
-        ],
-        "Tank Tops & Camis Length":[
-            "Regular, Regular"
-        ]
     },
     "Dresses":{
         "Care instructions":[
