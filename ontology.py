@@ -324,107 +324,6 @@ all = {
         ],
     },
     "Dresses":{
-        "Care instructions":[
-            "Line dry, Only non-chlorine bleach when needed, Machine wash at 30°, Can be dry cleaned, High iron",
-            "Use a laundry bag, Only non-chlorine bleach when needed, Machine wash at 30°, Do not iron on decoration, Can be dry cleaned, Line dry, Low iron",
-            "Use a laundry bag, Line dry, Only non-chlorine bleach when needed, Machine wash at 30°, Can be dry cleaned, No iron",
-            "Use a laundry bag, Line dry, Only non-chlorine bleach when needed, Medium iron, Machine wash at 30°, Can be dry cleaned",
-            "Line dry, Only non-chlorine bleach when needed, Dry flat, Machine wash at 30°, Can be dry cleaned, Low iron",
-            "Use a laundry bag, Line dry, Only non-chlorine bleach when needed, Machine wash at 40°, Medium iron, Can be dry cleaned",
-            "Use a laundry bag, Only non-chlorine bleach when needed, Wash with similar colours, Can be dry cleaned, Machine wash at 40°, Dry flat, Medium iron",
-            "Line dry, Only non-chlorine bleach when needed, Machine wash at 30°, Can be dry cleaned, Wash with similar colours, Low iron",
-            "Use a laundry bag, Line dry, Only non-chlorine bleach when needed, Machine wash at 30°, No dry clean, No iron",
-            "Reshape & dry flat, Only non-chlorine bleach when needed, Machine wash at 30°, Can be dry cleaned, Low iron",
-            "Use a laundry bag, Only non-chlorine bleach when needed, Machine wash at 30°, No dry clean, Low iron",
-            "Use a laundry bag, Only non-chlorine bleach when needed, Machine wash at 30°, Do not iron on decoration, Wash with similar colours, Can be dry cleaned, Line dry, Medium iron",
-            "Only non-chlorine bleach when needed, Machine wash at 40°, Can be dry cleaned, Tumble dry medium, Wash with similar colours, High iron",
-            "Use a laundry bag, Only non-chlorine bleach when needed, Wash inside out, Use mild detergent, Machine wash at 30°, Can be dry cleaned, Line dry, Medium iron",
-            "Line dry, Only non-chlorine bleach when needed, Machine wash at 40°, Can be dry cleaned, No iron",
-            "Use a laundry bag, Only non-chlorine bleach when needed, Machine wash at 30°, No dry clean, Do not iron on decoration, Line dry, Medium iron",
-            "Use a laundry bag, Line dry, Only non-chlorine bleach when needed, Medium iron, Machine wash at 30°, No dry clean",
-            "Line dry, Only non-chlorine bleach when needed, Machine wash at 30°, Can be dry cleaned, Wash with similar colours, High iron",
-            "Use a laundry bag, Only non-chlorine bleach when needed, Machine wash at 40°, Medium iron, Can be dry cleaned",
-            "Use a laundry bag, Line dry, Only non-chlorine bleach when needed, Machine wash at 30°, No dry clean, Low iron",
-            "Tumble dry low, Only non-chlorine bleach when needed, Machine wash at 30°, Can be dry cleaned, Low iron",
-            "Line dry, Only non-chlorine bleach when needed, Machine wash at 40°, Medium iron, Can be dry cleaned",
-            "Only non-chlorine bleach when needed, Machine wash at 30°, Wash with similar colours, Can be dry cleaned, Iron when damp, Line dry, Low iron",
-            "Line dry, Only non-chlorine bleach when needed, Machine wash at 40°, Can be dry cleaned, High iron",
-            "Use a laundry bag, Only non-chlorine bleach when needed, No dry clean, Wash with similar colours, Line dry, Machine wash at 40°, Medium iron",
-            "Only non-chlorine bleach when needed, Wash with similar colours, Can be dry cleaned, Line dry, Machine wash at 40°, Medium iron, Remove belt before wash",
-            "Use a laundry bag, Only non-chlorine bleach when needed, Machine wash at 30°, Can be dry cleaned, Iron when damp, Line dry, Medium iron",
-            "Tumble dry low, Only non-chlorine bleach when needed, Machine wash at 40°, Medium iron, Can be dry cleaned, Wash with similar colours",
-            "Line dry, Only non-chlorine bleach when needed, Machine wash at 40°, Medium iron, Can be dry cleaned, Wash with similar colours",
-            "Only non-chlorine bleach when needed, Dry flat, Use mild detergent, Machine wash at 30°, Can be dry cleaned, Low iron",
-            "Line dry, Only non-chlorine bleach when needed, Machine wash at 30°, No dry clean, Wash with similar colours, Low iron",
-            "Line dry, Only non-chlorine bleach when needed, Unwashable, Can be dry cleaned, Low iron",
-            "Line dry, Only non-chlorine bleach when needed, Medium iron, Machine wash at 30°, Remove belt before wash, Can be dry cleaned",
-            "The colour of this denim may transfer onto light coloured materials, Only non-chlorine bleach when needed, Wash with similar colours, Can be dry cleaned, Line dry, Machine wash at 40°, Medium iron",
-            "Only non-chlorine bleach when needed, Machine wash at 30°, Can be dry cleaned, Low iron",
-            "Tumble dry low, Only non-chlorine bleach when needed, Machine wash at 40°, Medium iron, Remove belt before wash, Can be dry cleaned",
-            "Only non-chlorine bleach when needed, Medium iron, Machine wash at 30°, Can be dry cleaned, Tumble dry medium",
-            "Line dry, Only non-chlorine bleach when needed, Medium iron, Machine wash at 30°, No dry clean",
-            "Line dry, Only non-chlorine bleach when needed, Unwashable, Medium iron, Can be dry cleaned",
-            "Use a laundry bag, Only non-chlorine bleach when needed, Dry flat, Machine wash at 30°, Can be dry cleaned, Low iron",
-            "Line dry, Only non-chlorine bleach when needed, Machine wash at 40°, Dry flat, Can be dry cleaned, Low iron",
-            "Line dry, Only non-chlorine bleach when needed, Machine wash at 40°, Medium iron, No dry clean",
-            "Use a laundry bag, Only non-chlorine bleach when needed, Wash with similar colours, Can be dry cleaned, Line dry, Machine wash at 40°, Low iron",
-            "Use a laundry bag, Only non-chlorine bleach when needed, Machine wash at 30°, No dry clean, Wash with similar colours, Line dry, Medium iron",
-            "Only non-chlorine bleach when needed, Wash with similar colours, Can be dry cleaned, Machine wash at 40°, Remove belt before wash, Tumble dry medium, High iron",
-            "Use a laundry bag, Only non-chlorine bleach when needed, Machine wash at 30°, No dry clean, Wash with similar colours, Line dry, Low iron",
-            "Line dry, Only non-chlorine bleach when needed, Machine wash at 30°, Can be dry cleaned, Low iron",
-            "Use a laundry bag, Only non-chlorine bleach when needed, Machine wash at 30°, Wash with similar colours, Can be dry cleaned, Line dry, Medium iron",
-            "Only non-chlorine bleach when needed, Dry flat, Medium iron, Machine wash at 30°, Can be dry cleaned",
-            "Line dry, Only non-chlorine bleach when needed, Machine wash at 30°, Remove belt before wash, Can be dry cleaned, Low iron",
-            "Line dry, Only non-chlorine bleach when needed, Machine wash at 40°, Medium iron, Remove belt before wash, Can be dry cleaned",
-            "Line dry, Only non-chlorine bleach when needed, Machine wash at 30°, No dry clean, No iron",
-            "Use a laundry bag, Only non-chlorine bleach when needed, Machine wash at 40°, Dry flat, Can be dry cleaned, Low iron",
-            "Only non-chlorine bleach when needed, Machine wash at 30°, Can be dry cleaned, Tumble dry medium, Low iron",
-            "Line dry, Only non-chlorine bleach when needed, Machine wash at 30°, Can be dry cleaned, Wash with similar colours, No iron",
-            "Only non-chlorine bleach when needed, Wash with similar colours, Can be dry cleaned, Iron after wash, Machine wash at 40°, Tumble dry medium, High iron",
-            "Line dry, Only non-chlorine bleach when needed, Medium iron, Machine wash at 30°, Can be dry cleaned",
-            "Line dry, Only non-chlorine bleach when needed, Use mild detergent, Medium iron, Machine wash at 30°, Can be dry cleaned",
-            "Only non-chlorine bleach when needed, Machine wash at 40°, Dry flat, Can be dry cleaned, Low iron",
-            "Only non-chlorine bleach when needed, Wash with similar colours, Can be dry cleaned, Remove decoration before wash, Line dry, Machine wash at 40°, Medium iron",
-            "Use a laundry bag, Only non-chlorine bleach when needed, Machine wash at 30°, Wash with similar colours, Can be dry cleaned, Line dry, Reshape & dry flat, Low iron",
-            "Line dry, Only non-chlorine bleach when needed, Machine wash at 40°, No dry clean, Low iron",
-            "Tumble dry low, Only non-chlorine bleach when needed, Medium iron, Machine wash at 30°, Can be dry cleaned",
-            "Line dry, Only non-chlorine bleach when needed, Machine wash at 40°, Can be dry cleaned, Wash with similar colours, Low iron",
-            "Use a laundry bag, Only non-chlorine bleach when needed, No dry clean, Do not iron on decoration, Wash with similar colours, Line dry, Machine wash at 40°, Medium iron",
-            "Line dry, Only non-chlorine bleach when needed, Machine wash at 30°, Remove belt before wash, No dry clean, Low iron",
-            "Line dry, Only non-chlorine bleach when needed, Machine wash at 40°, Can be dry cleaned, Wash with similar colours, No iron",
-            "Only non-chlorine bleach when needed, Machine wash at 40°, Medium iron, Can be dry cleaned, Tumble dry medium",
-            "Only non-chlorine bleach when needed, Use mild detergent, Machine wash at 30°, Wash with similar colours, Can be dry cleaned, Use softener, Line dry, Medium iron, Wash separately",
-            "Line dry, Only non-chlorine bleach when needed, Machine wash at 30°, No dry clean, Low iron",
-            "Use a laundry bag, Only non-chlorine bleach when needed, Machine wash at 30°, Can be dry cleaned, Line dry, Iron after wash, Low iron",
-            "Use a laundry bag, Only non-chlorine bleach when needed, Wash with similar colours, Can be dry cleaned, Line dry, Machine wash at 40°, Medium iron",
-            "Use a laundry bag, Only non-chlorine bleach when needed, Use mild detergent, Machine wash at 30°, No dry clean, Do not iron on decoration, Line dry, Medium iron",
-            "Use a laundry bag, Only non-chlorine bleach when needed, Machine wash at 30°, Do not iron on decoration, Can be dry cleaned, Line dry, Medium iron",
-            "Use a laundry bag, Only non-chlorine bleach when needed, No dry clean, Wash with similar colours, Line dry, Machine wash at 40°, Medium iron, Remove belt before wash",
-            "Use a laundry bag, Only non-chlorine bleach when needed, Wash with similar colours, Can be dry cleaned, Line dry, Machine wash at 40°, No iron",
-            "Use a laundry bag, Only non-chlorine bleach when needed, Machine wash at 30°, Can be dry cleaned, Line dry, Remove belt before wash, Low iron",
-            "Iron when damp, Line dry, Only non-chlorine bleach when needed, Medium iron, Machine wash at 30°, Can be dry cleaned",
-            "Only non-chlorine bleach when needed, Dry flat, Machine wash at 30°, Can be dry cleaned, Low iron",
-            "Tumble dry low, Only non-chlorine bleach when needed, Machine wash at 40°, Medium iron, Can be dry cleaned",
-            "Only non-chlorine bleach when needed, No dry clean, Do not use softener, Line dry, Machine wash at 40°, Do not iron on print, Remove padding before wash, Low iron",
-            "Line dry, Only non-chlorine bleach when needed, Machine wash at 40°, Can be dry cleaned, Low iron",
-            "Only non-chlorine bleach when needed, Machine wash at 30°, Can be dry cleaned, Tumble dry medium, Wash with similar colours, Low iron",
-            "Use a laundry bag, Only non-chlorine bleach when needed, Machine wash at 30°, Can be dry cleaned, Iron when damp, Line dry, Low iron",
-            "Use a laundry bag, Line dry, Only non-chlorine bleach when needed, Machine wash at 40°, Can be dry cleaned, No iron",
-            "Use a laundry bag, Only non-chlorine bleach when needed, Machine wash at 40°, Dry flat, Medium iron, Can be dry cleaned",
-            "Use a laundry bag, Line dry, Only non-chlorine bleach when needed, Machine wash at 40° Gentle cycle​, Can be dry cleaned, No iron",
-            "Line dry, Only non-chlorine bleach when needed, Medium iron, Machine wash at 30°, Can be dry cleaned, Wash with similar colours",
-            "Use a laundry bag, Only non-chlorine bleach when needed, Wash with similar colours, Can be dry cleaned, Line dry, Machine wash at 40°, Dry flat, Medium iron",
-            "Iron when damp, Line dry, Only non-chlorine bleach when needed, Machine wash at 30°, Can be dry cleaned, Low iron",
-            "Use a laundry bag, Only non-chlorine bleach when needed, Wash with similar colours, Can be dry cleaned, Line dry, Machine wash at 40°, Medium iron, Remove belt before wash",
-            "Line dry, Only non-chlorine bleach when needed, Machine wash at 40°, No dry clean, High iron",
-            "Line dry, Only non-chlorine bleach when needed, Medium iron, Machine wash at 30°, Can be dry cleaned, Do not iron on decoration",
-            "Use a laundry bag, Only non-chlorine bleach when needed, Machine wash at 30°, Can be dry cleaned, Line dry, Dry flat, Medium iron",
-            "Use a laundry bag, Only non-chlorine bleach when needed, Machine wash at 30°, Can be dry cleaned, Line dry, Dry flat, Low iron",
-            "Only non-chlorine bleach when needed, Machine wash at 40°, Dry flat, Medium iron, Can be dry cleaned",
-            "Line dry, Only non-chlorine bleach when needed, Machine wash at 40°, Can be dry cleaned, Wash with similar colours, High iron",
-            "Use a laundry bag, Line dry, Only non-chlorine bleach when needed, Machine wash at 40°, Can be dry cleaned, Low iron",
-            "Use a laundry bag, Line dry, Only non-chlorine bleach when needed, Machine wash at 30°, Can be dry cleaned, Low iron"
-        ],
         "Sleeve Length":[
             "Short sleeve",
             "Wrist-Length Sleeve",
@@ -519,32 +418,6 @@ all = {
             "Turkey/Türkiye",
             "Morocco"
         ],
-        "Price (MRP)":[
-            "Rs. 7,999.00 incl. of all taxes",
-            "Rs. 1,899.00 incl. of all taxes",
-            "Rs. 4,499.00 incl. of all taxes",
-            "Rs. 2,199.00 incl. of all taxes",
-            "Rs. 6,999.00 incl. of all taxes",
-            "Rs. 1,499.00 incl. of all taxes",
-            "Rs. 13,499.00 incl. of all taxes",
-            "Rs. 999.00 incl. of all taxes",
-            "Rs. 2,299.00 incl. of all taxes",
-            "Rs. 1,799.00 incl. of all taxes",
-            "Rs. 2,999.00 incl. of all taxes",
-            "Rs. 5,999.00 incl. of all taxes",
-            "Rs. 799.00 incl. of all taxes",
-            "Rs. 3,999.00 incl. of all taxes",
-            "Rs. 1,299.00 incl. of all taxes",
-            "Rs. 4,999.00 incl. of all taxes",
-            "Rs. 2,699.00 incl. of all taxes",
-            "Rs. 12,999.00 incl. of all taxes",
-            "Rs. 1,999.00 incl. of all taxes",
-            "Rs. 5,499.00 incl. of all taxes",
-            "Rs. 2,499.00 incl. of all taxes",
-            "Rs. 599.00 incl. of all taxes",
-            "Rs. 9,999.00 incl. of all taxes",
-            "Rs. 3,499.00 incl. of all taxes"
-        ],
         "Date of manufacture":[
             "06-2024",
             "07-2024",
@@ -555,7 +428,6 @@ all = {
             "03-2024",
             "10-2024",
             "02-2024",
-            "N/A"
         ],
         "Length":[
             "Knee length",
@@ -577,18 +449,6 @@ all = {
         "Net Quantity":[
             "3 N (1 Pack)",
             "1 N"
-        ],
-        "Date of import":[
-            "06-2024",
-            "07-2024",
-            "11-2024",
-            "09-2024",
-            "08-2024",
-            "05-2024",
-            "04-2024",
-            "03-2024",
-            "10-2024",
-            "02-2024"
         ],
         "Concept":[
             "BASICS, DIVIDED",
@@ -659,9 +519,6 @@ all = {
             "A/W 2024",
             "HOLIDAY 2024"
         ],
-        "Marketed by":[
-            "H&M Hennes & Mauritz Retail Pvt. Ltd. A-wing, D-3, 2nd Floor District Centre Saket New Delhi - 110017 India"
-        ],
         "Sleeve Style":[
             "Raglan sleeve",
             "Puff sleeve, Raglan sleeve",
@@ -699,28 +556,6 @@ all = {
             "Frilled collar, Band collar",
             "Frilled collar",
             "Turn-down collar"
-        ],
-        "Model size":[
-            "The model is 173cm/5'8 and wears a size S",
-            "The model is 177cm/5'10 and wears a size S",
-            "The model is 178cm/5'10 and wears a size XS/S",
-            "The model is 175cm/5'9 and wears a size S",
-            "The model is 178cm/5'10 and wears a size S",
-            "The model is 177cm/5'10 and wears a size 10",
-            "The model is 175cm/5'9 and wears a size 8",
-            "The model is 178cm/5'10 and wears a size M/T",
-            "The model is 176cm/5'9 and wears a size S/T",
-            "The model is 177cm/5'10 and wears a size M"
-        ],
-        "Pieces/Pairs":[
-            "2",
-            "3"
-        ],
-        "Functions":[
-            "Quick dry, Moisture-wicking"
-        ],
-        "Sports activity":[
-            "Training"
         ],
         "Color":"fix",
         "Sleeve Type":[
@@ -829,16 +664,6 @@ all = {
             "Slim Fit",
             "Regular Fit",
             "Oversized"
-        ],
-        "Care Instructions":[
-            "Hand wash or professional dry clean",
-            "Machine wash or professional dry clean",
-            "Hand wash,do not dry clean",
-            "Damp wipe only",
-            "Do not wash",
-            "Machine wash, do not dry clean,wash with the soft detergent",
-            "Dry clean or Hand wash",
-            "Machine wash, do not dry clean"
         ],
         "Pattern Type":"fix",
         "Lining":[
@@ -982,11 +807,6 @@ all = {
             "Recycled Material",
             "Recycled Material, Forest-Safe Fibers"
         ],
-        "Number of Pieces":[
-            "1 Piece Set",
-            "6 Piece Set",
-            "5 Piece Set"
-        ],
         "Dresses Composition":[
             "97% Polyester, 3% Elastane",
             "100% Polyester",
@@ -1042,25 +862,13 @@ all = {
             "100% Polyurethane",
             "96% Polyester, 4% Spandex"
         ],
-        "Dresses Lining":[
-            "100% Polyester"
-        ],
-        "Skirts Composition":[
-            "100% Polyester"
-        ],
         "Skirts Length":[
             "Short",
             "Maxi"
         ],
-        "Skirts Lining":[
-            "100% Polyester"
-        ],
         "Skirts Material":[
             "Woven Fabric",
             "Organza"
-        ],
-        "Outerwear Sleeve Length":[
-            "Long Sleeve"
         ],
         "Outerwear Length":[
             "Crop",
@@ -1087,21 +895,6 @@ all = {
         "Gloves Composition":[
             "87% Polyamide, 13% Elastane",
             "88% Polyester, 12% Elastane"
-        ],
-        "Outerwear Lining":[
-            "100% Polyester"
-        ],
-        "Functional Type":[
-            "Belly Support"
-        ],
-        "Women Panties Material":[
-            "Fabric"
-        ],
-        "Women Panties Composition":[
-            "88% Polyester, 12% Elastane"
-        ],
-        "Tops Material":[
-            "Woven Fabric"
         ],
         "Tops Composition":[
             "100% Polyester",
