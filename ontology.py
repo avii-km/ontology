@@ -2295,16 +2295,6 @@ all = {
             "Regular Fit",
             "Oversized"
         ],
-        "Care Instructions":[
-            "Hand wash or professional dry clean",
-            "Machine wash or professional dry clean",
-            "Hand wash,do not dry clean",
-            "Do not wash",
-            "Damp wipe only",
-            "Machine wash, do not dry clean,wash with the soft detergent",
-            "Dry clean or Hand wash",
-            "Machine wash, do not dry clean"
-        ],
         "Length":[
             "Regular length",
             "Long",
@@ -2489,23 +2479,9 @@ all = {
             "Yes",
             "No Padding"
         ],
-        "Lining":[
-            "95% Polyester, 5% Spandex",
-            "80% Polyester, 20% Cotton",
-            "100% Polyester",
-            "100% Cotton",
-            "95% Polyester, 5% Elastane"
-        ],
         "Belt":[
             "Yes",
             "No"
-        ],
-        "Coating":[
-            "100% Polyester",
-            "100% Polyurethane"
-        ],
-        "Temperature":[
-            "Spring/Fall (18-25℃/63-77℉)"
         ],
         "Special Features":[
             "Recycled Material"
@@ -2515,17 +2491,10 @@ all = {
             "Long Sleeve, Long Sleeve",
             "Short Sleeve, Short Sleeve"
         ],
+        
         "Tops Material":[
             "Woven Fabric",
             "Woven Fabric, Woven Fabric"
-        ],
-        "Tops Composition":[
-            "100% Polyester",
-            "85% Viscose, 15% Linen, 85% Viscose, 15% Linen",
-            "100% Cotton, 100% Cotton",
-            "53% Viscose, 33% Polyester, 14% Polyamide, 53% Viscose, 33% Polyester, 14% Polyamide",
-            "40% Polyester, 35% Viscose, 25% Linen, 40% Polyester, 35% Viscose, 25% Linen",
-            "100% Polyester, 100% Polyester"
         ],
         "Tops Length":[
             "Regular",
@@ -2640,47 +2609,6 @@ all = {
             "H&M Premium Selection",
             "Padded"
         ],
-        "Care instructions":[
-            "Only non-chlorine bleach when needed, Medium iron, Machine wash cool, Wash with like colors, Tumble dry low, Can be dry cleaned",
-            "Only non-chlorine bleach when needed, Not washable, Line dry, Can be dry cleaned, Low iron",
-            "Only non-chlorine bleach when needed, Machine wash cool, Wash with like colors, High iron, Line dry, Can be dry cleaned",
-            "Only non-chlorine bleach when needed, Medium iron, Machine wash cool, Dry flat, Can be dry cleaned",
-            "Only non-chlorine bleach when needed, Medium iron, Not washable, Line dry, Can be dry cleaned",
-            "Only non-chlorine bleach when needed, Iron when damp, Machine wash cold, High iron, Line dry, Can be dry cleaned",
-            "Only non-chlorine bleach when needed, Machine wash cool, Line dry, Can be dry cleaned, Low iron",
-            "Only non-chlorine bleach when needed, Medium iron, Machine wash cool, Tumble dry low, Can be dry cleaned",
-            "Only non-chlorine bleach when needed, No dry clean, No iron, Line dry, Wash inside out, Use a laundry bag, Machine wash cold",
-            "Only non-chlorine bleach when needed, Machine wash cool, Wash with like colors, Line dry, Can be dry cleaned, Low iron",
-            "Tumble dry medium, Only non-chlorine bleach when needed, Medium iron, Machine wash cold, Can be dry cleaned",
-            "Only non-chlorine bleach when needed, Use a laundry bag, Machine wash cold, Line dry, Can be dry cleaned, Low iron",
-            "Only non-chlorine bleach when needed, Medium iron, Machine wash cool, Line dry, Can be dry cleaned",
-            "Only non-chlorine bleach when needed, Machine wash cold, Wash with like colors, High iron, Line dry, Can be dry cleaned",
-            "Only non-chlorine bleach when needed, Medium iron, Machine wash cold, Line dry, Can be dry cleaned",
-            "Machine wash cool",
-            "Only non-chlorine bleach when needed, Medium iron, Machine wash cold, Line dry, Use mild detergent, Can be dry cleaned",
-            "Only non-chlorine bleach when needed, Medium iron, Machine wash cool, Wash with like colors, Line dry, Can be dry cleaned",
-            "Only non-chlorine bleach when needed, Medium iron, Machine wash cool, Line dry, Can be dry cleaned, Use a laundry bag, Wash with like colors",
-            "Only non-chlorine bleach when needed, Machine wash cold, Dry flat, Can be dry cleaned, Low iron",
-            "Only non-chlorine bleach when needed, Use a laundry bag, Medium iron, Machine wash cool, Line dry, Can be dry cleaned",
-            "Tumble dry medium, Only non-chlorine bleach when needed, Medium iron, Machine wash cool, Can be dry cleaned",
-            "Tumble dry medium, Only non-chlorine bleach when needed, Machine wash cool, High iron, Can be dry cleaned",
-            "Only non-chlorine bleach when needed, Machine wash cold, Line dry, Can be dry cleaned, Low iron"
-        ],
-        "Collection":[
-            "H&M ATELIER",
-            "A/W 2024",
-            "HOLIDAY 2024"
-        ],
-        "Additional material information":[
-            "The total weight of this product contains 20% Recycled cotton We exclude the weight of minor components such as, but not exclusively: threads, buttons, zippers, embellishments and prints.The total weight of the product is calculated by adding the weight of all layers and main components together. Based on that, we calculate how much of that weight is made out by each material. For sets and multipacks, all pieces are counted together as one product in calculations.",
-            "The total weight of this product contains 65% Recycled polyester We exclude the weight of minor components such as, but not exclusively: threads, buttons, zippers, embellishments and prints.The total weight of the product is calculated by adding the weight of all layers and main components together. Based on that, we calculate how much of that weight is made out by each material. For sets and multipacks, all pieces are counted together as one product in calculations.",
-            "The total weight of this product contains 17% Recycled polyester We exclude the weight of minor components such as, but not exclusively: threads, buttons, zippers, embellishments and prints.The total weight of the product is calculated by adding the weight of all layers and main components together. Based on that, we calculate how much of that weight is made out by each material. For sets and multipacks, all pieces are counted together as one product in calculations.",
-            "The total weight of this product contains 15% Recycled polyester We exclude the weight of minor components such as, but not exclusively: threads, buttons, zippers, embellishments and prints.The total weight of the product is calculated by adding the weight of all layers and main components together. Based on that, we calculate how much of that weight is made out by each material. For sets and multipacks, all pieces are counted together as one product in calculations.",
-            "The total weight of this product contains 34% Recycled polyester We exclude the weight of minor components such as, but not exclusively: threads, buttons, zippers, embellishments and prints.The total weight of the product is calculated by adding the weight of all layers and main components together. Based on that, we calculate how much of that weight is made out by each material. For sets and multipacks, all pieces are counted together as one product in calculations.",
-            "The total weight of this product contains 64% Recycled polyester We exclude the weight of minor components such as, but not exclusively: threads, buttons, zippers, embellishments and prints.The total weight of the product is calculated by adding the weight of all layers and main components together. Based on that, we calculate how much of that weight is made out by each material. For sets and multipacks, all pieces are counted together as one product in calculations.",
-            "The total weight of this product contains 28% Tencel™ lyocell We exclude the weight of minor components such as, but not exclusively: threads, buttons, zippers, embellishments and prints.The total weight of the product is calculated by adding the weight of all layers and main components together. Based on that, we calculate how much of that weight is made out by each material. For sets and multipacks, all pieces are counted together as one product in calculations.",
-            "The total weight of this product contains 98% Recycled polyester We exclude the weight of minor components such as, but not exclusively: threads, buttons, zippers, embellishments and prints.The total weight of the product is calculated by adding the weight of all layers and main components together. Based on that, we calculate how much of that weight is made out by each material. For sets and multipacks, all pieces are counted together as one product in calculations."
-        ]
     },
     "Sneakers": {
             "Sole Material": [
@@ -2865,7 +2793,7 @@ all = {
                 "Long"
             ] # imp
         }
-    'cabinet': {
+    "cabinet": {
         "Cabinet Color": [
             "Red",
             "Silver",
@@ -2912,10 +2840,10 @@ all = {
             "Mirror Included"
         ]
     },
-    'Basin': {
+    "Basin": {
         'ht', 'wid', 'dep', 'len'
     },
-    'sink': {
+    "sink": {
         "Sink Color": [
             "Silver",
             "Brown",
@@ -2962,7 +2890,7 @@ all = {
             "Square"
         ],
     },
-    'mirror': {
+    "mirror": {
         "Mirror Features": [
             "No Mirror Features",
             "Lighted",
