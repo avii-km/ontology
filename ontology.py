@@ -2812,7 +2812,7 @@ all = {
         ]
     },
     "Sneakers": {
-        "Sole Material": [
+            "Sole Material": [
                 "TPR",
                 "Resin",
                 "PU",
@@ -2825,7 +2825,7 @@ all = {
                 "Leather",
                 "Tunit"
             ], # imp
-        "Pattern": [
+            "Pattern": [
                 "Perforations",
                 "Striped",
                 "Textured",
@@ -2834,20 +2834,20 @@ all = {
                 "Colourblocked",
                 "Solid"
             ], # imp
-        "Toe Shape": [
+            "Toe Shape": [
                 "Pointed Toe",
                 "Round Toe",
                 "Square Toe"
             ],
-        "Occasion": [
+            "Occasion": [
                 "Evening",
                 "Everyday",
                 "Smart Casual",
                 "Party",
                 "Ethnic"
             ], # imp
-        "Material & Care": "fix", # name chg
-        "Micro Trend": [
+            "Material & Care": "fix", # name chg
+            "Micro Trend": [
                 "Unlined Leather",
                 "Metallic",
                 "Lace-Up Espadrilles",
@@ -2866,7 +2866,7 @@ all = {
                 "Penny Loafers",
                 "Half Brogues"
             ], # name chg
-        "Material": [
+            "Material": [
                 "Textile",
                 "Mesh",
                 "Synthetic Suede",
@@ -2883,7 +2883,7 @@ all = {
                 "Canvas",
                 "Leather"
             ], # imp
-        "Insole": [
+            "Insole": [
                 "Padded",
                 "EVA or Rubber",
                 "Comfort Insole",
@@ -2893,7 +2893,7 @@ all = {
                 "Leather",
                 "Support Insole"
             ], # imp
-        "Type": [
+            "Type": [
                 "Loafers",
                 "Sneakers",
                 "Derbys",
@@ -2902,31 +2902,30 @@ all = {
                 "Winter Boots",
                 "Driving Shoes"
             ], # imp
-        "Fastening": [
+            "Fastening": [
                 "Buckle",
                 "Zip",
                 "Slip-On",
                 "Lace-Ups",
                 "Velcro"
             ],
-        "seller_name": "fix",
-        "Shoe Width": [
+            "seller_name": "fix",
+            "Shoe Width": [
                 "Regular",
                 "Narrow",
                 "Wide"
             ], # name chg
-        "Ankle Height": [
+            "Ankle Height": [
                 "Regular",
                 "High-Top",
                 "Mid-Top"
             ], # name chg
-        "Sustainable": [
+            "Sustainable": [
                 "Regular",
                 "Sustainable"
             ],
-           
-        "Package Contains": "fix",
-        "Ornamentation": [
+            "Package Contains": "fix",
+            "Ornamentation": [
                 "Western - Embellished",
                 "Buckles",
                 "Bows",
@@ -2936,7 +2935,7 @@ all = {
                 "Ethnic - Embellished",
                 "Other"
             ],
-        "Technology": [
+            "Technology": [
                 "Latex Lined",
                 "Antibacterial",
                 "Massage Footbed",
@@ -2950,8 +2949,8 @@ all = {
                 "Water Repellent Upper",
                 "Lightweight"
             ],
-        "Collection Name": "fix",
-        "Character": [
+            "Collection Name": "fix",
+            "Character": [
                 "Punisher",
                 "Star Wars",
                 "Joker",
@@ -2966,35 +2965,35 @@ all = {
                 "Angry Birds",
                 "Avengers"
             ],
-        "Complete The Look": "fix",
-        "Cushioning": [
+            "Complete The Look": "fix",
+            "Cushioning": [
                 "Medium",
                 "Low",
                 "High"
             ],
-        "Sport": [
+            "Sport": [
                 "Tennis",
                 "Running",
                 "Walking"
             ],
-        "Cleats": [
+            "Cleats": [
                 "No Cleats"
             ],
-        "Outsole Type": [
+            "Outsole Type": [
                 "Marking"
             ],
-        "Surface Type": [
+            "Surface Type": [
                 "Outdoor",
                 "All-Rounder"
             ],  # name chg
-        "Heel Type": [
+            "Heel Type": [
                 "Platform"
             ], # imp
-        "Distance": [
+            "Distance": [
                 "Medium",
                 "Long"
             ] # imp
-    }
+        }
     'cabinet': {
         "Cabinet Color": [
             "Red",

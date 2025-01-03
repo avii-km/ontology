@@ -113,7 +113,6 @@
                 "Regular",
                 "Sustainable"
             ],
-           
             "Package Contains": "fix",
             "Ornamentation": [
                 "Western - Embellished",
