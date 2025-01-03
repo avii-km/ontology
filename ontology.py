@@ -831,28 +831,6 @@ all = {
     } # extract by dresses
     "Earrings":{
         "Size & Fit":"fix",
-        "Details & Care":[
-            "Butterfly fastening for pierced ears, This piece has been certified in accordance with the Hallmarking Act 1973",
-            "Butterfly fastening for pierced ears",
-            "Post and clip fastening for pierced ears, Comes in a presentation box",
-            "Butterfly fastening for pierced ears, Freshwater pearls: China, This piece has been certified in accordance with the Hallmarking Act 1973",
-            "White topaz, Butterfly fastening for pierced ears",
-            "Post fastening for pierced ears",
-            "Bell-back fastening for pierced ears, Come with dust bag and presentation box",
-            "Butterfly fastening for pierced ears, Freshwater pearls: China",
-            "Butterly fastening for pierced ears, This piece has been certified in accordance with the Hallmarking Act 1973",
-            "Clip fastening",
-            "Bell-back fastenings for pierced ears",
-            "Post and clasp fastening for pierced ears, This piece has been certified in accordance with the Hallmarking Act 1973",
-            "Post and clasp fastening for pierced ears",
-            "Bell-back fastening for pierced ears, Come with a dust bag",
-            "H-I SI2 diamonds, total weight: 0.095-carats, Butterfly fastening for pierced ears, This piece has been certified in accordance with the Hallmarking Act 1973",
-            "Bell-back fastening for pierced ears",
-            "Magnetic fastening, Come in a designer-stamped box",
-            "Bell-back fastening for pierced ears, Comes with a dust bag",
-            "Bell fastening for pierced ears",
-            "Butterfly fastening for pierced ears, Freshwater pearl: China"
-        ],
         "Shape":[
             "Dome Shaped",
             "Crescent Shaped",
@@ -881,21 +859,6 @@ all = {
             "Post and Back",
             "Insert",
             "Lever Back"
-        ],
-        "Multipack Set":[
-            "2",
-            "7",
-            "36",
-            "10",
-            "12",
-            "6",
-            "4",
-            "9",
-            "30",
-            "8",
-            "Single",
-            "5",
-            "3"
         ],
         "Occasion":[
             "Western",
@@ -960,16 +923,7 @@ all = {
         "Sustainable":[
             "Regular",
             "Sustainable"
-        ],
-        "Number of Items":[
-            "2",
-            "7",
-            "1",
-            "6",
-            "4",
-            "5",
-            "3"
-        ],
+        ],     
         "Stone Type":[
             "Coral",
             "Aquamarine",
@@ -994,14 +948,7 @@ all = {
             "Crystals",
             "Artificial Stones and Beads",
             "Zircon"
-        ],
-        "Warranty":[
-            "Lifetime",
-            "2 years",
-            "6 months",
-            "1 year",
-            "1 month"
-        ]
+        ],   
     },
     "Jeans":{
         "Composition":"fix",
