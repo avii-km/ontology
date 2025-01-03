@@ -8,7 +8,7 @@
         "Earrings": {}, # ✅
         "Jeans": {},
         "Saree": {}, # ✅
-        "shirts": {},
+        "shirts": {}, # ✅
         "Sneakers": {}, # ✅
         "Watches": {} # ✅
         "kurties" : {} # only single attribute is present
