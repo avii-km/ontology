@@ -7,7 +7,7 @@
         "Dresses": {},
         "Earrings": {}, // ✅
         "Jeans": {},
-        "Saree": {},
+        "Saree": {}, // ✅
         "shirts": {},
         "Sneakers": {},
         "Watches": {} // ✅
