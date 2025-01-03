@@ -3531,11 +3531,10 @@ all = {
             "Date-Moon Phase",
             "Day"
         ],
-        "Date First Available":"fix",
+        "Date First Available":"fix", # what it means
         "Part Number":"fix",
-        "Band Colour":"fix",
-        "ASIN":"fix",
-        "Dial Colour":"fix",
+        "Band Colour":"fix", # must add
+        "ASIN":"fix", # whats this
         "Product Dimensions":"fix",
         "Bezel Function":[
             "226_hour_time_display",
@@ -3626,7 +3625,7 @@ all = {
             "Black"
         ],
         "Special Features":"fix",
-        "Case Thickness":"fix",
+        "Case Thickness":"fix", # must add
         "Department":[
             "Womens",
             "Unisex Kids",
@@ -3679,90 +3678,7 @@ all = {
             "Analog-Digital",
             "Pointer type"
         ],
-        "Warranty Type":[
-            "6 MONTH",
-            "Contact Seller of Record",
-            "Limited",
-            "Manufacturer",
-            "NO",
-            "VAIDEHI ENTERPRISE",
-            "no",
-            "1 year",
-            "1 Year Warranty",
-            "1 Years Warranty",
-            "Lifetime",
-            "1 YEAR",
-            "Al-Huda Fashions",
-            "Generic",
-            "6 Months Warranty",
-            "No warranty",
-            "manufacturer",
-            "Standard",
-            "Warranty Covered manufacturing defect",
-            "Manufacture",
-            "Off Site",
-            "6 Months",
-            "6 warranty",
-            "No Warraty",
-            "6 Month",
-            "Extended",
-            "6 month",
-            "No",
-            "12 Months Warranty",
-            "6 month warranty",
-            "3 months service warranty",
-            "No Warranty"
-        ],
-        "Manufacturer":"fix",
-        "Net Quantity":[
-            "1.00 Unit",
-            "5.0 Grams",
-            "1.00 count",
-            "2.00 2",
-            "150.00 gram",
-            "1.0 1",
-            "2 Piece",
-            "2.00 count",
-            "6 count",
-            "1.00 Milliliters",
-            "1.00 CM",
-            "150.0 gram",
-            "3.00 count",
-            "2.00 Set",
-            "5.00 count",
-            "2.00 Piece",
-            "2 Count",
-            "50.00 gram",
-            "2.0 Pack",
-            "1.0 Count",
-            "4 count",
-            "1.0 count",
-            "1.00 Count",
-            "4.00 count",
-            "1.00 1",
-            "1.00 Uunit",
-            "5 Piece",
-            "1 count",
-            "1.00 Set",
-            "1 Count",
-            "2.0 Piece",
-            "1.00 Pack",
-            "200.00 gram",
-            "1.00 Piece",
-            "200 gram",
-            "3 count",
-            "1.0 Pack",
-            "2.0 count",
-            "1.00 unit",
-            "12.00 1",
-            "2 count",
-            "1 Piece",
-            "4.00 Piece",
-            "500 Grams",
-            "50.0 millilitre",
-            "1.0 Piece",
-            "100.00 gram"
-        ],
+        "Manufacturer":"fix", # must add
         "Case Material":[
             "Gold-tone Metal",
             "Resin",
@@ -3811,108 +3727,7 @@ all = {
             "Palladium",
             "TR90",
             "Polycarbonate"
-        ],
-        "Importer":[
-            "Poonam Panwar",
-            "<p>Fossil India Pvt. Ltd. <br> Khata Khatoni No-147/150 Min, Khasra No-190/3 &188,191, Village-Tipra, Barotiwala, Tehsil Baddi, District Solan (H.P) - 174103<br> </p>",
-            "Secure Space",
-            "Vardhman Marketing",
-            "Ayan Enterprises",
-            "ECONETING E-COMMERCE PRIVATE LIMITED PLOT NO- 93-94, UTTAM NAGAR, New Delhi South West Delhi DELHI 印度 110059 +8619902914838",
-            "Timeland",
-            "M.P Enterprise, Office No. 1, 2nd Floor, Aman Chambers, Opera House, 113 Mama Parmanand Marg, Charni Road East, Mumbai - 400 004",
-            "Watches of Switzerland, 36-G, Heera Panna Arcade, Haji Ali, Mumbai 400026, India, Telephone No: (91-22) 614 63 838",
-            "Motu Gaju,307,Crystal plaza,silver chowk,surat-395010,Email-motugaju@gmail.com,India",
-            "Carlington india | 8100323453 | support@carlington.in",
-            "TERA 13",
-            "AE",
-            "Caveman Projects, New Delhi - 70, Phone number - 9315467443",
-            "Bizotico, 3rd Floor, RT Nagar Main Road, Bangalore, India - 560032. Customer Care -7711889191",
-            "ETHOS Ltd, Plot No. 359, Ground Floor, Udyog Vihar-2, Gurgaon-120015",
-            "TIME UP WATCHES",
-            "FEMEO",
-            "Anjaneya Solutions",
-            "Caveman Projects, Vasant Kunj, New Delhi -70",
-            "KAJAL. ENTERPRISE.",
-            "Titan Company Limited, #3, SIPCOT Industrial Complex, Hosur - 635126, Tamil Nadu",
-            "Designer World Brands LLP",
-            "Progressive Lifestyles Pvt Ltd. Plot No 18 Phase -2 Industrial Area. Panchkula Haryana -134113",
-            "‎ Brandzstorm India Marketing Private Limited 305-HUBTOWN SOLARIS.N.S.PHADKE MARG, NEAR, EAST-WEST FLYOVER, Andheri East, Mumbai, Maharashtra 400069",
-            "MUKTESHWARPURI ENTERPRISE LLP",
-            "Timex Group India Limited, Plot No. 10, Industrial Area- Katha, Bhatoli Kalan, Baddi, Himachal Pradesh – 173205",
-            "ATTAR",
-            "TAMAVI",
-            "Godrej & Boyce Mfg. Co. Ltd.",
-            "YHMEI WATCH,Email:Jkindia247@gmail.com",
-            "Imported By - Timex Group India Limited, Plot No. 10, Industrial Area- Katha, Bhatoli Kalan, Baddi, Himachal Pradesh – 173205",
-            "P.A TIME INDUSTRIES UNIT II KASAULI ROAD DHARAMPUR SOLAN HP 173209 INDIA",
-            "Approved Club LLP, 36-G, Heera Panna Arcade, Haji Ali, Mumbai 400026, India, Telephone No: (91-22) 614 63 838",
-            "Motu Gaju,307,crystal plaza,silver chowk,surat-395010,Email-Motu Gajuwatches@gmail.com,India",
-            "Victorinox India Pvt Ltd, 022-6262-8888",
-            "TONSY WATCHES TRADER VT LTD",
-            "Designer World Brands LLP.F1-4, Pinnacle Business Park, First Floor, Next to Ahura Centre, Mahakali Caves Road, Andheri East. Mumbai - 400093.",
-            "MGI DISTRIBUTION PRIVATE LIMITED, #210/2, ‘TERRATANA’ 2nd Floor, Upper Palace Orchards, Bellary Road Sadashiva Nagar Bengaluru 560143",
-            "SuperSpring Ventures Pvt. Ltd., 705, Ecstasy Business Park, Citi of Joy, J.S.D. Road, Mulund (W), Mumbai - 400080. Customer Care No. 890 965 4444",
-            "Made In India",
-            "Britime",
-            "IMPORTREND",
-            "Imported By: Plot No. 10, Industrial Area- Katha, Bhatoli Kalan, Baddi, Himachal Pradesh – 173205",
-            "YES Enterprise",
-            "Hamster london",
-            "#3, SIPCOT Industrial Complex, Hosur - 635126, Tamil Nadu",
-            "P.A TIME INDUSTRIES UNIT II KASAULI ROAD DHARAMPUR SOLAN 173209 HP INDIA",
-            "DESIGNER PROGRESSIVE INDIA LLP, First Floor, PLOT NO.18, INDUSTRIAL AREA, PHASE-II, Panchkula, Haryana, 134113, India",
-            "Raspberry",
-            "nyalkaran.creation3888@gmail.com",
-            "Carlson Raulen",
-            "AAPXI",
-            "Imported By - Casio India Co Pvt Ltd, A-41, 1st Floor, MCIE, Mathura Road, New Delhi-110044",
-            "Progressive Lifestyles Pvt Ltd. Plot No 18 Phase 2 Panchkula, Haryana - 134113 India",
-            "Time Master Watches and Accessories Pvt. Ltd.",
-            "Hunnenweg 4 P.O. BOX 4503 Solothum, Switzerland",
-            "Approved Club LLP 36-G, Heera Panna Arcade, Haji Ali, Mumbai 400026, India, Telephone No: (91-22) 614 63 838",
-            "ILG INDIA FASHION LLP, Pinnacle Business Park, S7-9 7th floor, next to Ahura Center, Mahakali caves Road, Andheri east, mumbai - 400093",
-            "Importrend",
-            "shelvellon@gmail.com",
-            "SUDHIRYADAV ENTERPRISE LLP, sudhiryadaventpdelhi@gmail.com (9355379488)",
-            "DHWANI ENTERPRISE",
-            "The Shopoholic,307,Crystal Plaza,Surat-395010,Email-khatrionline27@gmail.com",
-            "Brandzstorm India Marketing PVT LTD, 305, 3rd Floor, Hubtown Solaris, N.S. Phadke Marg, Near East West Flyover, Andheri East, Mumbai-400069.",
-            "Azon India",
-            "amazonglobal222@gmail.com",
-            "SSKR, ANDHRA PRADESH",
-            "squirro watches",
-            "Motu Gaju,Email-motugaju@gmail.com,Addres-307,crystal plaza,silver chowk,surat-395010,India",
-            "Manvik Creation, Delhi",
-            "RS ENTERPRISES, House No. 05, Block No. 36, Trilok Puri Delhi - 110091, Contact No. 9582320531, Email - rizwanahmed2504@gmail.com",
-            "OHHO WATCH PVT.LTD.GUJARAT",
-            "Chumbak Design Pvt. Ltd., 520, CMH Road, Indiranagar, 1st Stage, Near ICICI Bank, Bangalore - 560038",
-            "ACES Timeless PTE Ltd, 28 Kallang Place Singapore 339158",
-            "vr womens watches",
-            "SUDHIRYADAV DECO WORLD FURNISHINGS LLP,, Customer Care : (+91-7291860014),sdecor.world080@gmail.com",
-            "ILG INDIA FASHION LLP, Pinnacle Business Park, S7-9, 7th floor,Mahakali caves Road, Andheri east, mumbai - 400093",
-            "SuperSpring Ventures Pvt. Ltd. 705, Ecstasy Business Park, Citi of Joy, J.S.D. Road, Mulund (W), Mumbai - 400080. Customer Care No. 890 965 4444",
-            "ANANYA SHOP (ROSEFAIR) GUJARAT CONTACT,ananyashop1392020@gmail.com",
-            "Atomics, SJ Complex, Town Railway Station Road, Palakkad",
-            "Mahi Traders",
-            "Timex Group India Limited, Plot No. 10, Industrial Area- Katha, Bhatoli Kalan, Baddi, Himachal Pradesh - 173205",
-            "MGI Distribution Pvt Ltd.210/2 Bellary road, sadashiv nagar 2nd floor upper Palace Orchards Bengalure- 560080",
-            "LUOLINGONGJUE",
-            "Nalini Shubhra Enterprises",
-            "Designer World Brand LLP",
-            "Motu Gaju,Email-motugaju@gmail.com,Address-307,crystal plaza,silver chowk,surat-395010,India",
-            "NIBOSI 000",
-            "Designer Progressive India LLP, PLOT NO 18 INDUSTRIAL AREA PHASE - 2, PANCHKULA ( HARYANA)-134113",
-            "Guangzhou",
-            "Watches of Switzerland , 36-G , Heera Panna Arcade, Haji ali- 400026",
-            "Titan Company Limited, Sipcot Industrial Complex, Hosur, Tamil Nadu - 635129",
-            "Designer World Brands LLP, Mumbai India",
-            "Seiko Watch India Pvt Ltd, 874, Temple Vista Ground Floor, Indiranagar, Bangalore",
-            "INDIA",
-            "ABC DELHI",
-            "Imported by:- Timex Group India Limited, Plot No. 10, Industrial Area- Katha, Bhatoli Kalan, Baddi, Himachal Pradesh – 173205",
-            "Atomics, SJ Complex, Railway station road, Palakkad, Kerala, India"
-        ],
+        ], # cut short + name chg - case
         "Crystal Material":[
             "Resin",
             "Tempered Glass",
@@ -3963,107 +3778,6 @@ all = {
             "Swiss Quartz",
             "No"
         ],
-        "Warranty":[
-            "3 Years",
-            "5 years",
-            "2 Years",
-            "2 Years International Warranty",
-            "7 Years",
-            "5 Years",
-            "6 Months",
-            "2 years",
-            "If this product is sold by Amazon, please review the manufacturers website for warranty information. If this product is sold by another party, please contact the seller directly for warranty information for this product. You may also be able to find warranty information on the manufacturers website.",
-            "6 months",
-            "4 Years",
-            "1 year",
-            "1 Year"
-        ],
-        "Item model number":"fix",
-        "Model Number":"fix",
-        "Generic Name":[
-            "Perfume - Eau De Parfum",
-            "Men Watch",
-            "Unisex Wrist Watch",
-            "Fashion Bracelet Watch",
-            "watch for kids boys",
-            "Sport Watch",
-            "WOMEN WATCH",
-            "Watches",
-            "Sports::Formal::Party-Wedding::Casual",
-            "Casual Watch ,Modern Watch , Stylish Watch ,Wrist Watch",
-            "Watches for Men",
-            "Casual",
-            "New Stylish Analog Watch For Men",
-            "Running Watch",
-            "sport watch",
-            "Mult Dial Watch",
-            "girls bracelet watch band",
-            "Casual Watch party, Wedding Celebrate.",
-            "Camping Watch",
-            "Ck_PURPLE",
-            "Date Display Watch",
-            "Casual::Formal",
-            "casual watch",
-            "Running Watch Casual Watch",
-            "Sports::Casual::Party-Wedding::Formal",
-            "Women Small Gold Watch",
-            "2 tone 9151 DLX Golden",
-            "watches",
-            "Sports::Casual::Formal::Party-Wedding",
-            "WATCH",
-            "Sports",
-            "Watch,Fashion,Kids",
-            "Smart Watch",
-            "Watch Repair Kit",
-            "Sports::Casual",
-            "Hybrid",
-            "Analog Wrist Watch",
-            "Casual::Formal::Party-Wedding",
-            "Wrist Watch",
-            "Casual::Sports",
-            "Women Gold Watch",
-            "Womens Wrist Watch Combo",
-            "Casual Watch",
-            "Analogue Sport Watch",
-            "Rings",
-            "Digital Sports Stylish Multi Functional Watch",
-            "Mens Sports Watches",
-            "kids watch",
-            "Bracelet Watch",
-            "DRW030_Pink",
-            "Men Women Pair Watch",
-            "Wristwatch",
-            "Sports::Formal::Casual",
-            "Pocket Watch",
-            "Watches Parts & Accessories",
-            "portableelectronicdevicecover",
-            "Casual::Sports::Formal",
-            "Sports::Party-Wedding::Casual",
-            "Ring Watch",
-            "c cup",
-            "Cartoon Watch",
-            "Bracelet",
-            "Watch, Sport Watch",
-            "Automatic Watch",
-            "Analog Watch",
-            "Touchscreen",
-            "Classic Watch for Men",
-            "Jewelry Ser Gift",
-            "Dress Watch",
-            "Jelly",
-            "Analog",
-            "Wristwatches",
-            "Wrist Watches",
-            "Casual Watch, Formal Watch, Party Wear Watch",
-            "Casual::Formal::Party-Wedding::Sports",
-            "Ladies Watches",
-            "watch",
-            "Analog Watch with Date Function",
-            "Womens Watch",
-            "Party Watch",
-            "watch for men",
-            "Watch"
-        ],
         "Band size":[
             "Womens",
             "Children Standard",
@@ -4100,10 +3814,9 @@ all = {
             "20mm",
             "1.4",
             "Women"
-        ],
-        "Packer":"fix",
-        "Case Diameter":"fix",
-        "Brand":"fix",
+        ], # need fix
+        "Case Diameter":"fix", # must add
+        "Brand":"fix", # must add
         "Case Shape":[
             "Rectangle",
             "Round",
@@ -4302,25 +4015,6 @@ all = {
             "Foldover Clasp",
             "Butterfly double snap button"
         ],
-        "Band Width":"fix",
-        "Item Dimensions LxWxH":"fix",
-        "Country of Origin":[
-            "Hong Kong",
-            "France",
-            "Japan",
-            "Switzerland",
-            "USA",
-            "Germany",
-            "Thailand",
-            "China",
-            "Philippines",
-            "India",
-            "United Arab Emirates",
-            "Hong Kong Sar China",
-            "Singapore",
-            "Italy"
-        ],
-        "Item Weight":"fix",
         "Included Components":[
             "Resin",
             "Warranty Card, Watch",
@@ -4373,50 +4067,7 @@ all = {
             "Watch, Bangle",
             "silicon slap band bracelet",
             "Watch"
-        ],
-        "Water Resistance Depth":[
-            "100 Feet",
-            "10 Feet",
-            "40 Meters",
-            "36 Meters",
-            "30 Meters",
-            "IP68",
-            "20 Meters",
-            "5 Meters",
-            "50 Feet",
-            "10 Centimeters",
-            "15 Meters",
-            "50 Millimeters",
-            "50 Meters",
-            "30.00 Centimeters",
-            "30 Metres",
-            "IP67",
-            "0.1 Meters",
-            "20 Feet",
-            "1 Feet",
-            "0.5 Meters",
-            "15 Feet",
-            "30 Millimeters",
-            "0.1 Feet",
-            "200 Meters",
-            "1.00 Feet",
-            "10 Meters",
-            "47 Meters",
-            "1 Meters",
-            "0.75 Meters",
-            "330 Meters",
-            "50 Metres",
-            "3 Feet",
-            "30 Feet",
-            "100 Meters",
-            "2 Meters",
-            "3 Meters"
-        ],
-        "Warranty Description":"fix",
-        "Is Discontinued By Manufacturer":[
-            "No",
-            "Yes"
-        ],
+        ], # may remove
         "Collection":[
             "Hip-hop",
             "Commodore",
@@ -4487,109 +4138,7 @@ all = {
             "casual",
             "Pigalle",
             "Casual Wear"
-        ],
-        "Batteries":[
-            "1 Lithium Metal batteries required.",
-            "1 Lithium Metal batteries required. (included)",
-            "1 LR44 batteries required. (included)",
-            "1 LR44 batteries required.",
-            "2 A batteries required. (included)",
-            "1 AAA batteries required. (included)",
-            "1 A batteries required. (included)",
-            "2 Lithium Ion batteries required. (included)",
-            "1 Lithium Ion batteries required. (included)",
-            "1 Unknown batteries required.",
-            "2 Product Specific batteries required.",
-            "1 LR41 batteries required. (included)",
-            "1 Unknown batteries required. (included)",
-            "1 Product Specific batteries required.",
-            "1 Lithium Ion batteries required.",
-            "2 LR44 batteries required. (included)",
-            "1 Product Specific batteries required. (included)",
-            "1 Lithium Polymer batteries required. (included)",
-            "1 CR2 batteries required. (included)"
-        ],
-        "Package Dimensions":[
-            "15 x 13.6 x 7.8 cm; 470 g",
-            "10 x 7.7 x 7.2 cm; 150 g",
-            "11 x 8.1 x 7.7 cm; 200 g",
-            "20 x 15 x 6 cm; 180 g",
-            "1 x 0.9 x 0.7 cm; 0.25 g",
-            "11.8 x 8 x 7.6 cm; 310 g",
-            "26.29 x 10.49 x 1.7 cm; 68 g",
-            "10 x 10 x 10 cm; 400 g",
-            "14.99 x 13.21 x 7.62 cm; 360 g",
-            "10.9 x 8.4 x 7.2 cm; 215 g",
-            "16.51 x 11 x 4.39 cm; 110 g",
-            "8.6 x 8.4 x 8.4 cm; 120 g",
-            "1 x 1 x 1 cm; 300 g",
-            "8.61 x 6.91 x 2.39 cm; 50 g",
-            "9.1 x 9.1 x 7.2 cm; 80 g",
-            "12.9 x 9.2 x 5.7 cm; 90 g",
-            "12.5 x 12.5 x 8 cm; 98 g",
-            "15.24 x 10.16 x 10.16 cm; 453.59 g",
-            "8 x 6 x 3 cm; 200 g",
-            "26.7 x 6.2 x 1.7 cm; 41 g",
-            "10 x 10 x 10 cm; 250 g",
-            "10 x 10 x 7.6 cm; 180 g",
-            "8 x 7.9 x 7.01 cm; 97 g",
-            "15 x 15 x 15 cm; 300 g",
-            "10.6 x 10.2 x 8 cm; 240 g",
-            "7.9 x 7.8 x 7.7 cm; 60 g",
-            "11.4 x 11.1 x 7.2 cm; 69 g",
-            "18 x 16.6 x 8.2 cm; 230 g",
-            "17.78 x 10.16 x 5.08 cm; 90.72 g",
-            "18.1 x 12.1 x 8.3 cm; 240 g",
-            "10 x 10 x 9 cm; 70 g",
-            "9.53 x 7.62 x 7.62 cm; 226.8 g",
-            "16.7 x 16.3 x 8.2 cm; 210 g",
-            "5 x 5 x 5 cm; 200 g",
-            "10.1 x 7.8 x 7.2 cm; 150 g",
-            "18 x 8.2 x 0.5 cm; 15 g",
-            "9.14 x 6.1 x 4.83 cm; 70 g",
-            "9.19 x 8.99 x 7.29 cm; 250 g",
-            "11.18 x 7.62 x 6.6 cm; 9 g",
-            "10.1 x 8.8 x 8.7 cm; 80 g",
-            "19.81 x 10.49 x 6.2 cm; 349 g",
-            "10 x 10 x 10 cm; 200 g",
-            "8.5 x 8 x 7.5 cm; 75 g",
-            "9.9 x 8.9 x 8.7 cm; 80 g",
-            "14.73 x 13.21 x 7.62 cm; 65 g",
-            "12 x 4 x 4 cm; 200 g",
-            "8.13 x 7.87 x 7.87 cm; 420 g",
-            "18 x 10 x 10 cm; 299 g",
-            "14 x 13 x 7 cm; 340 g",
-            "14.81 x 13.49 x 7.7 cm; 340 g",
-            "26.59 x 6.2 x 1.7 cm; 50 g",
-            "10.2 x 7.7 x 7.2 cm; 200 g",
-            "10 x 10 x 10 cm; 300 g",
-            "26.92 x 6.43 x 1.65 cm; 93.55 g",
-            "12 x 8 x 4 cm; 200 g",
-            "19.61 x 15.39 x 8.2 cm; 449 g",
-            "11.6 x 6.6 x 3 cm; 100 g",
-            "10.41 x 7.62 x 7.11 cm; 199.58 g",
-            "26.67 x 6.5 x 1.65 cm; 99.22 g",
-            "8 x 5 x 5 cm; 80 g",
-            "9.9 x 7.7 x 7.3 cm; 150 g",
-            "7.01 x 7.01 x 7.01 cm; 70 g",
-            "29 x 7.5 x 3.2 cm; 97 g",
-            "10 x 10 x 10 cm; 180 g",
-            "15 x 13.6 x 7.8 cm; 370 g",
-            "10 x 10 x 10 cm; 100 g",
-            "13 x 9 x 8 cm; 130 g",
-            "10.2 x 7.7 x 7.2 cm; 130 g",
-            "16 x 9 x 4 cm; 110 g",
-            "9.6 x 8.2 x 7.7 cm; 123 g",
-            "6 x 5 x 3 cm; 250 g",
-            "15 x 13.6 x 7.8 cm; 350 g",
-            "7.11 x 7.11 x 5.08 cm; 45.36 g",
-            "11 x 7.62 x 7.37 cm; 230 g",
-            "27.1 x 6.1 x 1.7 cm; 68 g",
-            "8.89 x 8.89 x 6.98 cm; 110 g",
-            "8.8 x 8.8 x 7.6 cm; 250 g",
-            "18 x 10 x 2 cm; 60 g",
-            "11 x 10.49 x 2.59 cm; 91 g"
-        ],
+        ], # imp
         "Shape":[
             "Round",
             "Rectangular",
@@ -4598,56 +4147,11 @@ all = {
             "Asymmetrical",
             "Square",
             "Oval"
-        ],
-        "Model Name":[
-            "Vintage Bead",
-            "LTIN76003289",
-            "Signature Butterfly",
-            "Chonograph",
-            "Skytraveller",
-            "Bejewelled",
-            "JACKSON",
-            "Cary",
-            "Square-Watch-5pc-Multicolor",
-            "PDS-616",
-            "Runner For Her",
-            "Tearose",
-            "BROOKS",
-            "Signature Square",
-            "Lustre",
-            "CHARTER",
-            "Watch",
-            "Wachet",
-            "Elliot",
-            "1502775",
-            "Classic Swirl",
-            "ULTRA01-WHITE",
-            "Odyssey Ii",
-            "Wristwatch",
-            "Grand Tour Ladies",
-            "ELLIOT",
-            "Lightwings Screen Guard for Hmt Janata Metallic Pink Dial Wrist Watch",
-            "Grand",
-            "Cass",
-            "KITT",
-            "Candor Auto",
-            "Avery",
-            "Coach Boyfriend",
-            "#Grail Skeleton",
-            "Smart Display Design Orange watch",
-            "Smartwatch",
-            "LED Watch",
-            "SMART LED BLACK + POWER LED PINK",
-            "Greyson",
-            "Pack2.Lighter.Watch",
-            "Classic Ii",
-            "TW048HL13",
-            "Radiant Sun"
-        ],
+        ], # imp
         "Age Range Description":[
             "Adult",
             "Kid"
-        ],
+        ], # imp
         "Product Features":[
             "Time Display",
             "Waterproof",
@@ -4657,16 +4161,14 @@ all = {
             "Lightweight"
         ],
         "Colour":[
-            "As Shown",
             "BLACK & PINK",
             "Black",
             "Orange",
             "BLACK",
-            "Multicolour,White",
             "Green",
             "Multicolor",
-            "Yellow Watch You Head"
-        ],
+            "Yellow "
+        ], # name chg
         "Brand Name":[
             "Wristflix",
             "Generic",
@@ -4675,49 +4177,34 @@ all = {
             "PIRASO",
             "ZOVUTA",
             "DOUBLERUN"
-        ],
+        ], # imp
         "Band Color":[
             "BLACK & PINK",
             "Black",
             "Multicolour",
             "black",
             "orange",
-            "white",
             "White",
             "Multicolor"
-        ],
-        "Case Material Type":[
-            "Plastic",
-            "rubber",
-            "Rubber",
-            "Metal",
-            "Silicone",
-            "brass"
-        ],
+        ], # imp
         "Box Contents":[
-            "nill",
             "Digital Watch",
             "Wristwatch",
             "LED WATCH",
-            "Watch"
-        ],
+        ], # name chg - watch type
         "Band Material Type":[
             "Rubber",
             "Silicone",
             "Plastic",
             "plastic"
-        ],
+        ], # imp
         "Target Audience":[
             "Unisex Kids",
             "Baby Boys, Boys, Baby Girls, Girls, Unisex Kids",
             "Unisex Teen",
             "Unisex Adult",
             "Men"
-        ],
-        "Style Name":[
-            "Modern",
-            "strap"
-        ],
+        ], # imp
         "Style":[
             "Modern",
             "strap",
@@ -4737,17 +4224,6 @@ all = {
             "Sliding Clasp",
             "Magnet Clasp"
         ],
-        "Item Dimensions":[
-            "8 x 8 x 4 Centimeters",
-            "7 x 6 x 6 Centimeters",
-            "22 x 2 x 1 Centimeters",
-            "10 x 10 x 5 Millimeters",
-            "12 x 8 x 5 Centimeters",
-            "35 x 19 x 40 Millimeters",
-            "10 x 10 x 150 Millimeters",
-            "10 x 10 x 5 Centimeters",
-            "10 x 10 x 10 Centimeters"
-        ],
         "Special Feature":[
             "Time Display",
             "Waterproof",
@@ -4759,165 +4235,18 @@ all = {
             "Sleep Monitoring, Shock Resistant, Heart Rate Monitor",
             "9H Surface Hardness, Scratch Resistant",
             "Lightweight"
-        ],
-        "Item part number":[
-            "CSQ-57",
-            "SM=WM=110=R.GOLD",
-            "SM-WM-56-GREEN",
-            "SDR71056325",
-            "PN-1353-Aug",
-            "L80070520",
-            "SM-WL-17-WHITE",
-            "SM-WM-113-R.GOLD",
-            "SM-WM-93-SILVER",
-            "1",
-            "6026C",
-            "SM-WM-106-R.GOLD",
-            "SM=WM=46=GREY",
-            "SM-WL-19-RED",
-            "K24507-KBKK",
-            "6609PIXIU",
-            "6030A",
-            "MC88",
-            "SM-WM-13-R.GOLD",
-            "DD",
-            "K24505-GBGB",
-            "FT-0047 BLK",
-            "SM-WM-76-BLACK",
-            "SM=WM=50=BLACK",
-            "159357456852",
-            "T24302-SSBB",
-            "K24508-RLHW",
-            "K24509-TBTW",
-            "SM=WM=120=B.SILVER",
-            "K24505-RBKW",
-            "d5d546g45fd465",
-            "RX8007",
-            "SM=WM-40-BLUE",
-            "RUI6",
-            "5201-3A",
-            "SM=WM=108=GOLD",
-            "K24507-TBTW",
-            "SM-WM-72-GREY",
-            "SAZD68040595",
-            "T24007-TBTN",
-            "L10290520",
-            "108",
-            "SM=WM=121=GREEN",
-            "SAZD68040578",
-            "SM-WM-70-BLUE",
-            "SM-WM-78-GREY",
-            "SM-WM-43-BLUE",
-            "K24510-SLBW",
-            "SM-WM-15-BLUE",
-            "HH1110",
-            "L10300520",
-            "K24506-RBKH",
-            "SM-WL-18-PURPLE",
-            "K24505-KBKP",
-            "L10210517",
-            "SM-WM-82-D.GREEN",
-            "SM-WM-117-B.GOLD",
-            "SM-WM-59-BLUE",
-            "101",
-            "SM-WM-52-SILVER",
-            "SM-WML-24-BLACK",
-            "DY0508-LRJ",
-            "SM-WM-73-GOLD",
-            "SM-WM-62-WHITE",
-            "SM-WM-29-BLACK",
-            "SM-WM-28-BLACK",
-            "K24510-RLNN",
-            "K24509-KBKH",
-            "SM-WM-60-BROWN",
-            "SM-WM-89-BLACK",
-            "SM=WM=116=B.SILVER",
-            "SM-WM-64-BLUE",
-            "KLJH456O",
-            "R0915",
-            "T24302-SSRB",
-            "SM-WM-34-ORANGE",
-            "K24507-RBKP",
-            "SM=WM=85=BLACK",
-            "SM-WML-26-GREY",
-            "SM-WM-94-BLUE",
-            "K24506-GBGW",
-            "SM-WM-71-R.GOLD",
-            "BZ_RE-WWBRE",
-            "T24007-SBSB",
-            "SM=WM=119=G.GREEN",
-            "HH659",
-            "001",
-            "SM=WM=111=GOLD",
-            "SM-WML-25-SKY",
-            "KLJ001"
-        ],
-        "Customer Reviews":[
-            "3.3 3.3 out of 5 stars 3 ratings",
-            "4.6 4.6 out of 5 stars 7 ratings",
-            "3.2 3.2 out of 5 stars 3 ratings 3.2 out of 5 stars",
-            "4.2 4.2 out of 5 stars 32 ratings 4.2 out of 5 stars",
-            "3.6 3.6 out of 5 stars 18 ratings",
-            "4.6 4.6 out of 5 stars 56 ratings",
-            "4.2 4.2 out of 5 stars 15 ratings",
-            "4.4 4.4 out of 5 stars 95 ratings",
-            "4.0 4.0 out of 5 stars 4 ratings",
-            "4.0 4.0 out of 5 stars 2 ratings",
-            "3.0 3.0 out of 5 stars 2 ratings",
-            "3.2 3.2 out of 5 stars 5 ratings",
-            "3.8 3.8 out of 5 stars 5 ratings 3.8 out of 5 stars",
-            "4.5 4.5 out of 5 stars 2 ratings 4.5 out of 5 stars",
-            "2.2 2.2 out of 5 stars 4 ratings",
-            "2.7 2.7 out of 5 stars 5 ratings",
-            "4.0 4.0 out of 5 stars 14 ratings",
-            "4.2 4.2 out of 5 stars 14 ratings",
-            "3.2 3.2 out of 5 stars 27 ratings",
-            "4.2 4.2 out of 5 stars 37 ratings 4.2 out of 5 stars",
-            "4.4 4.4 out of 5 stars 6 ratings",
-            "4.1 4.1 out of 5 stars 47 ratings",
-            "3.3 3.3 out of 5 stars 9 ratings",
-            "5.0 5.0 out of 5 stars 1 rating",
-            "3.3 3.3 out of 5 stars 14 ratings",
-            "3.0 3.0 out of 5 stars 7 ratings",
-            "4.3 4.3 out of 5 stars 49 ratings",
-            "3.0 3.0 out of 5 stars 1 rating",
-            "4.5 4.5 out of 5 stars 352 ratings",
-            "4.0 4.0 out of 5 stars 11 ratings",
-            "5.0 5.0 out of 5 stars 2 ratings",
-            "4.4 4.4 out of 5 stars 41 ratings",
-            "4.6 4.6 out of 5 stars 10 ratings",
-            "5.0 5.0 out of 5 stars 4 ratings",
-            "4.5 4.5 out of 5 stars 2 ratings",
-            "3.8 3.8 out of 5 stars 351 ratings",
-            "4.8 4.8 out of 5 stars 5 ratings",
-            "3.3 3.3 out of 5 stars 4 ratings",
-            "1.0 1.0 out of 5 stars 1 rating",
-            "4.1 4.1 out of 5 stars 153 ratings",
-            "4.7 4.7 out of 5 stars 21 ratings 4.7 out of 5 stars",
-            "3.4 3.4 out of 5 stars 14 ratings 3.4 out of 5 stars",
-            "3.9 3.9 out of 5 stars 6 ratings",
-            "4.7 4.7 out of 5 stars 4 ratings",
-            "4.4 4.4 out of 5 stars 33 ratings",
-            "3.4 3.4 out of 5 stars 11 ratings",
-            "5.0 5.0 out of 5 stars 3 ratings",
-            "3.8 3.8 out of 5 stars 15 ratings",
-            "4.4 4.4 out of 5 stars 852 ratings"
-        ],
+        ], # name chg
         "Metal":[
             "Stainless Steel Pu",
             "Stainless Steel",
             "Alloy",
             "PU Leather Alloy",
-            "No Metal Type"
         ],
         "Stone":[
             "Stainless Steel Pu",
-            "No Gemstone",
             "Stainless Steel",
-            "no gemstone",
             "Quartz",
             "Rhinestone",
-            "As Per Description"
         ],
         "Theme":[
             "Fashion",
@@ -4929,13 +4258,7 @@ all = {
             "Antique",
             "Classic",
             "strap"
-        ],
-        "Model Year":[
-            "2024",
-            "2023",
-            "2022",
-            "2012"
-        ],
+        ], # name chg
         "Power Source":[
             "Solar Powered",
             "Battery",
@@ -4951,61 +4274,6 @@ all = {
         "Batteries Required":[
             "Yes",
             "No"
-        ],
-        "Model":[
-            "14503980",
-            "MF03-G",
-            "1502756",
-            "ob24000151",
-            "1514155",
-            "1514186",
-            "PDS-616",
-            "mdl22",
-            "278",
-            "1514185",
-            "14504393",
-            "24000139",
-            "14503877",
-            "Wachet",
-            "252",
-            "28000353",
-            "mdl45",
-            "1514195",
-            "1502770",
-            "1514184",
-            "1530377",
-            "ULTRA01-WHITE",
-            "14504272",
-            "14503406",
-            "28000321",
-            "1502755",
-            "ob24000147",
-            "14503075",
-            "14504396",
-            "236",
-            "17046",
-            "14602713",
-            "14602705",
-            "28000346-D"
-        ],
-        "Shipping Weight":[
-            "0.28 Kilograms"
-        ],
-        "Color":[
-            "Brown",
-            "Multicolour"
-        ],
-        "Item Shape":[
-            "Dodecagonal"
-        ],
-        "Item Part Number":[
-            "1",
-            "ben 10 bul"
-        ],
-        "Battery Type":[
-            "Lithium Polymer",
-            "The battery is very good and new condition having good life",
-            "Lithium Ion"
         ],
         "Strap Material":[
             "Fabric",
@@ -5031,12 +4299,6 @@ all = {
             "Sapphire Crystal",
             "Acrylic"
         ],
-        "Dial Size in mm":"fix",
-        "Multipack Set":[
-            "Single",
-            "2",
-            "His and Her Watches"
-        ],
         "Occasion":[
             "Casual",
             "Everyday Essentials",
@@ -5044,7 +4306,6 @@ all = {
             "Sports",
             "Party"
         ],
-        "Material & Care":"fix",
         "Dial Pattern":[
             "Textured",
             "Skeleton",
@@ -5054,67 +4315,6 @@ all = {
             "Mother of Pearl",
             "Solid"
         ],
-        "Strap Width in mm":"fix",
-        "seller_name":[
-            "TIMEHUT RETAIL (INDIA) PRIVATE LIMITED",
-            "ILG INDIA FASHION LLP",
-            "BHAVYA ENTERPRISE",
-            "Vision Star",
-            "J K ENTERPRISES",
-            "Ethos Limited",
-            "Progressive Lifestyles Pvt Limited",
-            "RAMA WATCH BOUTIQUE",
-            "LECORB INDIA PRIVATE LIMITED",
-            "TIMELESS ERA LLP",
-            "CWC SALES PRIVATE LIMITED",
-            "SWAROVSKI INDIA PRIVATE LIMITED",
-            "WATCHES OF SWITZERLAND",
-            "RetailNet",
-            "Flashstar Commerce",
-            "SKY BIRD INC",
-            "SHOCKNSHOP",
-            "BIZOTICO",
-            "Runway Creation Pvt Ltd",
-            "OLYMPIA INDUSTRIES LIMITED",
-            "Brandzstorm India Marketing Pvt.Ltd.",
-            "KAPIL TIMES",
-            "ARTAN COLLECTIONS",
-            "JUST IN TIME TRADING PRIVATE LIMITED",
-            "Titan Company Limited",
-            "LOIS CARON PVT LTD",
-            "ELITE ENTERPRISES",
-            "SRIJAGDAMBA PEARLS DEALER",
-            "SWADESI STUFF",
-            "M.P.Enterprise",
-            "Truenet Commerce",
-            "LAXMI AGENCIES",
-            "Shantam International",
-            "TIRUPATI BIZ LINK LLP",
-            "Supercom Net",
-            "NARAYAN ENTERPRISE",
-            "CHUMBAK DESIGN PVT LTD",
-            "JW Brands Private Limited",
-            "Truecom Retail",
-            "Wink Lifestyles Pvt Ltd",
-            "WATCHSTAR",
-            "FIMBUL ENTERPRISES",
-            "LUXURIT",
-            "ADONIS KOMMERCE",
-            "HOUSE OF BRANDS FASHION LLP",
-            "Br enterprises",
-            "Designer World Brands LLP",
-            "BAPPA ASSOCIATES",
-            "DESIGNER PROGRESSIVE INDIA LLP",
-            "Supertrust Marketing",
-            "Krishiv",
-            "DESIGNER WORLD OF MANUFACTURING & TRADING LLP.",
-            "P.A.TIME INDUSTRIES UNIT- II",
-            "SAMAY",
-            "Indiflashmart",
-            "Flashtech Retail",
-            "AJANTA WATCH COMPANY"
-        ],
-        "Case Thickness in mm":"fix",
         "Dial Shape":[
             "Round",
             "Rectangular",
@@ -5132,14 +4332,7 @@ all = {
             "Plain 3-Hand",
             "Tachymeter",
             "Chronograph"
-        ],
-        "Number of Items":[
-            "5",
-            "2",
-            "1",
-            "4"
-        ],
-        "Package Contains":"fix",
+        ], # name chg
         "Dial Material":[
             "Nylon",
             "Resin",
@@ -5164,17 +4357,6 @@ all = {
             "Tang",
             "Foldover"
         ],
-        "Water Resistance":[
-            "Water Resistant",
-            "Yes",
-            "300 m",
-            "100 m",
-            "200 m",
-            "Non-Resistant",
-            "50 m",
-            "500 m",
-            "30 m"
-        ],
         "Strap Style":[
             "Wrap Around",
             "Serpentine Strap",
@@ -5190,7 +4372,6 @@ all = {
             "Non-Swiss Made",
             "Swiss Made"
         ],
-        "Collection Name":"fix",
         "Type":[
             "Regular",
             "Hybrid",
@@ -5209,30 +4390,6 @@ all = {
             "Analogue",
             "Analogue and Digital"
         ],
-        "Strap Colour":[
-            "Gold Toned",
-            "Gold-Plated",
-            "Grey",
-            "Steel Toned",
-            "Green",
-            "Transparent",
-            "Orange",
-            "Yellow",
-            "Rose Gold-Plated",
-            "Rhodium-Plated",
-            "Red",
-            "Purple",
-            "Blue",
-            "Beige",
-            "White",
-            "Multicoloured",
-            "Pink",
-            "Black",
-            "Brown",
-            "Rose Gold Toned",
-            "Silver Toned",
-            "Gunmetal Toned"
-        ],
         "Features 3":[
             "Glow in the Dark Inlays",
             "Multiple Time Zone",
@@ -5243,8 +4400,7 @@ all = {
             "Date Aperture",
             "Alarm",
             "Chronograph"
-        ],
-        "Size & Fit":"fix",
+        ], # name chg - may drop
         "Features 2":[
             "Glow in the Dark Inlays",
             "Reset Time",
@@ -5255,92 +4411,18 @@ all = {
             "Date Aperture",
             "Alarm",
             "Chronograph"
-        ],
-        "Strap Length in mm":[
-            "185mm",
-            "230 mm",
-            "180mm",
-            "240mm",
-            "165",
-            "260 mm",
-            "240 mm",
-            "215mm",
-            "170 mm",
-            "152.4",
-            "170mm",
-            "165 mm",
-            "205mm",
-            "260mm",
-            "200mm",
-            "180 mm",
-            "175mm",
-            "190mm"
-        ],
-        "Complete The Look":[
-            "This impressive, trendy watch from Timex is sure to draw attention when you tell the time. This grey piece can be styled with slick black jeans and a classic leather jacket for an edgy date look.",
-            "Created for men who love accessories with class, this fabulous watch from Timex is for keeps. With a classic blue dial and stainless steel strap this piece is the perfect all round accessory.",
-            "Add a touch of elegance to any outfit with this Mother of Pearl Dial Analog Watch. The bracelet-style chain complements both casual and formal looks, making it a versatile accessory. Pair it with other minimalist jewelry for a cohesive, sophisticated appearance.",
-            "Elevate your partywear with this elegant pearl stone watch. Its sophisticated design makes it the perfect statement piece for special occasions, adding a touch of glamour to both traditional and modern outfits. Pair it with pearl or metallic accessories for a coordinated and stunning look.",
-            "This watch from Tees Collection by Fastrack is perfect for the college-goer and the lover of casual fashion. Teamit with a pair ofdenims and a linen shirt for the perfectlook.",
-            "Add a touch of luxury to your casual attire with this diamond-accented LED watch. Its sleek and compact design pairs effortlessly with both everyday and evening wear. The stainless steel strap adds durability, while the touch display brings a modern twist to a classic accessory. Perfect for women who appreciate elegance and innovation.",
-            "Dial Colour: White ,Case Shape: Round ,Case Material : Stainless Steel",
-            "Carlton London Women Gift Set of 2 Watch + Bracelet - CLPLG053",
-            "Dial Colour: Black ,Case Shape: Round ,Case Material : Stainless Steel",
-            "The perfect everyday accessory, this Ted Baker watch is both practical and stylish. Flaunt this timeless white piece with formal attire to nail a polished look when you head out to work.",
-            "Enhance your look with this elegant cuff chain bracelet watch set. The timeless design of the watch, paired with the stylish bracelet, adds a touch of sophistication to any outfit. Perfect for casual, office, or evening wear, this set is a versatile addition to your accessory collection. Gift it to someone special or treat yourself to this chic ensemble.",
-            "Make a stylishly cool statement with a deliciously detailed finish and a gorgeous, colorful dial. The thick bezel adds a sporty touch to a metal analog watch designed around the classic hour, minute, and seconds hand look. Water resistance up to 50 meters frees you from worry when washing up or working with water.",
-            "This NAVIFORCE NF9234 watch is a bold and contemporary timepiece that seamlessly blends sporty elements with a touch of sophistication. Its sleek stainless steel bracelet and case exude a modern, masculine aesthetic, while the contrasting black dial and luminous accents provide excellent readability in various lighting conditions.",
-            "Stainless Steel Back Cover",
-            "Elevate your accessory game with this stunning crystal watch. The CZ stone-studded bracelet design adds a luxurious vibe to any outfit, from casual daywear to formal evening attire. Pair it with your favorite bracelets or let it shine solo for an effortlessly chic look.",
-            "A versatile and casual timepiece that complements a wide range of outfits. Pair it with your everyday wear for a laid-back look, or match it with your sports attire for a sporty-chic vibe. Whether youre at a casual outing or on the move, this watch adds a touch of elegance and comfort.",
-            "Discover the epitome of refined masculinity with Carlingtons stainless steel analog watch for men. This timepiece exudes strength and sophistication with its robust stainless steel construction and a polished finish that speaks to modern elegance. The classic round dial, accentuated with bold hour markers, ensures clear visibility, while the precision quartz movement guarantees impeccable timekeeping. Versatile enough to transition from a business meeting to a weekend getaway, this watch is designed for the man who values both style and functionality. Carlingtonwhere timeless design meets enduring quality.",
-            "This Watch is Suitable for many different occasions, such as work, meetings, business, travel, dates, parties, etc. The silicone strap is both versatile and fashionable, easily fits the wrist and has a casual feel.",
-            "Case:Alloy,Strap:Alloy,Stainless Steel Back Cover",
-            "Enhance your look with this luxurious gold-tone wristwatch. The rhinestone decor adds a touch of sophistication, making it perfect for pairing with elegant evening wear or adding sparkle to a casual outfit. Its timeless design makes it a versatile and stylish addition to your accessory collection.",
-            "Make a singular statement with the timelessness of a classic analog watch with tonneau case. Water resistance for daily use frees you from worry when washing up or out in the rain.",
-            "Elevate your style with the timeless elegance of Carlingtons stainless steel analog watch, designed exclusively for women who appreciate classic sophistication. Crafted with a sleek stainless steel body, this watch seamlessly blends durability with modern grace. The minimalist dial, featuring clear hour markers, offers effortless readability, while the scratch-resistant glass ensures long-lasting brilliance. Perfect for both casual outings and formal occasions, this watch embodies the perfect balance of functionality and fashion. Whether youre stepping into a meeting or enjoying a night out, Carlington keeps you elegantly on time.",
-            "Watch Material = Dial:Alloy,Strap: Alloy,Stainless Steel Back Cover & Bracelet Material : Alloy",
-            "Giordano is one of the established brand with employing over 8,000 friendly staff with over 2,400 operating chains in more than 30 countries and regions worldwide. Giordano embodies todays contemporary lifestyle choices simplicity in design and quality in substance. Our total commitment to superior service and outstanding quality and value has enabled the company to successfully grow the brand.",
-            "Japanese movement . Stainless Steel Back Cover",
-            "Complete your look with this stunning bracelet watch that exudes sophistication. Its gold rhodium finish and white accents pair beautifully with both traditional and modern attire. Wear it as a statement accessory for formal events or as a chic addition to your everyday wardrobe.",
-            "The classic metal analog watch dressed up in gorgeous color. The sunray dial delivers a deceptively simple, luxe appearance. The easy-read date display at the 3 oclock position adds an extra handy touch. Water resistance up to 50 meters frees you from worry, even on rainy days.",
-            "Water resistant Day and Date display",
-            "This impressive, trendy watch from Lacoste is sure to draw attention when you tell the time. Match this green piece with slim jeans and a basic tee for a super-cool date outfit.",
-            "This impressive, trendy watch from Timex is sure to draw attention when you tell the time. Flaunt this timeless black piece with casuals when you head out to lunch for a smart look."
-        ],
-        "Item Length":[
-            "5.91 Inches",
-            "2.76 Inches",
-            "3.54 Inches",
-            "5.12 Inches"
-        ],
-        "Item Width":[
-            "7.00 Centimeters"
-        ],
-        "Embellishment Feature":[
-            "Crystal"
-        ],
+        ], #name chg - may drop
         "Case Material1 - Case Material2":[
             "Plastic",
             "Brass",
             "Stainless Steel",
             "Stainless Steel & Plastic",
             "Silicone"
-        ],
+        ], # name chg
         "Movement Type":[
             "Automatic",
             "Digital",
             "Quartz"
-        ],
-        "Power Source Type":[
-            "Solar Powered",
-            "Battery Powered"
-        ],
-        "Character":[
-            "Casual Watch",
-            "disney",
-            "Fashion",
-            "fashion"
         ],
         "Strap Type":[
             "Strap",
@@ -5350,365 +4432,6 @@ all = {
             "Bracelet",
             "Two Piece Strap",
             "bracelet"
-        ],
-        "Sport1 - Sport3":[
-            "Walking, Cycling, Running",
-            "Cycling, Running",
-            "Swimming",
-            "Walking"
-        ],
-        "Water Resistance Level":[
-            "Water Resistant",
-            "Waterproof"
-        ],
-        "Language":[
-            "English"
-        ],
-        "Closure Type":[
-            "Buckle",
-            "Push-Button"
-        ],
-        "Shell Type":[
-            "1"
-        ],
-        "Compatible Devices":[
-            "Smartwatch",
-            "1",
-            "All Smartphones (Android & iOS)"
-        ],
-        "Whats in the box":[
-            "Protector"
-        ],
-        "Form Factor":[
-            "Bumper"
-        ],
-        "Special features":[
-            "Wireless"
-        ],
-        "Form factor":[
-            "Bumper"
-        ],
-        "Battery cell composition":[
-            "Silver Oxide"
-        ],
-        "Maximum Water Resistance Pressure":[
-            "3.00 atmosphere",
-            "5.00 Bars",
-            "20.00 Bars"
-        ],
-        "Best Sellers Rank":[
-            "#42,775 in Watches ( See Top 100 in Watches )",
-            "#10,743 in Watches ( See Top 100 in Watches )",
-            "#30,150 in Watches ( See Top 100 in Watches )",
-            "#65,592 in Watches ( See Top 100 in Watches )",
-            "#79,247 in Watches ( See Top 100 in Watches )",
-            "#50,668 in Watches ( See Top 100 in Watches )",
-            "#13,260 in Watches ( See Top 100 in Watches )",
-            "#79,444 in Watches ( See Top 100 in Watches )",
-            "#34,948 in Watches ( See Top 100 in Watches )",
-            "#9,659 in Watches ( See Top 100 in Watches )",
-            "#35,356 in Watches ( See Top 100 in Watches )",
-            "#19,167 in Watches ( See Top 100 in Watches )",
-            "#79,337 in Watches ( See Top 100 in Watches )",
-            "#50,660 in Watches ( See Top 100 in Watches )",
-            "#4,761 in Watches ( See Top 100 in Watches )"
-        ],
-        "Activity Tracking":[
-            "Yes"
-        ],
-        "Bluetooth":[
-            "Yes"
-        ],
-        "Microphone":[
-            "Yes"
-        ],
-        "Flight Mode":[
-            "No"
-        ],
-        "GPS Tracking":[
-            "No"
-        ],
-        "Altimeter":[
-            "Yes",
-            "No"
-        ],
-        "BIS Expiry Date":[
-            "17/10/2025",
-            "22/08/2026",
-            "09/05/2025",
-            "30/05/2025",
-            "31/07/2025",
-            "31/03/2026"
-        ],
-        "Case":[
-            "Aluminum",
-            "Hard Case"
-        ],
-        "Battery Life":[
-            "Up to 5 Days",
-            "Up to 7 Days"
-        ],
-        "Call Function":[
-            "Yes"
-        ],
-        "Charging Type":[
-            "Wired"
-        ],
-        "Dust Resistance":[
-            "No",
-            "Yes"
-        ],
-        "Customisable Watch Face":[
-            "Yes",
-            "No"
-        ],
-        "Caller ID":[
-            "No",
-            "Yes"
-        ],
-        "Heart Rate Monitor":[
-            "Yes"
-        ],
-        "Display Resolution":[
-            "360 x 325 Pixels",
-            "466 x 466 Pixels",
-            "240 x 240 Pixels",
-            "320 x 320 Pixels"
-        ],
-        "OS":[
-            "No OS",
-            "Android"
-        ],
-        "Wi-Fi":[
-            "No",
-            "Yes"
-        ],
-        "BIS Certificate Image URL":[
-            "https://azmyntra.myntassets.com/dam-assets/assets/images/bis/2024/SEPTEMBER/10/tEJxakaz_ca85ed88461944ea88f83600e4bb930f.jpg",
-            "https://azmyntra.myntassets.com/dam-assets/assets/images/bis/2024/SEPTEMBER/10/h29p6hUn_40e6ebb342124a89a000ff9b356aa597.jpg",
-            "https://azmyntra.myntassets.com/dam-assets/assets/images/bis/2024/OCTOBER/14/0b7gyzA4_f681116cfb4c48edacab7e25f0c32c60.jpg",
-            "https://azmyntra.myntassets.com/dam-assets/assets/images/bis/2024/SEPTEMBER/10/AdYypY3L_d44224d326fd492fa23481226c098da6.jpg",
-            "https://azmyntra.myntassets.com/dam-assets/assets/images/bis/2024/SEPTEMBER/10/6ylwZOUU_a917fb7f2231481981fbc340be666236.jpg",
-            "https://assets.myntassets.com/assets/images/2024/6/11/84780403-60df-446f-b065-1e8237ac7aa31718089691112-Renewal-Certificate-of-R-41192155.jpg",
-            "https://azmyntra.myntassets.com/dam-assets/assets/images/bis/2024/SEPTEMBER/10/fLBLAt9U_64f9a37564f54993940ce3e3ce56b743.jpg",
-            "https://azmyntra.myntassets.com/dam-assets/assets/images/bis/2024/SEPTEMBER/10/XBMnpnBu_7610719e17e64d2f8bfa23f177d6c356.jpg",
-            "https://azmyntra.myntassets.com/dam-assets/assets/images/bis/2024/SEPTEMBER/10/LiTAZUPb_589a30ba10f1462ca5229569c15a3bdd.jpg",
-            "https://azmyntra.myntassets.com/dam-assets/assets/images/bis/2024/SEPTEMBER/10/VnfsmQrq_27ccd63821f046219a9a8248fecf96c5.jpg",
-            "https://azmyntra.myntassets.com/dam-assets/assets/images/bis/2024/SEPTEMBER/10/FzkvBJPB_8f60c86a86114ca7955dccbc9891dba4.jpg",
-            "https://azmyntra.myntassets.com/dam-assets/assets/images/bis/2024/SEPTEMBER/10/W6GPWZQR_ccd9d4acde4c4e91aefce6cdb7901b52.jpg",
-            "https://azmyntra.myntassets.com/dam-assets/assets/images/bis/2024/SEPTEMBER/10/EmsKfgUa_7ac4c2b59c5047cc88b14cd6d9eee89a.jpg",
-            "https://azmyntra.myntassets.com/dam-assets/assets/images/bis/2024/SEPTEMBER/10/lsFjOev3_dc2554ef7c5a4cd4ae5da8d415f3fd3f.jpg",
-            "https://azmyntra.myntassets.com/dam-assets/assets/images/bis/2024/SEPTEMBER/10/uCnjAemx_e0a84b166c404476ba1f90af53ad1fb5.jpg",
-            "https://azmyntra.myntassets.com/dam-assets/assets/images/bis/2024/OCTOBER/14/frqYkuHh_21178e5d3f7f4b5381e976372ff73a0a.jpg",
-            "https://azmyntra.myntassets.com/dam-assets/assets/images/bis/2024/SEPTEMBER/10/Hnv0PEw4_1d0654c37fc14c2a93573686f05e9839.jpg",
-            "https://azmyntra.myntassets.com/dam-assets/assets/images/bis/2024/3/20/f183f117-b799-4e93-9197-dddd093037b21710936846967null1.jpg",
-            "https://azmyntra.myntassets.com/dam-assets/assets/images/bis/2024/3/20/a3ee9118-789e-4056-895f-d6121db10af11710936847002null1.jpg",
-            "https://azmyntra.myntassets.com/dam-assets/assets/images/bis/2024/SEPTEMBER/10/uEqtR7wU_200d94ee0b6b4256b01cce55c63e174d.jpg",
-            "https://azmyntra.myntassets.com/dam-assets/assets/images/bis/2024/OCTOBER/14/xMsTtjZh_d119a62e5ebe417995d0464ed8b4ef86.jpg",
-            "https://azmyntra.myntassets.com/dam-assets/assets/images/bis/2024/SEPTEMBER/10/CcwD11Yq_5466afb6c4c94cdda0a98e17175ffe5e.jpg",
-            "https://azmyntra.myntassets.com/dam-assets/assets/images/bis/2023/11/2/69f80b05-1883-4915-ae15-bf4c3e9dad4b1698934166299null1.jpg"
-        ],
-        "Pedometer":[
-            "Yes"
-        ],
-        "Voice Recognition":[
-            "Yes",
-            "No"
-        ],
-        "Sleep Monitor":[
-            "No",
-            "Yes"
-        ],
-        "Battery Capacity":[
-            "300 mAh",
-            "250 to 300 mAh"
-        ],
-        "Activity Training":[
-            "No",
-            "Yes"
-        ],
-        "Gyroscope":[
-            "Yes",
-            "No"
-        ],
-        "Glass Type":[
-            "Normal"
-        ],
-        "BIS Certificate Number":[
-            "r-93021229",
-            "r-93017183",
-            "r-41263117",
-            "r-93025364",
-            "R-41192155",
-            "r-41221600"
-        ],
-        "Barometer":[
-            "No"
-        ],
-        "Screen Type":[
-            "TFT",
-            "Amoled"
-        ],
-        "Compatibility":[
-            "Android and iOS"
-        ],
-        "Notifications":[
-            "Yes"
-        ],
-        "Sensor":[
-            "Yes"
-        ],
-        "Care instructions":[
-            "Gently Wipe Off Your Watch From Time-to-time To Remove Dust",
-            "Stainless Steel Does Not Readily Corrode, Rust Or Stain With Water As Ordinary Steel Does. To Minimize Discoloration And Damage To These Bands, Limit Exposure To Moisture And Substances Like Perfume, Insect Repellent Or Oil",
-            "Avoid Spirit/alcohol/perfume. Avoid Violent Shocks And Knocks As It Will Leave Marks On The Case Or It Can Harm The Inner Mechanism Of Your Watch. Wipe The Watch After Use And Keep The Eye On Battery.",
-            "Gently Wipe Off Your Watch From Time-to-time To Remove Dust, Dirt, Perspiration And Moisture Buildup.",
-            "Clean With Wet Wipes Only",
-            "Gently Wipe Off Your Watch With Cotton Cloth From Time-to-time To Remove Dust.",
-            "Charge Before Use",
-            "Gently Wipe Off Your Watch From Time-to-time To Remove Dust, Dirt, Perspiration And Moisture Build Up.",
-            "Clean With Dry Soft Cloth",
-            "Clean With Cotton Cloth",
-            "Gently Wipe Off Your Watch With Cotton Cloth From Time-to-time To Remove Dust",
-            "Use A Soft Cloth To Clean The Watch",
-            "Keep Away From Chemicals",
-            "Remove Dust & Grime By Gently Wiping The Glass With A Dry Cloth",
-            "Clean The Dial With A Cotton Cloth",
-            "A Gentle Wipe With A Clean Soft Dry Cloth When Needed.",
-            "Do Not Spray Deo/perfume Directly On Case Or Strap",
-            "Refer To The Care Instructions On The Box",
-            "Remove Dust And Grime By Gently Wiping The Glass With A Dry Cloth.",
-            "Wipe With Clean Dry Cloth",
-            "Remove Dust And Grime By Gently Wiping The Glass With A Cloth",
-            "Gently Wipe Off Your Watch From Time-to-time To Remove Dust, Dirt, Perspiration And Moisture Build-up."
-        ],
-        "Pack contains":[
-            "1 Watch With Warranty Card",
-            "2 Watch",
-            "2 Watches",
-            "1 Watch",
-            "1 Watch, 4 Bracelets",
-            "1 Watch, 1 Case",
-            "1 Watch, 1 User Manual, 1 Warranty Card, 1 Box",
-            "1 Watch, 1 Box, 5 Bracelets, 1 Warranty Card, 1 User Manual",
-            "1 Watch With Warrenty Card",
-            "1 Watch , 1 Warranty Card , 1 Watch Pillow",
-            "1 Watch, 1 Bracelet",
-            "1 Smart Watch",
-            "1 Watch , 1 Warranty Card",
-            "1 Watch, 1 Warranty Card",
-            "1 Watch, 1 Extra Strap",
-            "1 Watch , 1 Strap",
-            "1 Watch, 3 Bracelets",
-            "1 Watch, 1 Watch Strap"
-        ],
-        "Model number":"fix",
-        "Address of Manufacturer/ Packer/ Importer":[
-            "Plot No. 10, Industrial Area- Katha, Bhatoli Kalan, Baddi, Himachal Pradesh – 173205",
-            "Timex Group India Limited, Plot No. 10, Industrial Area- Katha, Bhatoli Kalan, Baddi, Himachal Pradesh – 173205",
-            "305, 3rd Floor, Hubtown Solaris, N.s. Phadke Marg, Near East West Flyover, Andheri East, Mumbai - 400069.",
-            "No 38 A1, Ii Phase, Doddanekundi Industrial Area, Mahadevapura Post, Bangalore 560 048",
-            "305, 3rd Floor, Hubtown Solaris, N.s. Phadke Marg, Near East West Flyover, Andheri East, Mumbai-400069.",
-            "Plot No 18 Industrial Area Phase - 2, Panchkula ( Haryana)-134113",
-            "A-41, First Floor, Mathura Road, Mohan Cooperative Industrial Estate, New Delhi - 110044",
-            "A-41, First Floor, Mathura Road, Mohan Cooperative Industrial Estate, New Delhi-110044",
-            "Solar Time Ltd. Kowloon Centre, Ashley Road, Tst Kowloon, Hong Kong",
-            "210/2,2nd Floor, Upper Palace Orchards, Bellary Road Sadashiv Nagar Bengaluru 560080",
-            "Tms Times And Jewels Limited, Flat A, 26/f, Egl Tower, 83 Hung To Road, Kwun Tong, Hong Kong , T-852 2208 6100 F- 852 2776 3969",
-            "Unit 401 - 406, 4/f, New East Ocean Center, No.9 Science Meseum Tst, Kow Loon Ct C Bonia, Chiu Hong Kong.",
-            "43f, Tanglangcheng Square, Liuxian Bivd, Nanshan Dist., Shenzhen, China",
-            "210/2, ‘terratana’ 2nd Floor, Upper Palace Orchards, Bellary Road Sadashiv Nagar Bengaluru Bangalore Ka 560080",
-            "Unit 401-406, 4/f, New East Ocean Center. No.9, Science Meseum 1st, Kow Loon, Ctc Bonia Chiu, Hong Kong",
-            "Unit B, 12/f, Chung Shun Knitting Centre, Hong Kong",
-            "Plot No 18, Industrial Area Phase - 2, Panchkula, Haryana - 134113",
-            "Office No. 1, 2nd Floor, Aman Chambers, Opera House, 113 Mama Parmanand Marg, Charni Road East, Mumbai - 400 004",
-            "15/f, Kowloon Centre, 29-39 Ashley Road, Tst Kowloon, Hong Kong",
-            "Ilg India, Ilg Asia Limited, Unit 401-406, 4/f, New East Ocean Center. No.9 Science Meseum Tst, Kow Loon Ct C Bonia Chiu Hong Kong",
-            "3rd Floor, Hubtown Solaris, N.s. Phadke Marg, Near East West Flyover, Andheri East, Mumbai-400069.",
-            "210/2, Terratana, 2nd Floor, Upper Palace Orchards, Bellary Road Sadashiva Nagar Bengaluru 560080",
-            "Sipcot Industrial Complex, Hosur, Tamil Nadu-635129",
-            "Plot No 18, Industrial Area, Phase - 2, Panchkula, Haryana - 134113",
-            "Unit 401-406, 4/f, New East Ocean Center. No.9 Science Meseum Tst, Kow Loon Ct C Bonia Chiu Hong Kong.",
-            "Khata Khatoni No-147/150 Min, Village-tipra Barotiwala Teh- Nalagarh Distt.-solan (h.p) - 174103",
-            "Ilg Asia, Ilg Asia Limited, Unit 401-406, 4/f, New East Ocean Center. No.9 Science Meseum Tst, Kow Loon Ct C Bonia Chiu Hong Kong.",
-            "Khata Khatoni No - 147/150 Min, Village-tipra Barotiwala, Nalagarh Dist-solan (h.p) - 174103",
-            "520, Cmh Road, 1st Stage, Indiranagar, Bangalore - 560038",
-            "Hunnenweg 4, P.o. Box 4503, Solothum, Switzerland",
-            "No. 210/2, Upper Palace Orchards, Bellary Road, Sadashiva Nagar, Armane Nagar, Bengaluru, Karnataka, Pin 560080",
-            "Bizotico, Maruti Complex, 3rd Floor, Rt Nagar Main Road, Bangalore, India - 560032, Customer Care -7711889191",
-            "Plot No. 10, Industrial Area- Katha, Bhatoli Kalan, Baddi, Himachal Pradesh - 173205",
-            "Imported By : A-41, First Floor, Mathura Road, Mohan Cooperative Industrial Estate, New Delhi-110044",
-            "Plot No. 10, Industrial Area - Katha, Bhatoli Kalan, Baddi, Himachal Pradesh - 173205",
-            "3rd Floor, Rt Nagar Main Road, Bangalore, India - 560032",
-            "Ilg Asia Limited, Unit 101-406, New East Ocean Center,no.9, Science Meseum, Kowloon Ct C Bonia Chiu, Hong Kong - 999077",
-            "Swp Swiss Watch Partners Sa, 7 Avenue Krieg, 1208 Geneva Switzerland",
-            "No 38 A1, Ii Phase, Doddanekundi Industrial Area, Mahadevapura Post, Bangalore, 560 048",
-            "36 - G, Heera Panna Arcade, Haji Ali, Mumbai - 400026",
-            "60-15 Little Neck Pkwy, Little Neck, Ny 11362",
-            "Plot No 18, Industrial Area, Phase-2, Panchkula, Pin 134113"
-        ],
-        "Sold By":[
-            "Designer Progressive India Llp_parent",
-            "Bizotico",
-            "Ethos Limited.",
-            "Bappa Associates",
-            "M.p. Enterprise",
-            "Tirupati Biz Link Llp",
-            "Timehut Retail (india) Pvt Ltd.",
-            "Titan Company Limited",
-            "Ilg India Fashion Llp",
-            "Watches Of Switzerland",
-            "Adonis Kommerce",
-            "Chumbak Design Private Limited - Parent",
-            "Designer World Brands Llp.",
-            "M/s. Crystalarc Lifestyle",
-            "Effects Industrial Concepts",
-            "Brandzstorm India Marketing Pvt. Ltd._mp",
-            "Shantam International"
-        ],
-        "Name of Manufacturer/ Packer/ Importer":[
-            "Mgi Distribution Private Limited",
-            "Times And Jewels Limited",
-            "Fossil India Pvt Ltd",
-            "Casio India Company",
-            "Mathey-tissot",
-            "E Gluck Corporation",
-            "Chumbak Design Private Limited",
-            "Titan Company Limited",
-            "Ilg India, Ilg Asia Limited",
-            "Brandzstorm India Marketing Private Limited",
-            "Casio Corporate Office",
-            "Swissam Products Limited",
-            "Timex Group India Limited",
-            "M P Enterprise",
-            "Ciga Design",
-            "Luminox",
-            "Bizotico",
-            "Ilg Asia",
-            "Slazenger",
-            "French Connection",
-            "Solar Time Ltd.",
-            "Maserati",
-            "Watches Of Switzerland, 36-g, Heera Panna Arcade, Haji Ali, Mumbai 400026, India, Telephone No: (91-22) 614 63 838",
-            "Designer Progressive India Llp",
-            "Casio",
-            "Ilg Asia Limited",
-            "Mgi Distribution Pvt. Ltd",
-            "Roamer Ag",
-            "Solar Time Ltd",
-            "Brandzstorm India Marketing Pvt Ltd",
-            "Zeppelin",
-            "Citizen Watches (india) Private Limited"
-        ],
-        "Water Resistant":[
-            "Not Water Resistant",
-            "Water Resistant",
-            "200 Meters",
-            "1 Meter"
-        ],
-        "Chronograph":[
-            "Yes",
-            "No"
         ],
         "Dial Type":[
             "Analog + Digital",
@@ -5739,7 +4462,7 @@ all = {
             "Brown",
             "Navy Blue",
             "Clear"
-        ],
+        ], # refine
         "Pack Size":[
             "Single",
             "Pack of 2"
@@ -5769,275 +4492,25 @@ all = {
             "Black",
             "Brown",
             "Navy Blue"
-        ],
-        "Diameter":[
-            "8 cm",
-            "43 mm",
-            "4.6 cm",
-            "44 mm",
-            "5.2 cm",
-            "3.1 cm",
-            "3.35 cm",
-            "4.7 cm",
-            "4.4 cm",
-            "46 mm",
-            "4 cm",
-            "2.2 cm",
-            "3.2 cm",
-            "3.5 cm",
-            "2.8 cm",
-            "34 cm",
-            "3.7 cm",
-            "4.5 cm",
-            "5.3 cm",
-            "3.9 cm",
-            "4.3 cm",
-            "41 mm",
-            "3.62 cm",
-            "5.1 cm",
-            "2.5 cm",
-            "42 mm",
-            "4.9 cm",
-            "4.1 cm",
-            "30 mm",
-            "2.9 cm",
-            "4.8 cm",
-            "40 mm",
-            "3.3 cm",
-            "3.65 cm",
-            "2.4 cm",
-            "42 cm",
-            "2.55 cm",
-            "3.4 cm",
-            "2.7 cm",
-            "3.6 cm",
-            "2.3 cm",
-            "3.8 cm",
-            "4.2 cm",
-            "3.46 cm",
-            "45 mm",
-            "3 cm"
-        ],
-        "Unit Count":[
-            "1.0 count",
-            "1 Count"
-        ],
+        ], # refine
         "Display Technology":[
             "LCD",
             "AMOLED",
             "Analog"
-        ],
-        "Wattage":[
-            "40 Watts",
-            "20 Watts"
-        ],
-        "Resolution":[
-            "360 x 360",
-            "240 x 240"
-        ],
-        "Controller Type":[
-            "Touch control",
-            "Touch Control"
-        ],
-        "Add-Ons":[
-            "Additional Straps"
-        ],
-        "Dimensions":[
-            "Strap: 44.4 mm",
-            "0.665 cm x 3.8 cm x 1.8 cm (Thickness x Diameter x Width)",
-            "0.73 cm x 2.55 cm x 1.2 cm (Thickness x Diameter x Width)",
-            "0.81 cm x 3 cm x 1.2 cm (Thickness x Diameter x Width)",
-            "1.12 cm x 4.5 cm x 2.2 cm (Thickness x Diameter x Width)",
-            "0.77 cm x 3.8 cm x 1.4 cm (Thickness x Diameter x Width)",
-            "1.105 cm x 4.4 cm x 2.2 cm (Thickness x Diameter x Width)",
-            "Strap Width: 2 cm",
-            "1.23 cm x 4.3 cm x 2.2 cm (Thickness x Diameter x Width)",
-            "0.84 cm x 3.4 cm x 1.4 cm (Thickness x Diameter x Width)"
-        ],
-        "Connectivity Technology":[
-            "NFC",
-            "Bluetooth",
-            "HDMI"
-        ],
-        "Number of Memory Sticks":[
-            "1"
-        ],
-        "Item Length (Description)":[
-            "Mini"
-        ],
-        "Age Range (Description)":[
-            "Adult"
-        ],
-        "Item Length Description":[
-            "Mini"
         ],
         "Material":[
             "Alloy Steel",
             "Glass",
             "Metal",
             "Plastic"
-        ],
-        "Ring Size":[
-            "Adjustable"
-        ],
-        "Ring Size Lower Range":[
-            "2"
-        ],
-        "Resizable?":[
-            "Y"
-        ],
-        "Ring Size Upper Range":[
-            "3"
-        ],
-        "Number of Pieces":[
-            "2"
-        ],
-        "Size":[
-            "Medium"
-        ],
-        "Material Type":[
-            "Glass",
-            "Plastic"
-        ],
-        "Screen Size":[
-            "1.78 Inches",
-            "1.73 Inches"
-        ],
-        "Screen Surface Description":[
-            "Smooth, Matte"
-        ],
-        "Clarity":[
-            "0.99"
-        ],
-        "Display Size":[
-            "1.78 Inches"
-        ],
-        "Wireless Type":[
-            "Bluetooth"
-        ],
+        ], # name chg - watch material or drop
         "Device interface - primary":[
             "Buttons",
             "Touchscreen"
-        ],
-        "Connector Type":[
-            "NFC",
-            "Bluetooth"
-        ],
-        "Operating System":[
-            "Smartwatch",
-            "Android"
-        ],
-        "Standing screen display size":[
-            "1.28 Inches",
-            "1.73 Inches"
-        ],
-        "Mounting Hardware":[
-            "Wristwatch",
-            "1",
-            "Luxe Glamour Strap, User Manual, Trendy Casual Strap, Timeless Formal Strap, Charging Cable, Smart Watch"
-        ],
-        "Wireless Communication Standard":[
-            "Bluetooth"
-        ],
-        "Number of items":[
-            "2",
-            "1"
-        ],
-        "Enclosure Material":[
-            "Plastic"
-        ],
-        "Light Source Type":[
-            "Led"
-        ],
-        "Network Connectivity Technology":[
-            "Bluetooth",
-            "HDMI"
-        ],
-        "Human Interface Types":[
-            "Touchscreen, Buttons",
-            "Buttons"
-        ],
-        "Item Volume":[
-            "50 Millilitres"
-        ],
-        "Item Form":[
-            "Liquid"
-        ],
-        "Scent":[
-            "Fresh"
-        ],
-        "GPS":[
-            "No GPS"
-        ],
-        "Item Weight Unit of Measure":[
-            "390 Grams",
-            "200 Grams",
-            "100 Grams",
-            "20 Grams"
-        ],
-        "Supported Application":[
-            "Time Display"
-        ],
-        "Number of Bands":[
-            "1"
-        ],
-        "Face Style":[
-            "Gilt"
-        ],
+        ], # imp
         "Pattern":[
             "Floral",
             "Classic"
-        ],
-        "Series Number":[
-            "4",
-            "1514150"
-        ],
-        "Bluetooth Version":[
-            "V5.0"
-        ],
-        "Special Feature(s)1 - Special Feature(s)3":[
-            "Water Resistant",
-            "Manual"
-        ],
-        "Capacity":[
-            "Standard"
-        ],
-        "Item Model Number":[
-            "ben 10 bul"
-        ],
-        "Primary material":[
-            "Others"
-        ],
-        "Band Length":[
-            "235 Millimetres"
-        ],
-        "Operating Systems":[
-            "Smartwatch",
-            "Android"
-        ],
-        "Item Dimensions D x W x H":[
-            "6D x 7W x 6H Centimeters"
-        ],
-        "Watch Movement":[
-            "Quartz"
-        ],
-        "UPC":[
-            "761371081684"
-        ],
-        "Item Dimensions W x H":[
-            "34W x 30H Centimeters"
-        ],
-        "Battery Cell Composition":[
-            "Lead Calcium"
-        ],
-        "Battery Cell Type":[
-            "Lead Calcium"
-        ],
-        "Metal Stamp":[
-            "stainless steel"
-        ],
-        "Global Trade Identification Number":[
-            "07613272587891"
-        ]
+        ], # may keep
     }
 }
