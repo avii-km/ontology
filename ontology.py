@@ -814,7 +814,7 @@ all = {
                 "Regular",
                 "Long"
             ]
-    } # extract by dresses
+    }, # extract by dresses
     "Earrings":{
         "Size & Fit":"fix",
         "Shape":[
@@ -2778,7 +2778,7 @@ all = {
                 "Medium",
                 "Long"
             ] # imp
-        }
+        },
     "cabinet": {
         "Cabinet Color": [
             "Red",
