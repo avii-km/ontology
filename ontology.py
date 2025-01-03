@@ -2299,7 +2299,7 @@ all = {
             "Flared"
         ]
     },
-    "shirts_":{
+    "Shirts":{
         "Composition":"fix",
         "Sleeve Length":[
             "Short sleeve",
@@ -2811,370 +2811,190 @@ all = {
             "The total weight of this product contains 98% Recycled polyester We exclude the weight of minor components such as, but not exclusively: threads, buttons, zippers, embellishments and prints.The total weight of the product is calculated by adding the weight of all layers and main components together. Based on that, we calculate how much of that weight is made out by each material. For sets and multipacks, all pieces are counted together as one product in calculations."
         ]
     },
-    "Sneakers":{
-        "Sole Material":[
-            "TPR",
-            "Resin",
-            "PU",
-            "Phylon",
-            "PVC",
-            "Rubber",
-            "EVA",
-            "Synthetic",
-            "TPU",
-            "Leather",
-            "Tunit"
-        ],
-        "Pattern":[
-            "Perforations",
-            "Striped",
-            "Textured",
-            "Printed",
-            "Woven Design",
-            "Colourblocked",
-            "Solid"
-        ],
-        "Toe Shape":[
-            "Pointed Toe",
-            "Round Toe",
-            "Square Toe"
-        ],
-        "Occasion":[
-            "Evening",
-            "Everyday",
-            "Smart Casual",
-            "Party",
-            "Ethnic"
-        ],
-        "Material & Care":"fix",
-        "BIS Certificate Image URL":[
-            "https://www10.pdf2go.com/v2/dl/web7/download-file/701eca69-7be2-4f6d-b013-45eb714790af/BIS License for H.P-2 (Renewed) Baddi-2.jpg",
-            "https://assets.myntassets.com/assets/images/2024/9/3/c63a752c-2a9e-47d9-90bf-4f325328ae851725366516011-Declaration-Flipkart-Myntra-2_page-0001.jpg",
-            "https://azmyntra.myntassets.com/dam-assets/assets/images/bis/2024/AUGUST/27/TSoiRMpM_beda4d38d1d54d869ff2f3a45947ee22.jpg",
-            "https://assets.myntassets.com/assets/images/2024/8/19/f4c6308a-9a37-4296-b610-e17002c7f0251724063282022-Asics-Footwear_Decln__090824-MYNTRA--1-_page-0001--1-.jpg",
-            "https://ibb.co/YZcWy8C",
-            "https://assets.myntassets.com/assets/images/2024/8/5/ffeeb46c-7494-48d2-8ceb-247dcf984c7c1722860198642-BISCertificateAH.jpg",
-            "https://azmyntra.myntassets.com/dam-assets/assets/images/bis/2024/AUGUST/27/AFFFrQM3_c238f55382e5466b86d90eac6e8937c9.jpg",
-            "https://azmyntra.myntassets.com/dam-assets/assets/images/bis/2024/AUGUST/27/zFV0zPu6_f1bdfc96644046ca963a5cc7430e6622.jpg",
-            "https://assets.myntassets.com/assets/images/2024/8/6/d546c229-de5e-4779-9730-9e49e9b42ea51722950152436-BIS-Certificate.jpg",
-            "https://assets.myntassets.com/assets/images/2024/8/28/4e8e6d42-33dd-499a-baa5-ff7bebfae27c1724848586496-NALAIN.jpg",
-            "https://assets.myntassets.com/assets/images/2024/9/19/9d7647fd-e48c-4e7b-89f1-694852d40da71726721574729-ZOMODA-Footwear-BIS-Undertaking--1-_page-0001.jpg",
-            "https://assets.myntassets.com/assets/images/2024/8/26/67cb2dc2-cb5c-41ba-bcd7-763a575a38f31724646282456-Myntra-Declaration_page-0001.jpg",
-            "https://assets.myntassets.com/assets/images/2024/8/15/bdf1204d-081a-4114-aec4-0bab7375e4001723713697028-BIS.jpg",
-            "https://azmyntra.myntassets.com/dam-assets/assets/images/bis/2024/AUGUST/27/t01e98ps_3efd2c94368d4322b9f89c56e378db91.jpg",
-            "https://azmyntra.myntassets.com/dam-assets/assets/images/bis/2024/OCTOBER/8/ylfRbatr_60e497324acb40a088aae1ede38a4636.jpg",
-            "https://azmyntra.myntassets.com/dam-assets/assets/images/bis/2024/AUGUST/27/aZHE1EFD_a0c836daba554f73b4ca554604b6ad27.jpg",
-            "https://azmyntra.myntassets.com/dam-assets/assets/images/bis/2024/OCTOBER/8/NRbDAeLT_6806fb3dc4ff4a60a35e0d5501e996e1.jpg",
-            "https://azmyntra.myntassets.com/dam-assets/assets/images/bis/2024/AUGUST/27/ZBfdIH8R_df400882e53440b7b41c1f649408b5d1.jpg",
-            "https://azmyntra.myntassets.com/dam-assets/assets/images/bis/2024/AUGUST/27/ZnYyREqk_a8289505492b4175a9bc18d4773f2e8c.jpg",
-            "https://azmyntra.myntassets.com/dam-assets/assets/images/bis/2024/OCTOBER/8/3RBYoL0y_e1e405f8035d479a9838dbbb2e13f2cb.jpg",
-            "https://assets.myntassets.com/assets/images/2024/9/2/658162be-3763-40d8-b546-755d013f83a51725280641274-Luxiqe-BIS-Liscence-nmwith-CML-No..PNG",
-            "https://assets.myntassets.com/assets/images/2024/8/23/ec6080a9-602c-455e-a49d-ed2018509e3c1724390496589-SCAN-Myntra-BIS-Declaration--2-_page-0001.jpg",
-            "https://assets.myntassets.com/assets/images/2024/8/23/5af2fa8a-384b-47d4-b054-5d9e3fb35d151724389764945-DECLARATION---SOR-MYNTRA-FOOTWEAR_page-0001.jpg",
-            "https://azmyntra.myntassets.com/dam-assets/assets/images/bis/2024/OCTOBER/8/FxNszbFL_d2f8e1ed8dc74582870e13523d11c3db.jpg",
-            "https://azmyntra.myntassets.com/dam-assets/assets/images/bis/2024/AUGUST/17/tZF7JeC3_fad9da96051c487e8b22d1c54de6b680.jpg",
-            "https://assets.myntassets.com/assets/images/2024/8/16/2a37cc2b-cd98-4c2b-8d2a-58cac326b7bf1723795436146-BIS-DECLARATION-MYNTRA-NB-Signed_page-0001.jpg",
-            "https://azmyntra.myntassets.com/dam-assets/assets/images/bis/2024/AUGUST/27/ZUaE9ux6_de91b34c10764990a3b911dfbf951b11.jpg",
-            "https://azmyntra.myntassets.com/dam-assets/assets/images/bis/2024/AUGUST/27/2efhH9rn_1215903d7fd84b84972ccee1834526ec.jpg",
-            "https://assets.myntassets.com/assets/images/2024/8/20/a098ba6e-2bf9-463c-97e2-2caaac5e729a1724158267233-USPA_page-0001.jpg",
-            "https://assets.myntassets.com/assets/images/2024/10/4/f2324e77-58c4-4044-a6a7-8c4f3a1b13241728014996562-ATI-PHOTO-2024-08-08-18-44-27.jpg",
-            "https://assets.myntassets.com/assets/images/2024/8/3/c9ce1c24-7ef0-4ef8-8d93-fbe00101418c1722672288232-Global-Creation-BIS.jpg",
-            "https://assets.myntassets.com/assets/images/2024/8/9/4f31972e-8f3f-478f-8777-169975cf1d951723208335062-MOI-NOIDA-BIS-License-Part-2_page-0001.jpg",
-            "https://azmyntra.myntassets.com/dam-assets/assets/images/bis/2024/AUGUST/27/vAXrEPVC_051c86b610224656a3e1cbd8985f8762.jpg",
-            "https://azmyntra.myntassets.com/dam-assets/assets/images/bis/2024/AUGUST/27/IpQqbJtR_68b3dccafa774c80987bdb62ab6d6f09.jpg",
-            "https://assets.myntassets.com/assets/images/2024/8/6/6a66bc4d-843a-4d62-b963-8556f56383271722929698333-BIS-CML--New-Kicks--1-.jpg",
-            "https://assets.myntassets.com/assets/images/2024/8/26/6fdc829a-5809-4aa0-b0ca-b786d2e458921724660054564-Myntra_BIS-declaration_23.08.2024_page-0001.jpg",
-            "https://azmyntra.myntassets.com/dam-assets/assets/images/bis/2024/AUGUST/27/9imMOSSO_6c7ccb9a80584579bb0ba39bf40e8334.jpg",
-            "https://assets.myntassets.com/assets/images/2024/9/27/a2b93f82-ef7a-49b4-9110-6c5e5c7d662f1727435270383-ATI-PHOTO.jpg",
-            "https://azmyntra.myntassets.com/dam-assets/assets/images/bis/2024/AUGUST/27/fKhShBLk_6d94b09c2f3548808ed187e4d3f45b4e.jpg",
-            "https://assets.myntassets.com/assets/images/2024/8/16/4dd72262-c9a0-4398-9262-56d0771921ed1723777171710-SKX-BIS-Declaration--1---1-_page-0001.jpg",
-            "https://azmyntra.myntassets.com/dam-assets/assets/images/bis/2024/AUGUST/27/9iCgedUs_72a1df0062bb4a2e8352a687592dc53c.jpg",
-            "https://assets.myntassets.com/assets/images/2024/8/26/b69d1ebb-476d-4a62-9ff5-af0832393b711724661607982-Declaration-letter-dt.26.08.24_page-0001.jpg",
-            "https://assets.myntassets.com/assets/images/2024/8/15/a3a4cddb-a915-4492-abb7-755375e946a51723713711831-BIS.jpg",
-            "https://assets.myntassets.com/assets/images/2024/8/5/75ccf790-76f2-4dd1-9140-099b4808af2a1722842685521-Elahi-Footwear.jpg",
-            "https://assets.myntassets.com/assets/images/2024/8/6/fac6ffac-957c-4d70-af2e-3f47e673f38d1722942933904-Shoematic_BIS.jpg",
-            "https://assets.myntassets.com/assets/images/2024/8/20/8aed25f4-7006-4cd1-9097-235e4bd2df531724158492510-FM_page-0001.jpg",
-            "https://assets.myntassets.com/assets/images/2024/9/4/6dbac3f9-edfe-4062-8b93-244017054dc21725425211299-Myntra_BIS-Declaration_03.09.2024_page-0001.jpg",
-            "https://assets.myntassets.com/assets/images/2024/9/2/4a87c3d2-81a6-4924-b193-48bde7118e8d1725261852474-BIS-Certificate---Myntra-Jabong-India-Pvt.-Ltd--2-_page-0001.jpg",
-            "https://azmyntra.myntassets.com/dam-assets/assets/images/bis/2024/AUGUST/27/o5Yn07qt_726acbf747a14eafb09a25ca9d26882f.jpg",
-            "https://assets.myntassets.com/assets/images/2024/8/29/93528f49-6df3-4677-9515-2b054bb5e7361724908226991-Dawar-Myntra-Declaration_page-0001.jpg",
-            "https://azmyntra.myntassets.com/dam-assets/assets/images/bis/2024/AUGUST/27/r7logaT0_3b67334347114cb49e12336eb519d7e7.jpg",
-            "https://azmyntra.myntassets.com/dam-assets/assets/images/bis/2024/AUGUST/27/fDSgBiAn_f3031118b23c4624bfcf99f3515522ee.jpg",
-            "https://assets.myntassets.com/assets/images/2024/8/19/b980d608-95eb-48a0-8657-e5f40c2f7d291724051134951-PUMA-22_page-0001.jpg",
-            "https://azmyntra.myntassets.com/dam-assets/assets/images/bis/2024/AUGUST/27/2LouB8ge_4639b5fe556d4fe0a5d6928b2dfc921b.jpg",
-            "https://assets.myntassets.com/assets/images/2024/8/9/2b55adc6-c39a-48e4-81a9-1b5768ad209d1723208201519-RNV-Udyam-Registration-Certificate-New-images-0.jpg",
-            "https://azmyntra.myntassets.com/dam-assets/assets/images/bis/2024/OCTOBER/8/s8LOF4Eq_8359ce6c271f41f2a007b3ed2ab96568.jpg",
-            "https://assets.myntassets.com/assets/images/2024/8/19/fe9816c4-c36b-403f-921d-3eeb553b62821724069438003-RKD-CML--NEW.jpeg",
-            "https://azmyntra.myntassets.com/dam-assets/assets/images/bis/2024/AUGUST/27/YfyhkwMe_b7fdb5cc1f7c47ddbeb632e0eae0b4c8.jpg",
-            "https://assets.myntassets.com/assets/images/2024/8/23/f437c62d-abf8-47c3-b73e-87d6009020001724415540129-Footwear_Decln_Myntra_23082024_page-0001.jpg",
-            "https://azmyntra.myntassets.com/dam-assets/assets/images/bis/2024/AUGUST/27/IfvJnWsd_3bd8c0b72c244d3bb6794ec7600f4fb6.jpg",
-            "https://assets.myntassets.com/assets/images/2024/8/20/19f81783-0c43-4737-9571-093694a44d061724158008312-Arrow_page-0001--1-.jpg",
-            "https://azmyntra.myntassets.com/dam-assets/assets/images/bis/2024/OCTOBER/8/qaHnnQ3n_a18b80992b51409389114e749186c30a.jpg",
-            "https://assets.myntassets.com/assets/images/2024/8/26/c1b7ee92-9a9a-4b37-8a85-867d37c4a72e1724648850398-Footwear_Decln_Myntra_090824-new_page-0001.jpg",
-            "https://azmyntra.myntassets.com/dam-assets/assets/images/bis/2024/AUGUST/27/wX6UkkvZ_bde82d58bc574a169cfa7a5f6c9bfb2b.jpg",
-            "https://azmyntra.myntassets.com/dam-assets/assets/images/bis/2024/AUGUST/27/3afa3NCs_08ad69381fac45eb8d42c128eae70d21.jpg",
-            "https://assets.myntassets.com/assets/images/2024/8/14/a8f2c638-fe53-438b-9651-99c95e17a3d41723640704524-BIS-Declaration-Myntra-13082024--1---1-_page-0001.jpg",
-            "https://assets.myntassets.com/assets/images/2024/8/29/f82ddc29-9f5c-4f08-9cf1-ec1521ee41281724931458614-KALZADO--BIS1.jpg"
-        ],
-        "BIS Expiry Date":[
-            "31/07/2026",
-            "11/01/2025",
-            "16/06/2025",
-            "17/01/2025",
-            "27/07/2025",
-            "1 Pair",
-            "01/07/2025",
-            "21/11/2024",
-            "29/05/2025",
-            "16/10/2024",
-            "22/07/2025",
-            "17/03/2025",
-            "06/03/2025",
-            "04/10/2024",
-            "21/11/2025",
-            "06/11/2024",
-            "20/11/2024",
-            "31/07/2025"
-        ],
-        "Micro Trend":[
-            "Unlined Leather",
-            "Metallic",
-            "Lace-Up Espadrilles",
-            "Contrast Sole",
-            "Chunky Embellishments",
-            "Chunky Sole",
-            "Horsebit Loafers",
-            "Full Brogues",
-            "Basics",
-            "Cleated Sole",
-            "Chelsea Boots",
-            "Chukka or Desert Boots",
-            "Animal",
-            "Tassel Loafers",
-            "Denim",
-            "Penny Loafers",
-            "Half Brogues"
-        ],
-        "Material":[
-            "Textile",
-            "Mesh",
-            "Synthetic Suede",
-            "Synthetic Leather",
-            "Croslite",
-            "PU",
-            "Plastic",
-            "Suede",
-            "Nubuck",
-            "Patent Leather",
-            "Synthetic",
-            "Velvet",
-            "Synthetic Patent",
-            "Canvas",
-            "Leather"
-        ],
-        "Insole":[
-            "Padded",
-            "EVA or Rubber",
-            "Comfort Insole",
-            "Custom Orthotics",
-            "Arch Support",
-            "Memory Foam",
-            "Leather",
-            "Support Insole"
-        ],
-        "Type":[
-            "Loafers",
-            "Sneakers",
-            "Derbys",
-            "Mules",
-            "Slip-On Sneakers",
-            "Winter Boots",
-            "Driving Shoes"
-        ],
-        "Fastening":[
-            "Buckle",
-            "Zip",
-            "Slip-On",
-            "Lace-Ups",
-            "Velcro"
-        ],
-        "seller_name":"fix",
-        "BIS Certificate Number":[
-            "9512496377",
-            "8800121676",
-            "udyam-dl-10-0045634",
-            "9512496468",
-            "8800147215",
-            "9512496481",
-            "1234567",
-            "8800133414",
-            "8800149118",
-            "CML/8300158411",
-            "8530075120",
-            "CML/8800143114",
-            "UDYAM-UP-01-0010969",
-            "8800120817",
-            "8800145219",
-            "CML/9512496377",
-            "CML/8800147215",
-            "UDYAM-UP-01-0005650",
-            "UDYAM-UP-01-0108962",
-            "IS 15844 : PART 1 :2023",
-            "CML/8800145219",
-            "UDYAM-MH-19-0225224",
-            "CML/8300156280"
-        ],
-        "Shoe Width":[
-            "Regular",
-            "Narrow",
-            "Wide"
-        ],
-        "Ankle Height":[
-            "Regular",
-            "High-Top",
-            "Mid-Top"
-        ],
-        "Sustainable":[
-            "Regular",
-            "Sustainable"
-        ],
-        "Number of Items":[
-            "2",
-            "1"
-        ],
-        "Package Contains":"fix",
-        "Ornamentation":[
-            "Western - Embellished",
-            "Buckles",
-            "Bows",
-            "Laser Cuts",
-            "Tassels",
-            "LED",
-            "Ethnic - Embellished",
-            "Other"
-        ],
-        "Technology":[
-            "Latex Lined",
-            "Antibacterial",
-            "Massage Footbed",
-            "Flyknit",
-            "Sublimation",
-            "Orthotic Friendly",
-            "None",
-            "Moisture Wicking",
-            "ZoomX",
-            "Waterproof Lining",
-            "Water Repellent Upper",
-            "Lightweight"
-        ],
-        "Warranty":[
-            "3 months",
-            "45 days",
-            "14 days",
-            "28 days",
-            "2 years",
-            "7 days",
-            "6 months",
-            "1 year",
-            "Limited Warranty",
-            "2 months",
-            "1 month"
-        ],
-        "Collection Name":"fix",
-        "Size & Fit":[
-            "please use size chart to shop your fit size",
-            "Please Use size chart to shop your fit size",
-            "Standard Fit",
-            "Our sizing is as per international standards, order your regular sizes.",
-            "Comfort Fit Size",
-            "Length: 12.50 cm Width :8.50 cm Height: 4.50 cm",
-            "Scoosh 2511",
-            "The Voyager is available in a stylish beige color, making it the perfect addition to any wardrobe. With its attention-grabbing style and reliable support, the Skan Voyager is the perfect choice for any outdoor adventure.",
-            "Comfortably Regular Fit",
-            "Size fit as per standard sizes.",
-            "Lightweight design, ideal for running and walking, Anti-slippery sole for safety, Soft barefoot-like comfort, Breathable canvas upper for ventilation",
-            "Regular fit",
-            "=",
-            "USA/IND SIZE FOLLWED",
-            "Height of soles 2.8 cm.",
-            "please use size chart to shop your fit shoes",
-            "Please use size chart to shop your perfect size",
-            "Please use the size chart before purchasing to ensure the perfect fit for you.",
-            "Please use size chart to shop your fit size",
-            "Lightweight sleek modern design,Pull tab on heel for easy on/off, Padded footbed for long-lasting comfort, EVA midsole for responsive cushioning, Durable rubber outsole with added rubber pods for traction",
-            "Regular",
-            ".",
-            "please use size to shop your fit size",
-            "These shoes are true to size, with a lace-up closure that offers an adjustableandsecurefit.",
-            "Comfort Fit",
-            "Lightweight and breathable Flyknit upper, Iconic wavy sole design for added style, Enhanced ankle support with a high-top structure, Wear-resistant and comfortable EVA sole",
-            "6",
-            "--",
-            "UK 3",
-            "Benefits: Engineered for comfort with a lightweight design and cushioned insoles, they provide all-day support without compromising on style.",
-            "Features: Heel Height - Flat | Toe Shape - Round",
-            "please use size chart to shop your perfect size",
-            "Looking to elevate your sneaker collection? The Skan Pegasus will literally give you wings that instantly increases your style!",
-            "Tracer shoes are true to size and offer a snug, comfortable fit for all-day wear",
-            "Comfirt",
-            "UK 6",
-            "Please Use Size Chart to Shop your Fit Size",
-            "Heel height: 2.54 cm (1 Inch)",
-            "The shoe is true to size and offers a regular fit, with a Lace-Ups closure for an adjustableandsecurefit.",
-            "Round toe",
-            "This product runs a size larger. If you usually buy UK 7 then buy UK 6 or 6.5 for this.",
-            "Fit Type: Regular & Shoe Width : Normal",
-            "comfirt",
-            "Features: Closure - Lace-up | Heel Height - Flat | Toe Shape - Round",
-            "32.5x17x12",
-            "please use size chart to remove dust",
-            "Regular Fit",
-            "Height of soles 3 cm."
-        ],
-        "Character":[
-            "Punisher",
-            "Star Wars",
-            "Joker",
-            "Ninja Hattori",
-            "Hulk",
-            "Iron Man",
-            "Disney",
-            "Aladdin",
-            "Captain America",
-            "Black Panther",
-            "Batman",
-            "Angry Birds",
-            "Avengers"
-        ],
-        "Complete The Look":"fix",
-        "Cushioning":[
-            "Medium",
-            "Low",
-            "High"
-        ],
-        "Sport":[
-            "Tennis",
-            "Running",
-            "Walking"
-        ],
-        "Cleats":[
-            "No Cleats"
-        ],
-        "Outsole Type":[
-            "Marking"
-        ],
-        "Surface Type":[
-            "Outdoor",
-            "All-Rounder"
-        ],
-        "Heel Type":[
-            "Platform"
-        ],
-        "Distance":[
-            "Medium",
-            "Long"
-        ]
-    },
+    "Sneakers": {
+        "Sole Material": [
+                "TPR",
+                "Resin",
+                "PU",
+                "Phylon",
+                "PVC",
+                "Rubber",
+                "EVA",
+                "Synthetic",
+                "TPU",
+                "Leather",
+                "Tunit"
+            ], # imp
+        "Pattern": [
+                "Perforations",
+                "Striped",
+                "Textured",
+                "Printed",
+                "Woven Design",
+                "Colourblocked",
+                "Solid"
+            ], # imp
+        "Toe Shape": [
+                "Pointed Toe",
+                "Round Toe",
+                "Square Toe"
+            ],
+        "Occasion": [
+                "Evening",
+                "Everyday",
+                "Smart Casual",
+                "Party",
+                "Ethnic"
+            ], # imp
+        "Material & Care": "fix", # name chg
+        "Micro Trend": [
+                "Unlined Leather",
+                "Metallic",
+                "Lace-Up Espadrilles",
+                "Contrast Sole",
+                "Chunky Embellishments",
+                "Chunky Sole",
+                "Horsebit Loafers",
+                "Full Brogues",
+                "Basics",
+                "Cleated Sole",
+                "Chelsea Boots",
+                "Chukka or Desert Boots",
+                "Animal",
+                "Tassel Loafers",
+                "Denim",
+                "Penny Loafers",
+                "Half Brogues"
+            ], # name chg
+        "Material": [
+                "Textile",
+                "Mesh",
+                "Synthetic Suede",
+                "Synthetic Leather",
+                "Croslite",
+                "PU",
+                "Plastic",
+                "Suede",
+                "Nubuck",
+                "Patent Leather",
+                "Synthetic",
+                "Velvet",
+                "Synthetic Patent",
+                "Canvas",
+                "Leather"
+            ], # imp
+        "Insole": [
+                "Padded",
+                "EVA or Rubber",
+                "Comfort Insole",
+                "Custom Orthotics",
+                "Arch Support",
+                "Memory Foam",
+                "Leather",
+                "Support Insole"
+            ], # imp
+        "Type": [
+                "Loafers",
+                "Sneakers",
+                "Derbys",
+                "Mules",
+                "Slip-On Sneakers",
+                "Winter Boots",
+                "Driving Shoes"
+            ], # imp
+        "Fastening": [
+                "Buckle",
+                "Zip",
+                "Slip-On",
+                "Lace-Ups",
+                "Velcro"
+            ],
+        "seller_name": "fix",
+        "Shoe Width": [
+                "Regular",
+                "Narrow",
+                "Wide"
+            ], # name chg
+        "Ankle Height": [
+                "Regular",
+                "High-Top",
+                "Mid-Top"
+            ], # name chg
+        "Sustainable": [
+                "Regular",
+                "Sustainable"
+            ],
+           
+        "Package Contains": "fix",
+        "Ornamentation": [
+                "Western - Embellished",
+                "Buckles",
+                "Bows",
+                "Laser Cuts",
+                "Tassels",
+                "LED",
+                "Ethnic - Embellished",
+                "Other"
+            ],
+        "Technology": [
+                "Latex Lined",
+                "Antibacterial",
+                "Massage Footbed",
+                "Flyknit",
+                "Sublimation",
+                "Orthotic Friendly",
+                "None",
+                "Moisture Wicking",
+                "ZoomX",
+                "Waterproof Lining",
+                "Water Repellent Upper",
+                "Lightweight"
+            ],
+        "Collection Name": "fix",
+        "Character": [
+                "Punisher",
+                "Star Wars",
+                "Joker",
+                "Ninja Hattori",
+                "Hulk",
+                "Iron Man",
+                "Disney",
+                "Aladdin",
+                "Captain America",
+                "Black Panther",
+                "Batman",
+                "Angry Birds",
+                "Avengers"
+            ],
+        "Complete The Look": "fix",
+        "Cushioning": [
+                "Medium",
+                "Low",
+                "High"
+            ],
+        "Sport": [
+                "Tennis",
+                "Running",
+                "Walking"
+            ],
+        "Cleats": [
+                "No Cleats"
+            ],
+        "Outsole Type": [
+                "Marking"
+            ],
+        "Surface Type": [
+                "Outdoor",
+                "All-Rounder"
+            ],  # name chg
+        "Heel Type": [
+                "Platform"
+            ], # imp
+        "Distance": [
+                "Medium",
+                "Long"
+            ] # imp
+    }
     'cabinet': {
         "Cabinet Color": [
             "Red",
@@ -3281,7 +3101,6 @@ all = {
             "Beveled Edge Mirror"
         ],
         'dim' : ['ht', 'wid', ]
-
     },
     "Bathroom_Vanities":{
         "Top Material":[
