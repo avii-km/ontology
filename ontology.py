@@ -3175,6 +3175,114 @@ all = {
             "Long"
         ]
     },
+    'cabinet': {
+        "Cabinet Color": [
+            "Red",
+            "Silver",
+            "Unfinished",
+            "Brown",
+            "Black",
+            "Orange",
+            "Blue",
+            "Yellow",
+            "Gray",
+            "Green",
+            "White"
+        ],
+        "Number of Shelves Included in Cabinet": [
+            "2",
+            "0",
+            "1",
+            "6",
+            "4",
+            "9",
+            "3"
+        ],
+        "Cabinet Shade": [
+            "Light",
+            "Medium",
+            "Dark"
+        ],
+        "Cabinet Material": [
+            "Composite",
+            "Solid Wood",
+            "Wood",
+            "Particle Board",
+            "Plywood",
+            "Iron",
+            "Medium Density Fiberboard (MDF)",
+            "Steel"
+        ],
+        "Medicine Cabinet Included": [
+            "Medicine Cabinet Not Included",
+            "Medicine Cabinet Included"
+        ],
+        "Mirror Included": [
+            "Mirror Not Included",
+            "Mirror Included"
+        ]
+    },
+    'Basin': {
+        'ht', 'wid', 'dep', 'len'
+    },
+    'sink': {
+        "Sink Color": [
+            "Silver",
+            "Brown",
+            "Beige/Bisque",
+            "Black",
+            "Blue",
+            "Gray",
+            "Green",
+            "White"
+        ],
+        "Number of Sinks": [
+            "Double Sink",
+            "Single Sink"
+        ],
+        "Sink Type": [
+            "Vessel",
+            "Farmhouse/Apron front",
+            "Drop-in",
+            "Undermount",
+            "Integral"
+        ],
+        "Sink Material": [
+            "Composite",
+            "Plastic",
+            "Glass",
+            "Porcelain",
+            "Ceramic",
+            "Acrylic",
+            "Marble",
+            "Solid Surface",
+            "Vitreous China",
+            "Cast Iron",
+            "Cultured Marble"
+        ],
+        "Sink Location": [
+            "Left",
+            "Center",
+            "Right"
+        ],
+        "Sink Shape": [
+            "Round",
+            "Rectangular",
+            "Specialty",
+            "Square"
+        ],
+    },
+    'mirror': {
+        "Mirror Features": [
+            "No Mirror Features",
+            "Lighted",
+            "Fog Free Mirror,Lighted",
+            "Beveled Edge Mirror,Lighted",
+            "Beveled Edge Mirror"
+        ],
+        'dim' : ['ht', 'wid', ]
+
+    },
     "Bathroom_Vanities":{
         "Top Material":[
             "Resin",
@@ -3198,168 +3306,9 @@ all = {
             "Marble",
             "Solid Surface"
         ],
-        "Vanity Features":"fix",
-        "Top Color":"fix",
-        "Assembled":[
-            "Assembled",
-            "Unassembled"
-        ],
-        "Sink Color":[
-            "WSG",
-            "High Gloss White",
-            "Silver",
-            "Travertine",
-            "Black",
-            "Solid White",
-            "Carrera",
-            "Matte Black",
-            "Matte White",
-            "white",
-            "Gray",
-            "Glossy White",
-            "Ivory",
-            "White",
-            "Matt Black"
-        ],
-        "Product Depth (in.)":[
-            "19 in",
-            "30 in",
-            "24 in",
-            "22.44 in",
-            "20.38 in",
-            "19.7 in",
-            "19.25 in",
-            "18.375 in",
-            "21.75 in",
-            "10.2 in",
-            "18.15 in",
-            "41 in",
-            "12.13 in",
-            "8.60 in",
-            "18.11 in",
-            "24.4 in",
-            "22.05 in",
-            "24.63 in",
-            "18.5 in",
-            "18.9 in",
-            "18.50 in",
-            "19.62 in",
-            "18.98 in",
-            "34.4 in",
-            "18.40 in",
-            "18.90 in",
-            "22.25 in",
-            "25 in",
-            "18.06 in",
-            "24.00 in",
-            "21.61 in",
-            "35.20 in",
-            "23 in",
-            "22.8 in",
-            "29.00 in",
-            "18.63 in",
-            "12.2 in",
-            "22.5 in",
-            "20.7 in",
-            "17.87 in",
-            "18.7 in",
-            "11.75 in",
-            "18.00 in",
-            "18.1 in",
-            "23.00 in",
-            "20.5 in",
-            "18.31 in",
-            "20.00 in",
-            "19.0 in",
-            "34.51 in",
-            "19.5 in",
-            "21.50 in",
-            "1 in",
-            "20.50 in",
-            "19.63 in",
-            "21.73 in",
-            "21 in",
-            "18.32 in",
-            "13.5 in",
-            "21.85 in",
-            "1831 in",
-            "21.00 in",
-            "18 in",
-            "40.16 in",
-            "18.38 in",
-            "18.75 in",
-            "20.40 in",
-            "21.65 in",
-            "18.13 in",
-            "18.12 in",
-            "19.50 in",
-            "20.9 in",
-            "20.4 in",
-            "22.00 in",
-            "20 in",
-            "21.63 in",
-            "22 in",
-            "17.8 in",
-            "12.20 in",
-            "17.6 in",
-            "18.25 in",
-            "17.75 in",
-            "18.3 in",
-            "21.5 in",
-            "20.47 in"
-        ],
         "Faucet Included":[
             "Faucet Not Included",
             "Faucet Included"
-        ],
-        "Number of Shelves Included in Cabinet":[
-            "2",
-            "0",
-            "1",
-            "6",
-            "4",
-            "9",
-            "3"
-        ],
-        "Mirror Height (in.)":[
-            "24",
-            "36",
-            "27.5",
-            "31.5",
-            "0",
-            "27.60",
-            "27.56",
-            "00",
-            "34.00",
-            "32",
-            "25.5",
-            "30",
-            "28",
-            "25.50",
-            "31.50",
-            "27.6",
-            "34.80",
-            "29.5",
-            "32.00",
-            "18.90",
-            "30.00",
-            "33",
-            "22.5"
-        ],
-        "Cabinet Color":"fix",
-        "Internet Sku":"fix",
-        "Cabinet Color Family":[
-            "Red",
-            "Silver",
-            "Unfinished",
-            "Brown",
-            "Black",
-            "Orange",
-            "Blue",
-            "Yellow",
-            "Gray",
-            "Green",
-            "White"
         ],
         "Top Color Family":[
             "Cream",
@@ -3370,99 +3319,7 @@ all = {
             "Green",
             "White"
         ],
-        "Basin Depth (in.)":"fix",
-        "Cabinet Shade":[
-            "Light",
-            "Medium",
-            "Dark"
-        ],
         "Top weight (lb.)":"fix",
-        "Sink Color Family":[
-            "Silver",
-            "Brown",
-            "Beige/Bisque",
-            "Black",
-            "Blue",
-            "Gray",
-            "Green",
-            "White"
-        ],
-        "Number of Sinks":[
-            "Double Sink",
-            "Single Sink"
-        ],
-        "Manufacturer Warranty":[
-            "3 months",
-            "We warrant our furniture free of manufacturing defects from the date of purchase to the original purchaser only.",
-            "Limited 1 Year Warranty",
-            "Limited lifetime",
-            "1 yr limited",
-            "2 year limited warranty",
-            "1 year limited warranty",
-            "1 year manufacture defects-original owner-parts only",
-            "1 Year Limited Manufacturer Warranty on all Eviva Products From Delivery Date",
-            "1 year Limited",
-            "1 Year Manufacturer Warranty On All Eviva Bathroom Products From Delivery Date",
-            "5 year limited",
-            "1 year",
-            "1 yr Manufacturer",
-            "1 Year Warranty",
-            "One Year Limited Mfg Warrant",
-            "1 month",
-            "1 Year Limited",
-            "1-Yr Limited Defect Warranty",
-            "90 days",
-            "OVE warrants all vanities to be free from defects in workmanship and materials under normal use and service for a period of one (1) year from the initial date of purchase.",
-            "90-days",
-            "30 days",
-            "5 Year limited",
-            "one year limited",
-            "6 Months Warranty",
-            "3 Year Limited Parts",
-            "n/a",
-            "1 Year limited to be free of defects in material and workmanship",
-            "25-year residential warranty",
-            "1 Year",
-            "1 year limited manufacturer warranty",
-            "1-year limited warranty on vanity, limited lifetime warranty on vanity top",
-            "2 year limited",
-            "1-year",
-            "30 Days Warranty",
-            "One Year Limited",
-            "Limited 1 year warranty",
-            "1 Year Unlimited",
-            "3 Year Limited Warranty",
-            "Limited Lifetime",
-            "60 days",
-            "If any questions about products and after-sale service, please contact us at service@angeleshome.com.",
-            "1 year manufacture warranty against defects - parts",
-            "One year limited warranty",
-            "2 years",
-            "One-year limited warranty",
-            "One-Year Limited Warranty",
-            "1 year limited",
-            "1 Year Limited Manufacturer Warranty",
-            "One Year Limited Warranty",
-            "1-Year Limited Warranty",
-            "1 Year Limited Warranty",
-            "5 Year Limited",
-            "2 Year Limited",
-            "1 Year Manufacturer Warranty On All Eviva Bathroom Vanities From delivery date",
-            "1 Year Limited Parts",
-            "3-year limited parts",
-            "1 Year Warranty / Limited Lifetime Warranty on drawer suspension systems",
-            "Limited 1 Year on Cabinet and Limited Lifetime Residential on Granite Top",
-            "KOHLER® One-Year Limited Warranty",
-            "Limited Lifetime Warranty",
-            "1-year limited warranty",
-            "Limited Warranty",
-            "1 Year Limited Manufacturer",
-            "Limited 5 year warranty",
-            "1 Year: The Manufacturer warrants the products against defects in workmanship, materials, or operation, excluding ordinary wear and tear.",
-            "1-Year limited warranty",
-            "Lexora grants a guarantee period of 1 year limited warranty.",
-            "90-Days Warranty"
-        ],
         "Vanity Top Thickness (in.)":[
             "3.0",
             "4.0",
@@ -3577,110 +3434,6 @@ all = {
             "Traditional",
             "Farmhouse,Transitional"
         ],
-        "Sink Type":[
-            "Vessel",
-            "Farmhouse/Apron front",
-            "Drop-in",
-            "Undermount",
-            "Integral"
-        ],
-        "Sink Material":[
-            "Composite",
-            "Plastic",
-            "Glass",
-            "Porcelain",
-            "Ceramic",
-            "Acrylic",
-            "Marble",
-            "Solid Surface",
-            "Vitreous China",
-            "Cast Iron",
-            "Cultured Marble"
-        ],
-        "Basin Length (in.)":"fix",
-        "Mirror Width (in.)":[
-            "55.25",
-            "28.00",
-            "24",
-            "31.5",
-            "36",
-            "0",
-            "20.00",
-            "22",
-            "27.56",
-            "72",
-            "26",
-            "55",
-            "47.2",
-            "48",
-            "34.00",
-            "46",
-            "30.1",
-            "32",
-            "28",
-            "27.50",
-            "30",
-            "47.20",
-            "27.3",
-            "18",
-            "30.10",
-            "29.5",
-            "24.00",
-            "15.75",
-            "80",
-            "58.00",
-            "44",
-            "21.7",
-            "27.00",
-            "48.00",
-            "46.00",
-            "27.30",
-            "32.00",
-            "23.20",
-            "60",
-            "58",
-            "26.00",
-            "23.50",
-            "70",
-            "34",
-            "43",
-            "23.58",
-            "30.00",
-            "21"
-        ],
-        "Backsplash Height (in.)":[
-            "4.0",
-            "3.1",
-            "0",
-            "3.9",
-            "34.00",
-            "0.50",
-            "3.94",
-            "2.40",
-            "3.5",
-            "3.90",
-            "0.5",
-            "0.63",
-            "3.50",
-            "2.99",
-            "3.88",
-            "4.00",
-            "4",
-            "3.00",
-            "3"
-        ],
-        "Cabinet Width (in.)":"fix",
-        "Cabinet & Top Assembled weight (lbs)":"fix",
-        "Mirror Features":[
-            "No Mirror Features",
-            "Lighted",
-            "Fog Free Mirror,Lighted",
-            "Beveled Edge Mirror,Lighted",
-            "Beveled Edge Mirror"
-        ],
-        "Returnable":[
-            "90-Day"
-        ],
         "Vanity Top Edge Type":[
             "Bullnose",
             "Round Over",
@@ -3693,85 +3446,6 @@ all = {
             "Miter",
             "Ogee"
         ],
-        "Sink Location":[
-            "Left",
-            "Center",
-            "Right"
-        ],
-        "Cabinet Height (in.)":"fix",
-        "Product Width (in.)":"fix",
-        "Included":[
-            "Drawers,Floor Cabinet,Mounting Hardware,Pull Handle(s)",
-            "Legs",
-            "Drain Assembly,P-Trap",
-            "Drain Assembly,Drawers,Floor Cabinet,P-Trap,Pull Handle(s)",
-            "Mounting Hardware,Pull Handle(s),Wall Cabinet",
-            "Floor Cabinet,Legs,Mounting Hardware,Pull Handle(s)",
-            "Drawers",
-            "Drain Assembly,Drawers,Legs,Pull Handle(s)",
-            "No Additional Included Components",
-            "Drain Assembly,Drawers,Floor Cabinet,Mounting Hardware,P-Trap,Pull Handle(s)",
-            "Drawers,Mounting Hardware,Wall Cabinet",
-            "Drawers,Floor Cabinet,Legs,Mounting Hardware",
-            "Drawers,Floor Cabinet,Floor Protectors,Legs,Mounting Hardware",
-            "Drain Assembly,Legs,Pull Handle(s)",
-            "Wall Cabinet",
-            "Drain Assembly,Drawers,Pull Handle(s)",
-            "Drawers,Floor Cabinet,Pull Handle(s)",
-            "Floor Cabinet,Floor Protectors,Pull Handle(s)",
-            "Drain Assembly,Drawers,Mounting Hardware,P-Trap,Pull Handle(s),Wall Cabinet",
-            "Assembly Tool",
-            "Drawers,Legs,Mounting Hardware,Pull Handle(s)",
-            "Drawers,Mounting Hardware,Pull Handle(s),Wall Cabinet",
-            "Drawers,Floor Cabinet",
-            "Drawers,Floor Cabinet,Legs,Pull Handle(s)",
-            "Drawers,Pull Handle(s),Wall Cabinet",
-            "Floor Cabinet,Mounting Hardware,Wall Cabinet",
-            "Drawers,Floor Cabinet,Legs,Mounting Hardware,Pull Handle(s)",
-            "Drawers,Mounting Hardware",
-            "Pull Handle(s)",
-            "Assembly Tool,Drawers,Legs",
-            "Drawers,Mounting Hardware,Pull Handle(s)",
-            "Drain Assembly,Floor Cabinet,Mounting Hardware,Wall Cabinet",
-            "Drawers,No Additional Included Components,Pull Handle(s)",
-            "Drawers,Floor Cabinet,Floor Protectors,Pull Handle(s)",
-            "Drain Assembly,Mounting Hardware,Wall Cabinet",
-            "Drawers,Floor Protectors,Legs,Pull Handle(s)",
-            "Drawers,Floor Cabinet,Mounting Hardware",
-            "Legs,Mounting Hardware",
-            "Drain Assembly,Mounting Hardware,P-Trap,Pull Handle(s),Wall Cabinet",
-            "Mounting Hardware,Pull Handle(s)",
-            "Floor Cabinet,Legs",
-            "Mounting Hardware,No Additional Included Components,Wall Cabinet",
-            "Mounting Hardware",
-            "Assembly Tool,Drawers,Floor Cabinet,Pull Handle(s)",
-            "No Additional Included Components,Pull Handle(s)",
-            "Drain Assembly,Pull Handle(s)",
-            "Drawers,Wall Cabinet",
-            "Floor Protectors,Legs,Pull Handle(s)",
-            "Mounting Hardware,Wall Cabinet",
-            "Drawers,Floor Cabinet,Legs",
-            "Drain Assembly,Drawers,Floor Cabinet,Legs,P-Trap",
-            "Drawers,Pull Handle(s)",
-            "Floor Cabinet,Mounting Hardware",
-            "Legs,Mounting Hardware,Pull Handle(s)",
-            "Drawers,Floor Cabinet,No Additional Included Components,Pull Handle(s)",
-            "Legs,Pull Handle(s)",
-            "Floor Cabinet",
-            "Drawers,Legs,Pull Handle(s)",
-            "Drawers,Legs",
-            "Drawers,Legs,Linen Cabinet"
-        ],
-        "Cabinet Material":[
-            "Composite",
-            "Solid Wood",
-            "Wood",
-            "Particle Board",
-            "Plywood",
-            "Iron",
-            "Medium Density Fiberboard (MDF)",
-            "Steel"
-        ],
         "Backsplash Included":[
             "Backsplash Not Included",
             "Backsplash Included"
@@ -3780,18 +3454,6 @@ all = {
             "Floating",
             "Corner",
             "Freestanding"
-        ],
-        "Cabinet Depth (in.)":"fix",
-        "Store Sku":"fix",
-        "Sink Shape":[
-            "Round",
-            "Rectangular",
-            "Specialty",
-            "Square"
-        ],
-        "Mirror Included":[
-            "Mirror Not Included",
-            "Mirror Included"
         ],
         "Faucet Hole Spacing (in.)":[
             "Single Hole, No Spacing - Single Hole",
@@ -3802,106 +3464,15 @@ all = {
             "8 in. Faucet Hole Spacing",
             "4 in. Faucet Hole Spacing"
         ],
-        "Number of Drawers":[
-            "2",
-            "14",
-            "7",
-            "11",
-            "0",
-            "1",
-            "10",
-            "12",
-            "6",
-            "4",
-            "9",
-            "8",
-            "5",
-            "13",
-            "3"
-        ],
-        "Model":"fix",
-        "Basin Width (in.)":"fix",
-        "Product Height (in.)":"fix",
         "Assembly Required":[
             "Yes",
             "No"
-        ],
-        "Vanity Part Type":[
-            "Vanity Side Cabinet"
         ],
         "Label":[
             "Exclusive",
             "Top Rated",
             "New",
             "Bath Event"
-        ],
-        "Product Weight (lb.)":[
-            "124.6 lb",
-            "174.6 lb",
-            "87.6 lb",
-            "49 lb",
-            "157.6 lb",
-            "69 lb",
-            "180 lb",
-            "130.6 lb",
-            "108.6 lb",
-            "89 lb",
-            "146 lb",
-            "124 lb",
-            "126.5 lb",
-            "113 lb",
-            "118 lb",
-            "76.5 lb",
-            "67 lb",
-            "129.86 lb",
-            "115.5 lb",
-            "52.7 lb",
-            "6.700 lb",
-            "101 lb",
-            "70.99 lb",
-            "162 lb",
-            "82 lb",
-            "61.7 lb",
-            "108 lb",
-            "82.6 lb",
-            "129 lb",
-            "65 lb",
-            "72 lb",
-            "123 lb",
-            "141.6 lb",
-            "50 lb",
-            "42 lb",
-            "40 lb",
-            "64.8 lb",
-            "77 lb",
-            "87.09 lb",
-            "149 lb",
-            "57 lb",
-            "9.650 lb",
-            "89.38 lb",
-            "179 lb",
-            "135.6 lb",
-            "104.36 lb",
-            "8.180 lb",
-            "132 lb",
-            "96 lb",
-            "99.5 lb",
-            "31 lb",
-            "85 lb",
-            "94.5 lb",
-            "12.600 lb",
-            "140 lb",
-            "105 lb",
-            "113.6 lb",
-            "117 lb",
-            "105.5 lb",
-            "47 lb",
-            "34 lb",
-            "15.540 lb",
-            "33 lb",
-            "119.6 lb",
-            "89.5 lb",
-            "135 lb"
         ],
         "Features":[
             "Mildew Resistant,Mold Resistant,Predrilled,Scratch Resistant,Stain Resistant",
@@ -3914,153 +3485,9 @@ all = {
             "Sidesplash Included",
             "Sidesplash Not Included"
         ],
-        "Product Width x Depth":[
-            "30 in. x 22 in.",
-            "58.25 in. x 22.25 in.",
-            "25 in. x 22.25 in.",
-            "36 in. x 22 in.",
-            "42 in. x 22 in.",
-            "43.25 in. x 22.25 in.",
-            "49.25 in. x 22.25 in.",
-            "37 in. x 22 in.",
-            "54.5 in. x 22.25 in.",
-            "24 in. x 22 in.",
-            "49 in. x 22.25 in.",
-            "60 in. x 22 in.",
-            "43 in. x 22 in.",
-            "34.5 in. x 22.25 in.",
-            "55.5 in. x 22.25 in.",
-            "54 in. x 22 in.",
-            "24 in. x 1 in.",
-            "33.75 in. x 22.25 in.",
-            "31 in. x 22 in.",
-            "57.5 in. x 22.25 in.",
-            "25.5 in. x 22.25 in.",
-            "28.5 in. x 22.25 in.",
-            "28 in. x 22.25 in.",
-            "36.5 in. x 22.25 in.",
-            "39.5 in. x 22.25 in.",
-            "48.5 in. x 22.25 in.",
-            "37.25 in. x 22.25 in.",
-            "27.5 in. x 22.25 in.",
-            "39.75 in. x 22.25 in.",
-            "34.25 in. x 22.25 in.",
-            "27.75 in. x 22.25 in.",
-            "55.25 in. x 22.25 in.",
-            "25.25 in. x 22.25 in.",
-            "58 in. x 22.25 in.",
-            "60.5 in. x 22.25 in.",
-            "30.75 in. x 22.25 in.",
-            "61.5 in. x 22.25 in.",
-            "49 in. x 22 in.",
-            "40.5 in. x 22.25 in.",
-            "61 in. x 22.25 in.",
-            "48.75 in. x 22.25 in.",
-            "61.25 in. x 22.25 in.",
-            "24.5 in. x 22.25 in.",
-            "43.5 in. x 22.25 in.",
-            "61 in. x 22 in.",
-            "31.25 in. x 22.25 in.",
-            "31.5 in. x 22.25 in.",
-            "42.5 in. x 22.25 in.",
-            "43 in. x 22.25 in.",
-            "34 in. x 22.25 in.",
-            "66 in. x 22 in.",
-            "55 in. x 22.25 in.",
-            "33.5 in. x 22.25 in.",
-            "40.25 in. x 22.25 in.",
-            "48 in. x 22 in.",
-            "49.5 in. x 22.25 in.",
-            "57.75 in. x 22.25 in.",
-            "31 in. x 22.25 in.",
-            "58.5 in. x 22.25 in.",
-            "42.75 in. x 22.25 in.",
-            "37 in. x 22.25 in.",
-            "37.5 in. x 22.25 in.",
-            "28.25 in. x 22.25 in.",
-            "36.75 in. x 22.25 in.",
-            "40 in. x 22.25 in.",
-            "54.75 in. x 22.25 in.",
-            "60.75 in. x 22.25 in.",
-            "30.5 in. x 22.25 in."
-        ],
-        "Medicine Cabinet Included":[
-            "Medicine Cabinet Not Included",
-            "Medicine Cabinet Included"
-        ],
         "Remote Access":[
             "Remote Access",
             "No Remote Access"
-        ],
-        "Voice Control Hub Required":[
-            "No Voice Control"
-        ],
-        "Works With":[
-            "No additional compatibility"
-        ],
-        "Mirror Width in":[
-            "24",
-            "27.50"
-        ],
-        "Product Depth in":[
-            "18.1 in",
-            "18.5 in"
-        ],
-        "Faucet Hole Spacing in":[
-            "Single Hole"
-        ],
-        "Vanity Drawer/Door Features":[
-            "Adjustable Hinges,Soft Close Door Hinges,Soft Close Drawer Hinges"
-        ],
-        "Basin Depth in":[
-            "6.5",
-            "4.7"
-        ],
-        "Basin Length in":[
-            "11.5",
-            "15.7"
-        ],
-        "Cabinet Top Assembled weight lbs":[
-            "148",
-            "126"
-        ],
-        "Cabinet Depth in":[
-            "17.90",
-            "17.70"
-        ],
-        "Mirror Height in":[
-            "27.6"
-        ],
-        "Cabinet Height in":[
-            "35.00",
-            "30.30"
-        ],
-        "Basin Width in":[
-            "15.7",
-            "17.5"
-        ],
-        "Cabinet Width in":[
-            "29.50",
-            "23.20"
-        ],
-        "Vanity Top Thickness in":[
-            "0.8"
-        ],
-        "Vanity Cabinet Features":[
-            "Mold Resistant,Stain Resistant",
-            "Stain Resistant"
-        ],
-        "Product Width in":[
-            "24 in",
-            "29.9 in"
-        ],
-        "Product Height in":[
-            "35.8 in",
-            "36 in"
-        ],
-        "Top weight lb":[
-            "25",
-            "30"
         ],
         "Vanity Drawer Door Features":[
             "Adjustable Hinges,Soft Close Door Hinges",
@@ -4073,48 +3500,12 @@ all = {
             "PVC (60%), Plywood (40%)",
             "Plywood (N/A%)"
         ],
-        "Assembled Width (in.)":[
-            "49.00 in"
-        ],
-        "Assembled Height (in.)":[
-            "34.78 in"
-        ],
-        "Assembled Depth (in.)":[
-            "22.00 in"
-        ],
-        "Hub Required":[
-            "No hub connection available"
-        ],
-        "Requires Hub?":[
-            "No Hub Required"
-        ],
-        "Power Options":[
-            "Plug-in,USB Connector"
-        ],
-        "Reversible":[
-            "No"
-        ],
-        "Color/Finish":[
-            "Eternal Serena",
-            "Eternal Statuario",
-            "Eternal Marquina",
-            "Miami White"
-        ],
         "Color Family":[
             "Black",
             "Cream",
             "White",
             "Gray"
         ],
-        "Product Thickness (in.)":[
-            ".8125 in",
-            ".2125 in"
-        ],
-        "Certifications and Listings":[
-            "EPA Approved",
-            "EPA Approved,IAPMO Certified",
-            "EPA Approved,EPA Approved,IAPMO Certified"
-        ]
     },
     "Watches":{
         "Calendar Type":[
