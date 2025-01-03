@@ -215,20 +215,6 @@ all = {
             "100% Natural, Skin-friendly, Soft",
             "Feels Like Skin"
         ],
-        "Lining":[
-            "90% Polyester, 10% Elastane",
-            "92% Polyester, 8% Elastane",
-            "100% Polyester",
-            "94% Polyester, 6% Elastane",
-            "100% Cotton",
-            "100% Polyamide",
-            "91% Polyester, 9% Elastane",
-            "95% Polyester, 5% Elastane"
-        ],
-        "Coating":[
-            "100% Cotton",
-            "95% Polyester, 5% Elastane"
-        ],
         "Body":[
             "Lined top, unlined bottom",
             "Lined",
