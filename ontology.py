@@ -324,107 +324,6 @@ all = {
         ],
     },
     "Dresses":{
-        "Care instructions":[
-            "Line dry, Only non-chlorine bleach when needed, Machine wash at 30°, Can be dry cleaned, High iron",
-            "Use a laundry bag, Only non-chlorine bleach when needed, Machine wash at 30°, Do not iron on decoration, Can be dry cleaned, Line dry, Low iron",
-            "Use a laundry bag, Line dry, Only non-chlorine bleach when needed, Machine wash at 30°, Can be dry cleaned, No iron",
-            "Use a laundry bag, Line dry, Only non-chlorine bleach when needed, Medium iron, Machine wash at 30°, Can be dry cleaned",
-            "Line dry, Only non-chlorine bleach when needed, Dry flat, Machine wash at 30°, Can be dry cleaned, Low iron",
-            "Use a laundry bag, Line dry, Only non-chlorine bleach when needed, Machine wash at 40°, Medium iron, Can be dry cleaned",
-            "Use a laundry bag, Only non-chlorine bleach when needed, Wash with similar colours, Can be dry cleaned, Machine wash at 40°, Dry flat, Medium iron",
-            "Line dry, Only non-chlorine bleach when needed, Machine wash at 30°, Can be dry cleaned, Wash with similar colours, Low iron",
-            "Use a laundry bag, Line dry, Only non-chlorine bleach when needed, Machine wash at 30°, No dry clean, No iron",
-            "Reshape & dry flat, Only non-chlorine bleach when needed, Machine wash at 30°, Can be dry cleaned, Low iron",
-            "Use a laundry bag, Only non-chlorine bleach when needed, Machine wash at 30°, No dry clean, Low iron",
-            "Use a laundry bag, Only non-chlorine bleach when needed, Machine wash at 30°, Do not iron on decoration, Wash with similar colours, Can be dry cleaned, Line dry, Medium iron",
-            "Only non-chlorine bleach when needed, Machine wash at 40°, Can be dry cleaned, Tumble dry medium, Wash with similar colours, High iron",
-            "Use a laundry bag, Only non-chlorine bleach when needed, Wash inside out, Use mild detergent, Machine wash at 30°, Can be dry cleaned, Line dry, Medium iron",
-            "Line dry, Only non-chlorine bleach when needed, Machine wash at 40°, Can be dry cleaned, No iron",
-            "Use a laundry bag, Only non-chlorine bleach when needed, Machine wash at 30°, No dry clean, Do not iron on decoration, Line dry, Medium iron",
-            "Use a laundry bag, Line dry, Only non-chlorine bleach when needed, Medium iron, Machine wash at 30°, No dry clean",
-            "Line dry, Only non-chlorine bleach when needed, Machine wash at 30°, Can be dry cleaned, Wash with similar colours, High iron",
-            "Use a laundry bag, Only non-chlorine bleach when needed, Machine wash at 40°, Medium iron, Can be dry cleaned",
-            "Use a laundry bag, Line dry, Only non-chlorine bleach when needed, Machine wash at 30°, No dry clean, Low iron",
-            "Tumble dry low, Only non-chlorine bleach when needed, Machine wash at 30°, Can be dry cleaned, Low iron",
-            "Line dry, Only non-chlorine bleach when needed, Machine wash at 40°, Medium iron, Can be dry cleaned",
-            "Only non-chlorine bleach when needed, Machine wash at 30°, Wash with similar colours, Can be dry cleaned, Iron when damp, Line dry, Low iron",
-            "Line dry, Only non-chlorine bleach when needed, Machine wash at 40°, Can be dry cleaned, High iron",
-            "Use a laundry bag, Only non-chlorine bleach when needed, No dry clean, Wash with similar colours, Line dry, Machine wash at 40°, Medium iron",
-            "Only non-chlorine bleach when needed, Wash with similar colours, Can be dry cleaned, Line dry, Machine wash at 40°, Medium iron, Remove belt before wash",
-            "Use a laundry bag, Only non-chlorine bleach when needed, Machine wash at 30°, Can be dry cleaned, Iron when damp, Line dry, Medium iron",
-            "Tumble dry low, Only non-chlorine bleach when needed, Machine wash at 40°, Medium iron, Can be dry cleaned, Wash with similar colours",
-            "Line dry, Only non-chlorine bleach when needed, Machine wash at 40°, Medium iron, Can be dry cleaned, Wash with similar colours",
-            "Only non-chlorine bleach when needed, Dry flat, Use mild detergent, Machine wash at 30°, Can be dry cleaned, Low iron",
-            "Line dry, Only non-chlorine bleach when needed, Machine wash at 30°, No dry clean, Wash with similar colours, Low iron",
-            "Line dry, Only non-chlorine bleach when needed, Unwashable, Can be dry cleaned, Low iron",
-            "Line dry, Only non-chlorine bleach when needed, Medium iron, Machine wash at 30°, Remove belt before wash, Can be dry cleaned",
-            "The colour of this denim may transfer onto light coloured materials, Only non-chlorine bleach when needed, Wash with similar colours, Can be dry cleaned, Line dry, Machine wash at 40°, Medium iron",
-            "Only non-chlorine bleach when needed, Machine wash at 30°, Can be dry cleaned, Low iron",
-            "Tumble dry low, Only non-chlorine bleach when needed, Machine wash at 40°, Medium iron, Remove belt before wash, Can be dry cleaned",
-            "Only non-chlorine bleach when needed, Medium iron, Machine wash at 30°, Can be dry cleaned, Tumble dry medium",
-            "Line dry, Only non-chlorine bleach when needed, Medium iron, Machine wash at 30°, No dry clean",
-            "Line dry, Only non-chlorine bleach when needed, Unwashable, Medium iron, Can be dry cleaned",
-            "Use a laundry bag, Only non-chlorine bleach when needed, Dry flat, Machine wash at 30°, Can be dry cleaned, Low iron",
-            "Line dry, Only non-chlorine bleach when needed, Machine wash at 40°, Dry flat, Can be dry cleaned, Low iron",
-            "Line dry, Only non-chlorine bleach when needed, Machine wash at 40°, Medium iron, No dry clean",
-            "Use a laundry bag, Only non-chlorine bleach when needed, Wash with similar colours, Can be dry cleaned, Line dry, Machine wash at 40°, Low iron",
-            "Use a laundry bag, Only non-chlorine bleach when needed, Machine wash at 30°, No dry clean, Wash with similar colours, Line dry, Medium iron",
-            "Only non-chlorine bleach when needed, Wash with similar colours, Can be dry cleaned, Machine wash at 40°, Remove belt before wash, Tumble dry medium, High iron",
-            "Use a laundry bag, Only non-chlorine bleach when needed, Machine wash at 30°, No dry clean, Wash with similar colours, Line dry, Low iron",
-            "Line dry, Only non-chlorine bleach when needed, Machine wash at 30°, Can be dry cleaned, Low iron",
-            "Use a laundry bag, Only non-chlorine bleach when needed, Machine wash at 30°, Wash with similar colours, Can be dry cleaned, Line dry, Medium iron",
-            "Only non-chlorine bleach when needed, Dry flat, Medium iron, Machine wash at 30°, Can be dry cleaned",
-            "Line dry, Only non-chlorine bleach when needed, Machine wash at 30°, Remove belt before wash, Can be dry cleaned, Low iron",
-            "Line dry, Only non-chlorine bleach when needed, Machine wash at 40°, Medium iron, Remove belt before wash, Can be dry cleaned",
-            "Line dry, Only non-chlorine bleach when needed, Machine wash at 30°, No dry clean, No iron",
-            "Use a laundry bag, Only non-chlorine bleach when needed, Machine wash at 40°, Dry flat, Can be dry cleaned, Low iron",
-            "Only non-chlorine bleach when needed, Machine wash at 30°, Can be dry cleaned, Tumble dry medium, Low iron",
-            "Line dry, Only non-chlorine bleach when needed, Machine wash at 30°, Can be dry cleaned, Wash with similar colours, No iron",
-            "Only non-chlorine bleach when needed, Wash with similar colours, Can be dry cleaned, Iron after wash, Machine wash at 40°, Tumble dry medium, High iron",
-            "Line dry, Only non-chlorine bleach when needed, Medium iron, Machine wash at 30°, Can be dry cleaned",
-            "Line dry, Only non-chlorine bleach when needed, Use mild detergent, Medium iron, Machine wash at 30°, Can be dry cleaned",
-            "Only non-chlorine bleach when needed, Machine wash at 40°, Dry flat, Can be dry cleaned, Low iron",
-            "Only non-chlorine bleach when needed, Wash with similar colours, Can be dry cleaned, Remove decoration before wash, Line dry, Machine wash at 40°, Medium iron",
-            "Use a laundry bag, Only non-chlorine bleach when needed, Machine wash at 30°, Wash with similar colours, Can be dry cleaned, Line dry, Reshape & dry flat, Low iron",
-            "Line dry, Only non-chlorine bleach when needed, Machine wash at 40°, No dry clean, Low iron",
-            "Tumble dry low, Only non-chlorine bleach when needed, Medium iron, Machine wash at 30°, Can be dry cleaned",
-            "Line dry, Only non-chlorine bleach when needed, Machine wash at 40°, Can be dry cleaned, Wash with similar colours, Low iron",
-            "Use a laundry bag, Only non-chlorine bleach when needed, No dry clean, Do not iron on decoration, Wash with similar colours, Line dry, Machine wash at 40°, Medium iron",
-            "Line dry, Only non-chlorine bleach when needed, Machine wash at 30°, Remove belt before wash, No dry clean, Low iron",
-            "Line dry, Only non-chlorine bleach when needed, Machine wash at 40°, Can be dry cleaned, Wash with similar colours, No iron",
-            "Only non-chlorine bleach when needed, Machine wash at 40°, Medium iron, Can be dry cleaned, Tumble dry medium",
-            "Only non-chlorine bleach when needed, Use mild detergent, Machine wash at 30°, Wash with similar colours, Can be dry cleaned, Use softener, Line dry, Medium iron, Wash separately",
-            "Line dry, Only non-chlorine bleach when needed, Machine wash at 30°, No dry clean, Low iron",
-            "Use a laundry bag, Only non-chlorine bleach when needed, Machine wash at 30°, Can be dry cleaned, Line dry, Iron after wash, Low iron",
-            "Use a laundry bag, Only non-chlorine bleach when needed, Wash with similar colours, Can be dry cleaned, Line dry, Machine wash at 40°, Medium iron",
-            "Use a laundry bag, Only non-chlorine bleach when needed, Use mild detergent, Machine wash at 30°, No dry clean, Do not iron on decoration, Line dry, Medium iron",
-            "Use a laundry bag, Only non-chlorine bleach when needed, Machine wash at 30°, Do not iron on decoration, Can be dry cleaned, Line dry, Medium iron",
-            "Use a laundry bag, Only non-chlorine bleach when needed, No dry clean, Wash with similar colours, Line dry, Machine wash at 40°, Medium iron, Remove belt before wash",
-            "Use a laundry bag, Only non-chlorine bleach when needed, Wash with similar colours, Can be dry cleaned, Line dry, Machine wash at 40°, No iron",
-            "Use a laundry bag, Only non-chlorine bleach when needed, Machine wash at 30°, Can be dry cleaned, Line dry, Remove belt before wash, Low iron",
-            "Iron when damp, Line dry, Only non-chlorine bleach when needed, Medium iron, Machine wash at 30°, Can be dry cleaned",
-            "Only non-chlorine bleach when needed, Dry flat, Machine wash at 30°, Can be dry cleaned, Low iron",
-            "Tumble dry low, Only non-chlorine bleach when needed, Machine wash at 40°, Medium iron, Can be dry cleaned",
-            "Only non-chlorine bleach when needed, No dry clean, Do not use softener, Line dry, Machine wash at 40°, Do not iron on print, Remove padding before wash, Low iron",
-            "Line dry, Only non-chlorine bleach when needed, Machine wash at 40°, Can be dry cleaned, Low iron",
-            "Only non-chlorine bleach when needed, Machine wash at 30°, Can be dry cleaned, Tumble dry medium, Wash with similar colours, Low iron",
-            "Use a laundry bag, Only non-chlorine bleach when needed, Machine wash at 30°, Can be dry cleaned, Iron when damp, Line dry, Low iron",
-            "Use a laundry bag, Line dry, Only non-chlorine bleach when needed, Machine wash at 40°, Can be dry cleaned, No iron",
-            "Use a laundry bag, Only non-chlorine bleach when needed, Machine wash at 40°, Dry flat, Medium iron, Can be dry cleaned",
-            "Use a laundry bag, Line dry, Only non-chlorine bleach when needed, Machine wash at 40° Gentle cycle​, Can be dry cleaned, No iron",
-            "Line dry, Only non-chlorine bleach when needed, Medium iron, Machine wash at 30°, Can be dry cleaned, Wash with similar colours",
-            "Use a laundry bag, Only non-chlorine bleach when needed, Wash with similar colours, Can be dry cleaned, Line dry, Machine wash at 40°, Dry flat, Medium iron",
-            "Iron when damp, Line dry, Only non-chlorine bleach when needed, Machine wash at 30°, Can be dry cleaned, Low iron",
-            "Use a laundry bag, Only non-chlorine bleach when needed, Wash with similar colours, Can be dry cleaned, Line dry, Machine wash at 40°, Medium iron, Remove belt before wash",
-            "Line dry, Only non-chlorine bleach when needed, Machine wash at 40°, No dry clean, High iron",
-            "Line dry, Only non-chlorine bleach when needed, Medium iron, Machine wash at 30°, Can be dry cleaned, Do not iron on decoration",
-            "Use a laundry bag, Only non-chlorine bleach when needed, Machine wash at 30°, Can be dry cleaned, Line dry, Dry flat, Medium iron",
-            "Use a laundry bag, Only non-chlorine bleach when needed, Machine wash at 30°, Can be dry cleaned, Line dry, Dry flat, Low iron",
-            "Only non-chlorine bleach when needed, Machine wash at 40°, Dry flat, Medium iron, Can be dry cleaned",
-            "Line dry, Only non-chlorine bleach when needed, Machine wash at 40°, Can be dry cleaned, Wash with similar colours, High iron",
-            "Use a laundry bag, Line dry, Only non-chlorine bleach when needed, Machine wash at 40°, Can be dry cleaned, Low iron",
-            "Use a laundry bag, Line dry, Only non-chlorine bleach when needed, Machine wash at 30°, Can be dry cleaned, Low iron"
-        ],
         "Sleeve Length":[
             "Short sleeve",
             "Wrist-Length Sleeve",
@@ -519,32 +418,6 @@ all = {
             "Turkey/Türkiye",
             "Morocco"
         ],
-        "Price (MRP)":[
-            "Rs. 7,999.00 incl. of all taxes",
-            "Rs. 1,899.00 incl. of all taxes",
-            "Rs. 4,499.00 incl. of all taxes",
-            "Rs. 2,199.00 incl. of all taxes",
-            "Rs. 6,999.00 incl. of all taxes",
-            "Rs. 1,499.00 incl. of all taxes",
-            "Rs. 13,499.00 incl. of all taxes",
-            "Rs. 999.00 incl. of all taxes",
-            "Rs. 2,299.00 incl. of all taxes",
-            "Rs. 1,799.00 incl. of all taxes",
-            "Rs. 2,999.00 incl. of all taxes",
-            "Rs. 5,999.00 incl. of all taxes",
-            "Rs. 799.00 incl. of all taxes",
-            "Rs. 3,999.00 incl. of all taxes",
-            "Rs. 1,299.00 incl. of all taxes",
-            "Rs. 4,999.00 incl. of all taxes",
-            "Rs. 2,699.00 incl. of all taxes",
-            "Rs. 12,999.00 incl. of all taxes",
-            "Rs. 1,999.00 incl. of all taxes",
-            "Rs. 5,499.00 incl. of all taxes",
-            "Rs. 2,499.00 incl. of all taxes",
-            "Rs. 599.00 incl. of all taxes",
-            "Rs. 9,999.00 incl. of all taxes",
-            "Rs. 3,499.00 incl. of all taxes"
-        ],
         "Date of manufacture":[
             "06-2024",
             "07-2024",
@@ -555,7 +428,6 @@ all = {
             "03-2024",
             "10-2024",
             "02-2024",
-            "N/A"
         ],
         "Length":[
             "Knee length",
@@ -577,18 +449,6 @@ all = {
         "Net Quantity":[
             "3 N (1 Pack)",
             "1 N"
-        ],
-        "Date of import":[
-            "06-2024",
-            "07-2024",
-            "11-2024",
-            "09-2024",
-            "08-2024",
-            "05-2024",
-            "04-2024",
-            "03-2024",
-            "10-2024",
-            "02-2024"
         ],
         "Concept":[
             "BASICS, DIVIDED",
@@ -659,9 +519,6 @@ all = {
             "A/W 2024",
             "HOLIDAY 2024"
         ],
-        "Marketed by":[
-            "H&M Hennes & Mauritz Retail Pvt. Ltd. A-wing, D-3, 2nd Floor District Centre Saket New Delhi - 110017 India"
-        ],
         "Sleeve Style":[
             "Raglan sleeve",
             "Puff sleeve, Raglan sleeve",
@@ -699,28 +556,6 @@ all = {
             "Frilled collar, Band collar",
             "Frilled collar",
             "Turn-down collar"
-        ],
-        "Model size":[
-            "The model is 173cm/5'8 and wears a size S",
-            "The model is 177cm/5'10 and wears a size S",
-            "The model is 178cm/5'10 and wears a size XS/S",
-            "The model is 175cm/5'9 and wears a size S",
-            "The model is 178cm/5'10 and wears a size S",
-            "The model is 177cm/5'10 and wears a size 10",
-            "The model is 175cm/5'9 and wears a size 8",
-            "The model is 178cm/5'10 and wears a size M/T",
-            "The model is 176cm/5'9 and wears a size S/T",
-            "The model is 177cm/5'10 and wears a size M"
-        ],
-        "Pieces/Pairs":[
-            "2",
-            "3"
-        ],
-        "Functions":[
-            "Quick dry, Moisture-wicking"
-        ],
-        "Sports activity":[
-            "Training"
         ],
         "Color":"fix",
         "Sleeve Type":[
@@ -829,16 +664,6 @@ all = {
             "Slim Fit",
             "Regular Fit",
             "Oversized"
-        ],
-        "Care Instructions":[
-            "Hand wash or professional dry clean",
-            "Machine wash or professional dry clean",
-            "Hand wash,do not dry clean",
-            "Damp wipe only",
-            "Do not wash",
-            "Machine wash, do not dry clean,wash with the soft detergent",
-            "Dry clean or Hand wash",
-            "Machine wash, do not dry clean"
         ],
         "Pattern Type":"fix",
         "Lining":[
@@ -982,11 +807,6 @@ all = {
             "Recycled Material",
             "Recycled Material, Forest-Safe Fibers"
         ],
-        "Number of Pieces":[
-            "1 Piece Set",
-            "6 Piece Set",
-            "5 Piece Set"
-        ],
         "Dresses Composition":[
             "97% Polyester, 3% Elastane",
             "100% Polyester",
@@ -1042,26 +862,6 @@ all = {
             "100% Polyurethane",
             "96% Polyester, 4% Spandex"
         ],
-        "Dresses Lining":[
-            "100% Polyester"
-        ],
-        "Skirts Composition":[
-            "100% Polyester"
-        ],
-        "Skirts Length":[
-            "Short",
-            "Maxi"
-        ],
-        "Skirts Lining":[
-            "100% Polyester"
-        ],
-        "Skirts Material":[
-            "Woven Fabric",
-            "Organza"
-        ],
-        "Outerwear Sleeve Length":[
-            "Long Sleeve"
-        ],
         "Outerwear Length":[
             "Crop",
             "Long"
@@ -1087,21 +887,6 @@ all = {
         "Gloves Composition":[
             "87% Polyamide, 13% Elastane",
             "88% Polyester, 12% Elastane"
-        ],
-        "Outerwear Lining":[
-            "100% Polyester"
-        ],
-        "Functional Type":[
-            "Belly Support"
-        ],
-        "Women Panties Material":[
-            "Fabric"
-        ],
-        "Women Panties Composition":[
-            "88% Polyester, 12% Elastane"
-        ],
-        "Tops Material":[
-            "Woven Fabric"
         ],
         "Tops Composition":[
             "100% Polyester",
@@ -1286,9 +1071,142 @@ all = {
             "1 month"
         ]
     },
+    'pants': {
+        "Pants Material": [
+            "Woven Fabric",
+            "Polyester",
+            "Knitted Fabric",
+            "Viscose",
+            "Denim"
+        ],
+        "Pants Body": [
+            "Lined",
+            "Unlined"
+        ],  # name chg
+        "Pants Length": [
+            "Mini Shorts",
+            "Long",
+            "Extra Long",
+            "Bermuda shorts",
+            "Short"
+        ],
+        "Pants Composition": [
+            "82.0% Cotton, 14.0% Viscose, 4.0% Polyester",
+            "58% Cotton, 35% Polyester, 7% Viscose",
+            "70% Cotton, 30% Polyester",
+            "69% Cotton, 19% Viscose, 12% Polyester",
+            "87% Cotton, 7% Polyester, 6% Viscose",
+            "74.0% Cotton, 13.0% Polyester, 11.0% Viscose, 2.0% Linen",
+            "100% Cotton",
+            "71% Cotton, 27% Polyester, 2% Elastane",
+            "80% Cotton, 13% Viscose, 5% Polyester, 2% Modal",
+            "90% Cotton, 5% Polyester, 5% Viscose",
+            "46% Cotton, 31% Polyester, 23% Viscose",
+            "74% Cotton, 12% Polyester, 7% Viscose, 7% Lyocell",
+            "70% Cotton, 14% Viscose, 13% Polyester, 3% Modal",
+            "64% Cotton, 22% Polyester, 14% Viscose",
+            "50% Cotton, 27% Polyester, 23% Viscose",
+            "73% Cotton, 18% Polyester, 9% Viscose",
+            "80% Cotton, 13% Polyester, 7% Viscose",
+            "60.0% Cotton, 25.0% Polyester, 15.0% Viscose",
+            "71% Cotton, 18% Polyester, 10% Viscose, 1% Polyamide",
+            "78% Cotton, 14% Polyester, 7% Viscose, 1% Lyocell",
+            "75% Cotton, 19% Polyester, 6% Viscose",
+            "62% Cotton, 21% Polyester, 17% Viscose",
+            "70% Cotton, 26% Polyester, 3% Viscose, 1% Lyocell",
+            "70% Cotton, 24% Polyester, 6% Viscose",
+            "78% Cotton, 9% Polyester, 8% Viscose, 5% Lyocell",
+            "80% Cotton, 20% Polyester",
+            "57% Cotton, 27% Polyester, 16% Viscose",
+            "79% Cotton, 20% Polyester, 1% Viscose",
+            "55% Cotton, 31% Polyester, 12% Viscose, 2% Elastane",
+            "72.0% Cotton, 15.0% Viscose, 12.0% Polyester, 1.0% Modal",
+            "67% Cotton, 26% Polyester, 6% Viscose, 1% Elastane",
+            "70% Cotton, 16% Polyester, 14% Viscose",
+            "68% Cotton, 16% Polyester, 14% Viscose, 2% Modal",
+            "85% Cotton, 15% Polyester",
+            "48% Cotton, 27% Polyester, 25% Viscose",
+            "66% Cotton, 29% Polyester, 5% Viscose",
+            "75% Cotton, 12% Viscose, 9% Polyester, 4% Modal",
+            "86% Cotton, 8% Viscose, 6% Polyester",
+            "51% Cotton, 34% Polyester, 8% Viscose, 4% Acrylic, 3% Polyamide",
+            "60% Cotton, 27% Polyester, 10% Lyocell, 3% Viscose",
+            "64% Cotton, 21% Viscose, 14% Polyester, 1% Modal",
+            "66% Cotton, 30% Polyester, 2% Elastane, 2% Viscose",
+            "68% Cotton, 17% Viscose, 14% Polyester, 1% Modal",
+            "51% Cotton, 28% Viscose, 21% Polyester",
+            "63% Cotton, 34% Polyester, 2% Viscose, 1% Modal",
+            "52% Cotton, 28% Polyester, 20% Viscose",
+            "89% Cotton, 6% Polyester, 5% Viscose",
+            "48% Cotton, 35% Polyester, 17% Viscose",
+            "62.0% Cotton, 21.0% Polyester, 10.0% Viscose, 6.0% Lyocell, 1.0% Modal",
+            "91% Cotton, 5% Viscose, 4% Polyester",
+            "76% Cotton, 18% Polyester, 6% Viscose",
+            "43% Cotton, 28% Polyester, 13% Lyocell, 12% Viscose, 2% Acrylic, 2% Polyamide",
+            "54% Cotton, 27% Polyester, 19% Viscose",
+            "77% Cotton, 12% Polyester, 9% Viscose, 2% Lyocell",
+            "79% Cotton, 14% Polyester, 7% Viscose",
+            "95% Polyester, 5% Elastane",
+            "93% Cotton, 4% Polyester, 3% Viscose",
+            "52% Cotton, 24% Polyester, 24% Viscose"
+        ],
+    },
+    'outwear':{
+        "Outerwear Sleeve Length": [
+            "Sleeveless",
+            "Long Sleeve",
+            "Wrist-Length Sleeve",
+            "Short Sleeve"
+        ],
+        "Outerwear Length": [
+            "Regular",
+            "Short"
+        ],
+        "Outerwear Body": [
+            "Lined",
+            "Unlined"
+        ],
+        "Outerwear Material": [
+            "Woven Fabric",
+            "Denim"
+        ],
+        "Outerwear Composition": [
+            "76% Cotton, 13% Viscose, 11% Polyester",
+            "58% Cotton, 35% Polyester, 7% Viscose",
+            "87% Cotton, 7% Polyester, 6% Viscose",
+            "88% Cotton, 7% Polyester, 5% Viscose",
+            "100% Cotton",
+            "46% Cotton, 31% Polyester, 23% Viscose",
+            "70% Cotton, 14% Viscose, 13% Polyester, 3% Modal",
+            "100% Polyester",
+            "64% Cotton, 22% Polyester, 14% Viscose",
+            "50% Cotton, 27% Polyester, 23% Viscose",
+            "73% Cotton, 18% Polyester, 9% Viscose",
+            "78% Cotton, 14% Polyester, 7% Viscose, 1% Lyocell",
+            "62% Cotton, 21% Polyester, 17% Viscose",
+            "70% Cotton, 26% Polyester, 3% Viscose, 1% Lyocell",
+            "78% Cotton, 9% Polyester, 8% Viscose, 5% Lyocell",
+            "79% Cotton, 20% Polyester, 1% Viscose",
+            "68% Cotton, 16% Polyester, 14% Viscose, 2% Modal",
+            "85% Cotton, 15% Polyester",
+            "48% Cotton, 27% Polyester, 25% Viscose",
+            "75% Cotton, 12% Viscose, 9% Polyester, 4% Modal",
+            "86% Cotton, 8% Viscose, 6% Polyester",
+            "51% Cotton, 34% Polyester, 8% Viscose, 4% Acrylic, 3% Polyamide",
+            "60% Cotton, 27% Polyester, 10% Lyocell, 3% Viscose",
+            "64% Cotton, 21% Viscose, 14% Polyester, 1% Modal",
+            "63% Cotton, 34% Polyester, 2% Viscose, 1% Modal",
+            "52% Cotton, 28% Polyester, 20% Viscose",
+            "91% Cotton, 5% Viscose, 4% Polyester",
+            "43% Cotton, 28% Polyester, 13% Lyocell, 12% Viscose, 2% Acrylic, 2% Polyamide",
+            "77% Cotton, 12% Polyester, 9% Viscose, 2% Lyocell",
+            "52% Cotton, 24% Polyester, 24% Viscose"
+        ],
+
+    },
     "Jeans":{
-        "Composition":"fix",
-        "Color":"fix",
+        "Composition":"fix", # add
+        "Color":"fix", # add
         "Material":[
             "Wool",
             "Chiffon",
@@ -1324,28 +1242,13 @@ all = {
             "Ultra High Waist",
             "Natural"
         ],
-        "Type":"fix",
-        "Details":"fix",
+        "Type":"fix", # add
         "Fit Type":[
             "Oversized",
             "Skinny",
             "Loose",
             "Slim Fit",
             "Regular Fit"
-        ],
-        "Care Instructions":[
-            "Hand wash or professional dry clean",
-            "Machine wash or professional dry clean",
-            "Hand wash,do not dry clean",
-            "Do not wash",
-            "Damp wipe only",
-            "Machine wash, do not dry clean,wash with the soft detergent",
-            "Dry clean or Hand wash",
-            "Machine wash, do not dry clean"
-        ],
-        "Lined For Added Warmth":[
-            "Yes",
-            "No"
         ],
         "Belt":[
             "Yes",
@@ -1371,7 +1274,7 @@ all = {
             "Crop",
             "Short"
         ],
-        "Pattern Type":"fix",
+        "Pattern Type":"fix", # add
         "Features":[
             "Great quality, Stretch, Soft",
             "Great quality, Comfortable, Lightweight",
@@ -1464,7 +1367,7 @@ all = {
             "Comfortable, Great quality, Stretch, Long-Lasting, Soft",
             "Seamless, Push Up",
             "Comfortable, Great quality, Breathable, Lightweight, Skin-friendly, Long-Lasting"
-        ],
+        ], # refine + name chg
         "Closure Type":[
             "Drawstring Waist",
             "Elastic Waist",
@@ -1506,171 +1409,18 @@ all = {
             "Unlined",
             "Unlined top, lined bottom"
         ],
-        "Number of Pieces":[
-            "1 Piece Set",
-            "3 Piece Set",
-            "2 Piece Set"
-        ],
-        "Lining":[
-            "98% Cotton, 2% Elastane",
-            "90% Polyester, 10% Elastane",
-            "62% Cotton, 35% Polyester, 3% Elastane",
-            "77% Polyester, 23% Elastane",
-            "65% Cotton, 32% Polyester, 3% Elastane",
-            "70% Cotton, 30% Polyester",
-            "80% Polyester, 20% Cotton",
-            "100% Polyester",
-            "65% Cotton, 35% Polyester",
-            "100% Cotton",
-            "97% Cotton, 3% Elastane",
-            "100% Polyamide",
-            "100% Elastane",
-            "99% Cotton, 1% Spandex",
-            "78% Cotton, 14% Polyester, 7% Viscose, 1% Lyocell",
-            "64% Cotton, 21% Viscose, 14% Polyester, 1% Modal"
-        ],
-        "Coating":[
-            "98% Cotton, 2% Elastane",
-            "71% Cotton, 28% Polyester, 1% Elastane",
-            "100% Rayon",
-            "73% Viscose, 25% Polyester, 2% Elastane",
-            "90% Cotton, 6% Polyester, 4% Viscose",
-            "85% Cotton, 15% Polyester",
-            "100% Polyurethane",
-            "100% Cotton",
-            "96% Cotton, 4% Elastane"
-        ],
         "Special Features":[
             "Forest-Safe Fibers",
             "Rescued Material",
             "Recycled Material",
             "Organic Fibers",
             "Recycled Material, Organic Fibers"
-        ],
+        ], # name chg
         "Temperature":[
             "Winter (<10℃/50℉)",
             "Late Fall (10-17℃/50-63℉)",
             "Spring/Fall (18-25℃/63-77℉)"
-        ],
-        "Outerwear Sleeve Length":[
-            "Sleeveless",
-            "Long Sleeve",
-            "Wrist-Length Sleeve",
-            "Short Sleeve"
-        ],
-        "Outerwear Length":[
-            "Regular",
-            "Short"
-        ],
-        "Neckline":[
-            "Scoop Neck",
-            "Peak Lapels",
-            "Notched",
-            "Funnel Neck",
-            "Cardigan Collar",
-            "Polo",
-            "High Neck",
-            "Mandarin Collar",
-            "Waterfall",
-            "Peter Pan Collar",
-            "Square Neck",
-            "Halter",
-            "Tie Neck",
-            "Hooded",
-            "V neck",
-            "Stand Collar",
-            "Deep V Neck",
-            "Contrast Collar",
-            "Straps",
-            "Lapel",
-            "Flounce Collar",
-            "Round Neck",
-            "Baseball Collar",
-            "Spaghetti Strap",
-            "Keyhole Neckline",
-            "Shawl Collar",
-            "Strapless",
-            "Shirt Collar",
-            "Sweetheart",
-            "Off the Shoulder",
-            "Collar",
-            "Asymmetrical Neck"
-        ],
-        "Outerwear Body":[
-            "Lined",
-            "Unlined"
-        ],
-        "Outerwear Material":[
-            "Woven Fabric",
-            "Denim"
-        ],
-        "Sleeve Type":[
-            "Drop Shoulder",
-            "Cold Shoulder",
-            "Batwing Sleeve",
-            "Flounce Sleeve",
-            "Petal Sleeve",
-            "Flare Sleeve",
-            "Leg-of-mutton Sleeve",
-            "Layered Sleeve",
-            "Cloak Sleeve",
-            "Split Sleeve",
-            "Puff Sleeve",
-            "Roll Up Sleeve",
-            "Bishop Sleeve",
-            "Regular Sleeve",
-            "Raglan Sleeve"
-        ],
-        "Pants Material":[
-            "Woven Fabric",
-            "Polyester",
-            "Knitted Fabric",
-            "Viscose",
-            "Denim"
-        ],
-        "Pants Body":[
-            "Lined",
-            "Unlined"
-        ],
-        "Pants Length":[
-            "Mini Shorts",
-            "Long",
-            "Extra Long",
-            "Bermuda shorts",
-            "Short"
-        ],
-        "Outerwear Composition":[
-            "76% Cotton, 13% Viscose, 11% Polyester",
-            "58% Cotton, 35% Polyester, 7% Viscose",
-            "87% Cotton, 7% Polyester, 6% Viscose",
-            "88% Cotton, 7% Polyester, 5% Viscose",
-            "100% Cotton",
-            "46% Cotton, 31% Polyester, 23% Viscose",
-            "70% Cotton, 14% Viscose, 13% Polyester, 3% Modal",
-            "100% Polyester",
-            "64% Cotton, 22% Polyester, 14% Viscose",
-            "50% Cotton, 27% Polyester, 23% Viscose",
-            "73% Cotton, 18% Polyester, 9% Viscose",
-            "78% Cotton, 14% Polyester, 7% Viscose, 1% Lyocell",
-            "62% Cotton, 21% Polyester, 17% Viscose",
-            "70% Cotton, 26% Polyester, 3% Viscose, 1% Lyocell",
-            "78% Cotton, 9% Polyester, 8% Viscose, 5% Lyocell",
-            "79% Cotton, 20% Polyester, 1% Viscose",
-            "68% Cotton, 16% Polyester, 14% Viscose, 2% Modal",
-            "85% Cotton, 15% Polyester",
-            "48% Cotton, 27% Polyester, 25% Viscose",
-            "75% Cotton, 12% Viscose, 9% Polyester, 4% Modal",
-            "86% Cotton, 8% Viscose, 6% Polyester",
-            "51% Cotton, 34% Polyester, 8% Viscose, 4% Acrylic, 3% Polyamide",
-            "60% Cotton, 27% Polyester, 10% Lyocell, 3% Viscose",
-            "64% Cotton, 21% Viscose, 14% Polyester, 1% Modal",
-            "63% Cotton, 34% Polyester, 2% Viscose, 1% Modal",
-            "52% Cotton, 28% Polyester, 20% Viscose",
-            "91% Cotton, 5% Viscose, 4% Polyester",
-            "43% Cotton, 28% Polyester, 13% Lyocell, 12% Viscose, 2% Acrylic, 2% Polyamide",
-            "77% Cotton, 12% Polyester, 9% Viscose, 2% Lyocell",
-            "52% Cotton, 24% Polyester, 24% Viscose"
-        ],
+        ], # name update remove degrees
         "Bottom Type":[
             "Shorts",
             "Pants",
@@ -1755,241 +1505,11 @@ all = {
             "Cute, Sexy",
             "Straight Leg, Wide leg"
         ],
-        "Pants Composition":[
-            "82.0% Cotton, 14.0% Viscose, 4.0% Polyester",
-            "58% Cotton, 35% Polyester, 7% Viscose",
-            "70% Cotton, 30% Polyester",
-            "69% Cotton, 19% Viscose, 12% Polyester",
-            "87% Cotton, 7% Polyester, 6% Viscose",
-            "74.0% Cotton, 13.0% Polyester, 11.0% Viscose, 2.0% Linen",
-            "100% Cotton",
-            "71% Cotton, 27% Polyester, 2% Elastane",
-            "80% Cotton, 13% Viscose, 5% Polyester, 2% Modal",
-            "90% Cotton, 5% Polyester, 5% Viscose",
-            "46% Cotton, 31% Polyester, 23% Viscose",
-            "74% Cotton, 12% Polyester, 7% Viscose, 7% Lyocell",
-            "70% Cotton, 14% Viscose, 13% Polyester, 3% Modal",
-            "64% Cotton, 22% Polyester, 14% Viscose",
-            "50% Cotton, 27% Polyester, 23% Viscose",
-            "73% Cotton, 18% Polyester, 9% Viscose",
-            "80% Cotton, 13% Polyester, 7% Viscose",
-            "60.0% Cotton, 25.0% Polyester, 15.0% Viscose",
-            "71% Cotton, 18% Polyester, 10% Viscose, 1% Polyamide",
-            "78% Cotton, 14% Polyester, 7% Viscose, 1% Lyocell",
-            "75% Cotton, 19% Polyester, 6% Viscose",
-            "62% Cotton, 21% Polyester, 17% Viscose",
-            "70% Cotton, 26% Polyester, 3% Viscose, 1% Lyocell",
-            "70% Cotton, 24% Polyester, 6% Viscose",
-            "78% Cotton, 9% Polyester, 8% Viscose, 5% Lyocell",
-            "80% Cotton, 20% Polyester",
-            "57% Cotton, 27% Polyester, 16% Viscose",
-            "79% Cotton, 20% Polyester, 1% Viscose",
-            "55% Cotton, 31% Polyester, 12% Viscose, 2% Elastane",
-            "72.0% Cotton, 15.0% Viscose, 12.0% Polyester, 1.0% Modal",
-            "67% Cotton, 26% Polyester, 6% Viscose, 1% Elastane",
-            "70% Cotton, 16% Polyester, 14% Viscose",
-            "68% Cotton, 16% Polyester, 14% Viscose, 2% Modal",
-            "85% Cotton, 15% Polyester",
-            "48% Cotton, 27% Polyester, 25% Viscose",
-            "66% Cotton, 29% Polyester, 5% Viscose",
-            "75% Cotton, 12% Viscose, 9% Polyester, 4% Modal",
-            "86% Cotton, 8% Viscose, 6% Polyester",
-            "51% Cotton, 34% Polyester, 8% Viscose, 4% Acrylic, 3% Polyamide",
-            "60% Cotton, 27% Polyester, 10% Lyocell, 3% Viscose",
-            "64% Cotton, 21% Viscose, 14% Polyester, 1% Modal",
-            "66% Cotton, 30% Polyester, 2% Elastane, 2% Viscose",
-            "68% Cotton, 17% Viscose, 14% Polyester, 1% Modal",
-            "51% Cotton, 28% Viscose, 21% Polyester",
-            "63% Cotton, 34% Polyester, 2% Viscose, 1% Modal",
-            "52% Cotton, 28% Polyester, 20% Viscose",
-            "89% Cotton, 6% Polyester, 5% Viscose",
-            "48% Cotton, 35% Polyester, 17% Viscose",
-            "62.0% Cotton, 21.0% Polyester, 10.0% Viscose, 6.0% Lyocell, 1.0% Modal",
-            "91% Cotton, 5% Viscose, 4% Polyester",
-            "76% Cotton, 18% Polyester, 6% Viscose",
-            "43% Cotton, 28% Polyester, 13% Lyocell, 12% Viscose, 2% Acrylic, 2% Polyamide",
-            "54% Cotton, 27% Polyester, 19% Viscose",
-            "77% Cotton, 12% Polyester, 9% Viscose, 2% Lyocell",
-            "79% Cotton, 14% Polyester, 7% Viscose",
-            "95% Polyester, 5% Elastane",
-            "93% Cotton, 4% Polyester, 3% Viscose",
-            "52% Cotton, 24% Polyester, 24% Viscose"
-        ],
-        "Sleeve Length":[
-            "Wrist-Length Sleeve",
-            "Sleeveless",
-            "Extra-Long Sleeve",
-            "Short Sleeve",
-            "Cap Sleeve",
-            "Three Quarter Length Sleeve",
-            "Half Sleeve",
-            "Long Sleeve"
-        ],
-        "Hem Shaped":[
-            "Wrap",
-            "Pencil",
-            "Layered/Tiered",
-            "Regular",
-            "Pleated",
-            "Mermaid",
-            "Asymmetrical",
-            "Straight",
-            "Tight Hem",
-            "Slit",
-            "Flared",
-            "Flounce"
-        ],
-        "Placket":[
-            "Snap Button",
-            "Pullover",
-            "Open Front",
-            "Single Button",
-            "Single Breasted",
-            "Lace-up",
-            "Zipper",
-            "Double Breasted"
-        ],
-        "Chest pad":[
-            "Removable Padding",
-            "Yes",
-            "No Padding"
-        ],
-        "Tops Sleeve Length":[
-            "Long Sleeve",
-            "Sleeveless",
-            "Short Sleeve",
-            "Half Sleeve",
-            "Wrist-Length Sleeve"
-        ],
-        "Tops Material":[
-            "Woven Fabric",
-            "Cotton",
-            "Fabric",
-            "Denim"
-        ],
-        "Tops Composition":[
-            "82.0% Cotton, 14.0% Viscose, 4.0% Polyester",
-            "70% Cotton, 30% Polyester",
-            "87% Cotton, 7% Polyester, 6% Viscose",
-            "69% Cotton, 19% Viscose, 12% Polyester",
-            "52% Cotton, 28% Polyester, 18% Viscose, 2% Elastane",
-            "74.0% Cotton, 13.0% Polyester, 11.0% Viscose, 2.0% Linen",
-            "100% Cotton",
-            "74% Cotton, 12% Polyester, 7% Viscose, 7% Lyocell",
-            "70% Cotton, 14% Viscose, 13% Polyester, 3% Modal",
-            "82% Cotton, 13% Polyester, 5% Viscose",
-            "63% Cotton, 25% Polyester, 10% Viscose, 2% Elastane",
-            "64% Cotton, 22% Polyester, 14% Viscose",
-            "73% Cotton, 18% Polyester, 9% Viscose",
-            "80% Cotton, 13% Polyester, 7% Viscose",
-            "60.0% Cotton, 25.0% Polyester, 15.0% Viscose",
-            "71% Cotton, 18% Polyester, 10% Viscose, 1% Polyamide",
-            "75% Cotton, 19% Polyester, 6% Viscose",
-            "55% Cotton, 31% Polyester, 12% Viscose, 2% Elastane",
-            "72.0% Cotton, 15.0% Viscose, 12.0% Polyester, 1.0% Modal",
-            "70% Cotton, 24% Polyester, 6% Viscose",
-            "80% Cotton, 20% Polyester",
-            "57% Cotton, 27% Polyester, 16% Viscose",
-            "70% Cotton, 16% Polyester, 14% Viscose",
-            "98% Cotton, 1% Polyester, 1% Viscose",
-            "75% Cotton, 12% Viscose, 9% Polyester, 4% Modal",
-            "60% Cotton, 27% Polyester, 10% Lyocell, 3% Viscose",
-            "68% Cotton, 17% Viscose, 14% Polyester, 1% Modal",
-            "51% Cotton, 28% Viscose, 21% Polyester",
-            "57% Cotton, 37% Polyester, 5% Viscose, 1% Elastane",
-            "48% Cotton, 35% Polyester, 17% Viscose",
-            "89% Cotton, 6% Polyester, 5% Viscose",
-            "62.0% Cotton, 21.0% Polyester, 10.0% Viscose, 6.0% Lyocell, 1.0% Modal",
-            "91% Cotton, 5% Viscose, 4% Polyester",
-            "76% Cotton, 18% Polyester, 6% Viscose",
-            "79% Cotton, 14% Polyester, 7% Viscose",
-            "95% Polyester, 5% Elastane",
-            "93% Cotton, 4% Polyester, 3% Viscose"
-        ],
-        "Tops Length":[
-            "Long",
-            "Regular",
-            "Micro Crop",
-            "Crop",
-            "Short"
-        ],
-        "Tops Body":[
-            "Unlined",
-            "No"
-        ],
-        "Filling":[
-            "100% Polyester"
-        ],
-        "Shirts Length":[
-            "Regular",
-            "Short",
-            "Long"
-        ],
-        "Shirts Sleeve Length":[
-            "Wrist-Length Sleeve",
-            "Half Sleeve",
-            "Long Sleeve",
-            "Short Sleeve"
-        ],
-        "Shirts Composition":[
-            "80% Cotton, 20% Polyester",
-            "69% Cotton, 19% Viscose, 12% Polyester",
-            "77% Cotton, 12% Polyester, 9% Viscose, 2% Lyocell",
-            "79% Cotton, 14% Polyester, 7% Viscose",
-            "100% Cotton",
-            "60% Cotton, 25% Polyester, 15% Viscose",
-            "95% Cotton, 5% Elastane",
-            "68% Cotton, 17% Viscose, 14% Polyester, 1% Modal"
-        ],
-        "Shirts Material":[
-            "Woven Fabric",
-            "Polyester",
-            "Viscose",
-            "Cotton",
-            "Denim"
-        ],
-        "Panty Type":[
-            "Thongs",
-            "Briefs"
-        ],
-        "Underwear & Sleepwear Users":[
-            "Teen"
-        ],
-        "Rise":[
-            "Low Rise"
-        ],
-        "Press On Nails Material":[
-            "ABS"
-        ],
-        "Nail Shapes":[
-            "Coffin"
-        ],
-        "Product Technique":[
-            "Solid Color"
-        ],
-        "Liner Weight GSM":[
-            "None"
-        ],
-        "Attached Rope":[
-            "No"
-        ],
         "Occasion":[
             "Beach, Night Out, Wedding, Office, Babymoon, Garden, Photoshoot",
             "Night Out, Wedding, Office, Street",
             "Beach, Night Out, Wedding, Office, Photoshoot, Street",
             "Home"
-        ],
-        "Curtain Hanging Method":[
-            "Velcro"
-        ],
-        "Washing Temperature":[
-            "The washing temperature is below 30 degrees Celsius"
-        ],
-        "Room":[
-            "Living Room, Bedroom, Kitchen"
-        ],
-        "Shirts Body":[
-            "Unlined"
         ],
         "Fit":[
             "Skinny fit",
@@ -2003,82 +1523,6 @@ all = {
             "DENIM, H&M+",
             "H&M EDITION",
             "DENIM"
-        ],
-        "Size":[
-            "Waist: Circumference: 83.9 in. (Size 8), Inner leg: Length: 78.6 in. (Size 8)",
-            "Waist: Circumference: 81.5 in. (Size 8), Inner leg: Length: 81.0 in. (Size 8)",
-            "Inner leg: Length: 79.5 in. (Size 33/32), Waist: Circumference: 90.5 in. (Size 33/32)",
-            "Inner leg: Length: 83.0 in. (Size 6), Waist: Circumference: 76.0 in. (Size 6)",
-            "Inner leg: Length: 80.0 in. (Size 8), Waist: Circumference: 80.0 in. (Size 8)",
-            "Waist: Circumference: 82.5 in. (Size 8), Inner leg: Length: 78.0 in. (Size 8)",
-            "Waist: Circumference: 77.5 in. (Size 8), Inner leg: Length: 82.5 in. (Size 8)",
-            "Waist: Circumference: 82.0 in. (Size 8), Inner leg: Length: 76.5 in. (Size 8)",
-            "Waist: Circumference: 91.0 in. (Size 33/32), Inner leg: Length: 77.5 in. (Size 33/32)",
-            "Inner leg: Length: 76.0 in. (Size M)",
-            "Waist: Circumference: 85.0 in. (Size 8), Inner leg: Length: 79.0 in. (Size 8)",
-            "Waist: Circumference: 85.5 in. (Size 8), Inner leg: Length: 76.5 in. (Size 8)",
-            "Waist: Circumference: 87.0 in. (Size 8), Inner leg: Length: 75.0 in. (Size 8)",
-            "Inner leg: Length: 77.5 in. (Size 6), Waist: Circumference: 86.0 in. (Size 6)",
-            "Waist: Circumference: 81.5 in. (Size 6), Inner leg: Length: 80.0 in. (Size 6)",
-            "Inner leg: Length: 77.0 in. (Size 33/32), Waist: Circumference: 91.0 in. (Size 33/32)",
-            "Inner leg: Length: 83.5 in. (Size 6)",
-            "Waist: Circumference: 88.5 in. (Size 8), Inner leg: Length: 78.0 in. (Size 8)",
-            "Inner leg: Length: 78.0 in. (Size L)",
-            "Inner leg: Length: 79.5 in. (Size 33/32)",
-            "Inner leg: Length: 73.5 in. (Size 6), Waist: Circumference: 83.0 in. (Size 6)",
-            "Inner leg: Length: 81.0 in. (Size 8)",
-            "Inner leg: Length: 80.5 in. (Size 8), Waist: Circumference: 79.0 in. (Size 8)",
-            "Waist: Circumference: 88.0 in. (Size 8), Inner leg: Length: 76.5 in. (Size 8)",
-            "Inner leg: Length: 78.0 in. (Size 6), Waist: Circumference: 78.0 in. (Size 6)",
-            "Waist: Circumference: 77.5 in. (Size 8), Inner leg: Length: 67.0 in. (Size 8)",
-            "Waist: Circumference: 73.8 in. (Size 8), Inner leg: Length: 79.0 in. (Size 8)",
-            "Waist: Circumference: 91.0 in. (Size 33/32), Inner leg: Length: 78.0 in. (Size 33/32)",
-            "Waist: Circumference: 76.5 in. (Size 8), Inner leg: Length: 78.5 in. (Size 8)",
-            "Waist: Circumference: 88.0 in. (Size 8), Inner leg: Length: 69.0 in. (Size 8)",
-            "Inner leg: Length: 78.5 in. (Size 33/32), Waist: Circumference: 90.5 in. (Size 33/32)",
-            "Waist: Circumference: 80.0 in. (Size 8), Inner leg: Length: 71.0 in. (Size 8)",
-            "Waist: Circumference: 81.0 in. (Size 8), Inner leg: Length: 78.0 in. (Size 8)",
-            "Inner leg: Length: 83.5 in. (Size 40), Waist: Circumference: 110.0 in. (Size 40)"
-        ],
-        "imported":[
-            "Yes"
-        ],
-        "Detailed Description":[
-            "Gray-blue, Solid-color",
-            "Pale denim blue, Solid-color",
-            "Dark gray",
-            "Dark gray, Solid-color",
-            "Light denim blue/light beige",
-            "Light denim blue/beige",
-            "Light denim blue",
-            "Denim blue, Solid-color",
-            "Vintage black, Solid-color",
-            "White, Solid-color",
-            "Dark denim blue, Solid-color",
-            "Light gray",
-            "Light denim blue, Solid-color",
-            "Light gray, Solid-color",
-            "Blue, Solid-color",
-            "Black, Solid-color",
-            "Denim gray, Solid-color",
-            "Denim blue/beige",
-            "Dark blue, Solid-color",
-            "Beige, Solid-color",
-            "Denim blue/beige, Solid-color",
-            "Denim black, Solid-color",
-            "Black/dark gray, Color-block",
-            "Dark ice blue, Solid-color",
-            "Dark brown, Solid-color",
-            "Gray, Solid-color",
-            "Brown, Solid-color",
-            "Black",
-            "Denim blue",
-            "Faded black, Solid-color",
-            "Light denim blue/denim blue",
-            "Dark brown/black",
-            "Light denim gray, Solid-color",
-            "Navy blue, Solid-color",
-            "Dark denim gray, Solid-color"
         ],
         "Waist Rise":[
             "Low waist",
@@ -2096,48 +1540,6 @@ all = {
             "H&M Studio Collection",
             "A/W 2024"
         ],
-        "Care instructions":[
-            "Only non-chlorine bleach when needed, Medium iron, Machine wash cold, The color of this denim may transfer onto light colored materials., Line dry, Can be dry cleaned",
-            "Only non-chlorine bleach when needed, Medium iron, Machine wash cool, Wash with like colors, Tumble dry low, Can be dry cleaned",
-            "Tumble dry medium, Only non-chlorine bleach when needed, Medium iron, Machine wash cool, Wash with like colors, Can be dry cleaned",
-            "Only non-chlorine bleach when needed, Machine wash cool, Wash with like colors, High iron, Line dry, Can be dry cleaned",
-            "Only non-chlorine bleach when needed, Tumble dry medium, Can be dry cleaned, Machine wash cold, Wash with like colors, High iron, The color of this denim may transfer onto light colored materials.",
-            "Only non-chlorine bleach when needed, No dry clean, Medium iron, Machine wash cold, Line dry",
-            "Only non-chlorine bleach when needed, No dry clean, Medium iron, The colour of this product may transfer onto light-coloured materials., Line dry, Wash inside out, Machine wash cold",
-            "Only non-chlorine bleach when needed, Tumble dry medium, Machine wash cool, Can be dry cleaned, Wash with like colors, High iron, The color of this denim may transfer onto light colored materials.",
-            "Only non-chlorine bleach when needed, Medium iron, Can be dry cleaned, Machine wash cold, Wash with like colors, The color of this denim may transfer onto light colored materials., Tumble dry low",
-            "Only non-chlorine bleach when needed, Tumble dry medium, Medium iron, Can be dry cleaned, Machine wash cold, Wash with like colors, The color of this denim may transfer onto light colored materials.",
-            "Only non-chlorine bleach when needed, No dry clean, Medium iron, Do not iron on decoration, Line dry, Not washable, Spot clean only",
-            "Only non-chlorine bleach when needed, Tumble dry medium, Medium iron, Machine wash cool, Can be dry cleaned, Wash with like colors, The color of this denim may transfer onto light colored materials.",
-            "Tumble dry medium, Only non-chlorine bleach when needed, Machine wash cold, Wash with like colors, High iron, Can be dry cleaned",
-            "Only non-chlorine bleach when needed, Tumble dry medium, Can be dry cleaned, Iron on reverse, Wash inside out, Machine wash cold, Wash with like colors, High iron, The color of this denim may transfer onto light colored materials.",
-            "Only non-chlorine bleach when needed, No dry clean, Tumble dry medium, Machine wash cool, Wash with like colors, High iron, The color of this denim may transfer onto light colored materials.",
-            "Only non-chlorine bleach when needed, Medium iron, Machine wash cool, Line dry, Can be dry cleaned",
-            "Only non-chlorine bleach when needed, Medium iron, Machine wash cold, Line dry, Can be dry cleaned",
-            "Only non-chlorine bleach when needed, Medium iron, Machine wash cool, Wash with like colors, Line dry, Can be dry cleaned",
-            "Only non-chlorine bleach when needed, No dry clean, Medium iron, Line dry, Machine wash cold, Wash with like colors, The color of this denim may transfer onto light colored materials.",
-            "Only non-chlorine bleach when needed, Medium iron, Line dry, Can be dry cleaned, Machine wash cold, Wash with like colors, The color of this denim may transfer onto light colored materials.",
-            "Only non-chlorine bleach when needed, Medium iron, Machine wash cool, Can be dry cleaned, Wash with like colors, The color of this denim may transfer onto light colored materials., Tumble dry low",
-            "Tumble dry medium, Only non-chlorine bleach when needed, Medium iron, Machine wash cool, The color of this denim may transfer onto light colored materials., Can be dry cleaned",
-            "Only non-chlorine bleach when needed, Line dry, Can be dry cleaned, Machine wash cold, Wash with like colors, High iron, The color of this denim may transfer onto light colored materials.",
-            "Only non-chlorine bleach when needed, No dry clean, Tumble dry medium, Iron on reverse, Wash inside out, Machine wash cold, Wash with like colors, High iron",
-            "Tumble dry medium, Only non-chlorine bleach when needed, Medium iron, Machine wash cool, Can be dry cleaned",
-            "Only non-chlorine bleach when needed, Medium iron, Line dry, Can be dry cleaned, Machine wash cold, Wash with like colors, The color of this denim may transfer onto light colored materials., Spot clean only",
-            "Tumble dry medium, Only non-chlorine bleach when needed, Machine wash cool, Wash with like colors, High iron, Can be dry cleaned"
-        ],
-        "Additional material information":[
-            "The total weight of this product contains 20% Recycled cotton We exclude the weight of minor components such as, but not exclusively: threads, buttons, zippers, embellishments and prints.The total weight of the product is calculated by adding the weight of all layers and main components together. Based on that, we calculate how much of that weight is made out by each material. For sets and multipacks, all pieces are counted together as one product in calculations.",
-            "The total weight of this product contains 19% Recycled cotton We exclude the weight of minor components such as, but not exclusively: threads, buttons, zippers, embellishments and prints.The total weight of the product is calculated by adding the weight of all layers and main components together. Based on that, we calculate how much of that weight is made out by each material. For sets and multipacks, all pieces are counted together as one product in calculations.",
-            "The total weight of this product contains 37% Recycled polyester We exclude the weight of minor components such as, but not exclusively: threads, buttons, zippers, embellishments and prints.The total weight of the product is calculated by adding the weight of all layers and main components together. Based on that, we calculate how much of that weight is made out by each material. For sets and multipacks, all pieces are counted together as one product in calculations."
-        ],
-        "Top Type":[
-            "Blouse",
-            "Women Tops",
-            "Jackets",
-            "Bandeau",
-            "Sweatshirt",
-            "Camisole"
-        ],
         "Jeans Style":[
             "Boyfriend Fit",
             "Cargo Pants, Baggy, Boyfriend Fit",
@@ -2154,82 +1556,24 @@ all = {
             "Bootcut",
             "Cargo Pants"
         ],
-        "Lens Material":[
-            "PC"
-        ],
-        "Shape":[
-            "Round"
-        ],
-        "Frame Structure":[
-            "Full Rim Glasses"
-        ],
-        "Element":[
-            "None"
-        ],
-        "Frame Material":[
-            "PC"
-        ],
-        "Bra Type":[
-            "Bralettes",
-            "Strapless",
-            "Wireless Bra"
-        ],
-        "Lining Level":[
-            "Unlined",
-            "Molded"
-        ],
-        "Wires":[
-            "Wireless"
-        ],
-        "Skirts Composition":[
-            "57% Cotton, 37% Polyester, 5% Viscose, 1% Elastane",
-            "91% Cotton, 5% Viscose, 4% Polyester",
-            "63% Cotton, 25% Polyester, 10% Viscose, 2% Elastane",
-            "87% Cotton, 7% Polyester, 6% Viscose",
-            "69% Cotton, 19% Viscose, 12% Polyester",
-            "52% Cotton, 28% Polyester, 18% Viscose, 2% Elastane",
-            "100% Cotton",
-            "98% Cotton, 1% Polyester, 1% Viscose",
-            "95% Polyester, 5% Elastane"
-        ],
-        "Skirts Length":[
+
+
+    },
+    'skirts':{
+        "Skirts Length": [
             "Midi",
             "Mini",
             "Short",
             "Long"
         ],
-        "Cup Type":[
-            "Full Cup"
-        ],
-        "Skirts Material":[
+        "Skirts Material": [
             "Woven Fabric",
             "Fabric",
             "Denim"
         ],
-        "Festivals":[
-            "Halloween"
-        ],
-        "Body Accessories Composition":[
-            "95% Polyester, 5% Elastane, 95% Polyester, 5% Elastane"
-        ],
-        "Body Accessories Material":[
-            "Fabric, Fabric"
-        ],
-        "Support":[
-            "Medium Support"
-        ],
-        "Straps Type":[
-            "Clear Straps"
-        ],
-        "Plating":[
-            "No Precious Metal Plated"
-        ],
-        "Skirts Body":[
-            "Unlined"
-        ]
+
     },
     "Saree":{
-        "Supplier Information":"fix",
         "Pattern":[
             "Mirror Work",
             "Colorblock",
@@ -2251,94 +1595,7 @@ all = {
             "Textured",
             "Checks",
             "Tie & Dye"
-        ],
-        "Care instructions":[
-            "Hand Wash Or Dry Clean",
-            "Dry Clean Recommended",
-            "Dry Clean Only. Do Not Machine Wash. Please Do Not Spray Deodorant, Mist Or A Perfume On The Saree Directly. Hand Dyed & Printed Sarees ,may Fade Or Bleed Color In The First Wash Due To The Traditional Dying & Printing Process Involved.",
-            "Hand-wash With Mild Detergent In Cold Water. Pre-soak Dark Colors With Salt To Set Dyes.",
-            "Dry Clean Recomended",
-            "Dry Wash Only.",
-            "Dry Clean Only . Do Not Machine Wash. Please Do Not Spray Deodorant, Mist Or A Perfume On The Saree Directly. Hand Dyed & Hand Printed Sarees ,may Fade Or Bleed Color In The First Wash Due To The Traditional Dying & Printing Process Involved.",
-            "First Machine Wash Recommended; After That Cold Hand Wash Can Be Done",
-            "Sarees Should Be Stored - Folded And Stacked – Wrapped In Clean White Unbleached Cotton/ Muslin. <br/>merchandise Should Be Stored In Clean Dry And Protected Wardrobes Or Closet Spaces. <br/>dry Cleaning Is Recommended For All Merchandise.",
-            "First-time Dry Wash Then Home Wash With Care.",
-            "Dry Cleaning Is Recommended For All Saree.",
-            "Dry Clean Only, Do Not Machine Wash. Please Do Not Spray Deodorant, Mist Or A Perfume On The Saree Directly.",
-            "Dry Clean And Hand Wash Only.",
-            "Hand Wash In Mild Detergent Separately Or Dry Clean",
-            "Gentle Hand Wash Separately, Hang Dry The Sarees And Avoid Drying In Direct Sunlight.",
-            "Dry Clean Gentle Wash",
-            "Dry Clean",
-            "Do Not Tumble Dry Iron Low Heat Professional Dry Clean, Do Not Bleach",
-            "Easy Hand Wash",
-            "Dryclean Only This Handpainted Chanderi Silk Saree With Blouse Piece. These Are Handcrafted Items, Please Cherish The Little Imperfections In Weave And Prints.",
-            "Sarees Should Be Stored Folded And Stacked Wrapped In Clean White Unbleached Cotton/ Muslin. <br/>merchandise Should Be Stored In Clean Dry And Protected Wardrobes Or Closet Spaces. <br/>dry Cleaning Is Recommended For All Merchandise.",
-            "First Dry Clean Recommended; After That Cold Hand Wash Can Be Done",
-            "Dry Clean And Hand Wash",
-            "Hand Wash",
-            "Dry Clean, Do Not Use Steam Iron, Use Only Extreme Low Heat Iron",
-            "Hand Wash , 100%poly",
-            "Dry Clean Only",
-            "Mild Hand Wash,do Not Tumble Dry Iron Low Heat Professional Dry Clean, Do Not Bleach",
-            "Strictly Dry Clean Only For Digitally Printed Garments & Non-petroleum Dry Clean For Hand-printed Garments.",
-            "Folded And Stacked - Wrapped In Clean White Unbleached Cotton/ Muslin. Merchandise Should Be Stored In Clean Dry And Protected Wardrobes Or Closet Spaces. Dry Cleaning Is Recommended For All Merchandise.",
-            "Handwash Or Soft Machine Wash This Mulmul Pure Cotton Saree With Blouse Piece Separately In Cold Water With Mild Detergent. Do Not Soak And Dry In Shade. These Are Handcrafted Items, Please Cherish The Little Imperfections In Weave And Prints.",
-            "Do Not Tumble Dry Iron Low Heat Professional Dry Clean. Do Not Bleach",
-            "Safe To Dry Clean. Can Be Hand Washed With Cold Water. Do Not Soak, Do Not Bleach. Gentle Spin To Remove Water. Dry It In A Shaded Area - Avoid Direct Sunlight. Medium Steam Ironing. Store Your Saree In A Cotton Bag Or Box When Not In Use.",
-            "Mild Hand Wash, Do Not Tumble Dry, Iron Low Heat, Professional Dry Clean, Do Not Bleach",
-            "Handwash Separately",
-            "Dry Clean Only. Color May Vary Slightly Due To Photographic Lighting And Screen Resolution.",
-            "Do Not Tumble Dry. Iron Low Heat. Professional Dry Clean. Do Not Bleach",
-            "Dry Clean , Do Not Machine Wash",
-            "First Wash Of The Garment Should Always Be Dry Clean",
-            "Hand Wash With Mild Detergent In Cold Water, Pre-soak Dark Colors With Salt To Set Dyes.",
-            "Cold Hand Wash",
-            "Dry Cleaning Is Recommended For All Sarees.",
-            "Only Dry Clean, No Steam Iron, Low Heat Iron",
-            "Handwash Lightly With Mild Detergent. Do Not Soak. Dry Inside Out In Shade.",
-            "For The First Wash, Hand Wash In Cold Water With A Mild Detergent And Lay Flat To Dry.",
-            "Preferably Dry Clean Or Handwash Separately In Cold Water With Mild Detergent Only. These Are Handcrafted Items, Please Cherish The Little Imperfections In Weave And Prints.",
-            "First Machine Wash Recommended, After That Cold Hand Wash Can Be Done",
-            "Mild Hand Wash",
-            "Hand Wash, Do Not Bleach Or Use Hard Detergent.mild Hand Wash,do Not Tumble Dry Iron Low Heat Professional Dry Clean.",
-            "Dry Clean & Hand Wash Only",
-            "Handwash Lightly With Mild Detergent.do Not Soak. Dry Inside Out In Shade.dry Clean Is Ideal But Hand Wash Also Works.iron On The Wrong Side.we Use Natural Dyes Which Tend To Bleed In The First Few Washes. Therefore, Do Not Mix With Whites.",
-            "1. Do Not Machine Wash Or Hand Wash 2. Incase Of Stains, Immediately Wipe-off The Stain With Cold Water 3. It Is Advised To Only Dry Clean 4. Do Not Keep It Bundled Up 5. Keep Away From Direct Sunlight",
-            "Dry Wash",
-            "Sarees Should Be Stored - Folded And Stacked - Wrapped In Clean White Unbleached Cotton/ Muslin. Merchandise Should Be Stored In Clean Dry And Protected Wardrobes Or Closet Spaces. Dry Cleaning Is Recommended For All Merchandise.",
-            "Dry Clean Or Hand Wash",
-            "First Wash Should Preferably Be Dry Clean.",
-            "Sarees Should Be Stored, Folded And Stacked And By Wrapped In Clean White Unbleached Cotton/ Muslin, Merchandise Should Be Stored In Clean Dry And Protected Wardrobes Or Closet Spaces, Dry Cleaning Is Recommended For All Merchandise.",
-            "Normal Hand Wash In Cold Water With Mild Detergent. Donot Bleach. Iron, Steam Or Dry With Low Heat. Dry In Shade.",
-            "Cold Handwash",
-            "Sarees Should Be Stored - Folded And Stacked – Wrapped In Clean White Unbleached Cotton/ Muslin. Merchandise Should Be Stored In Clean Dry And Protected Wardrobes Or Closet Spaces. Dry Cleaning Is Recommended For All Merchandise.",
-            "Gentle Handwash Separately",
-            "Dry Cleaing Only",
-            "Mul Cotton, Hand Wash",
-            "Machine Wash After Hand Wash",
-            "Recommend Dry Clean Only",
-            "Handwash Or Soft Machine Wash Modal Clothes Separately In Cold Water With Mild Detergent. Do Not Soak And Dry In Shade. These Are Handcrafted Items, Please Cherish The Little Imperfections In Weave And Prints.",
-            "First Wash Of The Saree Should Always Be Dry Clean",
-            "Dry Wash Recommended",
-            "Machine Wash",
-            "Dry Clean Only Steam Iron Only",
-            "Silk Sarees Should Be Stored - Folded And Stacked - Wrapped In Clean, White, Unbleached Cotton/ Muslin. Merchandise Should Be Stored In Clean, Dry, And Protected Wardrobes Or Closet Spaces. Dry Cleaning Is Recommended For All Merchandise.",
-            "Dry Clean Only, Do Not Machine Wash. Please Do Not Spray Deodorant, Mist, Or Perfume On The Saree Directly.",
-            "Hand Wash Only",
-            "Dry Clean, Do Not Machine Wash",
-            "Do Not Tumble, Dry Iron, Low Heat Professional Dry Clean, Do Not Bleach",
-            "First Wash Dry Clean",
-            "Do Not Tumble Dry, Iron Low Heat, Professional Dry Clean, Do Not Bleach",
-            "Gentle Hand Wash With Mild Detergent, Dry In Shades, Steam Iron",
-            "Dry Clean, Gentle Wash",
-            "Hand Wash With Mild Detergent In Cold Water. Pre-soak Dark Colors With Salt To Set Dyes.",
-            "Hand Wash Separately",
-            "Handwash",
-            "Do Not Tumble, Dry Iron Low Heat, Professional Dry Clean, Do Not Bleach",
-            "Hand Wash/dry Wash",
-            "Machine Wash / Hand Wash"
-        ],
+        ], # imp
         "Type of Work":[
             "Mirror Work",
             "Mukaish",
@@ -2368,7 +1625,7 @@ all = {
             "Bandhani",
             "Tassels",
             "Chikankari"
-        ],
+        ], # name cng
         "Occasion":[
             "Casual",
             "Wedding",
@@ -2378,70 +1635,7 @@ all = {
             "Semi Formal",
             "Festive",
             "Party"
-        ],
-        "Pack Size":[
-            "Single"
-        ],
-        "Pack contains":[
-            "1 Saree,1 Unstitched Blouse",
-            "1 Saree, 1 Unstitch Blouse",
-            "1 Saree, 1 Blouse Piece",
-            "1 Saree,1 Stitched Blouse",
-            "1 Saree Without Blouse Piece",
-            "1 Pre Draped Saree, 1 Unstitched Blouse",
-            "1 Pre-drape Saree With Attached Blouse, 1 Belt",
-            "1 Saree",
-            "1 Saree , 1 Unstitched Blouse",
-            "1 Saree, 1 Stitched Blouse, 1 Belt",
-            "1 Saree Without Blouse",
-            "1 Saree, 1 Unstitched Blouse",
-            "1 Pre-draped Saree, 1 Stitched Blouse",
-            "1 Jacket, 1 Saree",
-            "1 Saree, 1 Unstitiched Blouse",
-            "1 Pre Drape Saree, 1 Stitched Blouse, 1 Belt",
-            "1 Saree, 1 Unstiched Blouse",
-            "1 Saree , 1 Unstitched Blouse Piece",
-            "1 Saree, 1 Unstitched Bloue",
-            "1 Saree, 1 Stitched Blouse",
-            "1 Saree, 1 Unstitched Blouse Piece",
-            "1 Saree With Unstitched Blouse",
-            "1 Saree Comes With 1 Attached Unstitched Blouse Piece",
-            "1 Stitched Blouse, 1 Saree",
-            "1 Saree With Unstitched Blouse Piece",
-            "1 Saree 1 Unstitched Blouse",
-            "1 Pre-drape Saree, 1 Blouse",
-            "1 Skirt, 1 Blouse, 1 Cape",
-            "1 Pre-drape Saree, 1 Stitched Blouse",
-            "1 Saree, 1 Blazer",
-            "1 Pre-draped Saree",
-            "1 Saree With 1 Unstitched Blouse Piece",
-            "1 Draped Saree, 1 Stitched Blouse, 1 Jacket, 1 Belt",
-            "1 Saree, 1 Unstitched Blouse, 1 Belt",
-            "1 Saree, 1 Blouse",
-            "1 Blouse, 1 Sharara Saree",
-            "1 Saree, 1 Unstiched Blouse, 1 Belt",
-            "1 Saree With Unstitch Blouse",
-            "1 Saree With Attached Unstitched Blouse Fabric",
-            "1 Saree, 1 Semi-stitched Blouse",
-            "1 Saree, 1 Unstitched Blouse, 1 Dupatta",
-            "1 Pre-draped Saree, 1 Unstitched Blouse",
-            "1 Saree, 1 Stitched Blouse, 1 Petticoat",
-            "1 Blouse, 1 Saree"
-        ],
-        "Address of Manufacturer/ Packer/ Importer":"fix",
-        "Sold By":"fix",
-        "Country of Origin":[
-            "India"
-        ],
-        "Name of Manufacturer/ Packer/ Importer":"fix",
-        "Responsiblity Criteria":[
-            "Sustainable materials",
-            "Vegan",
-            "Responsible production",
-            "Low waste",
-            "Handwoven handloomed",
-            "Handmade by artisans"
-        ],
+        ], # imp
         "Padding":[
             "Padded",
             "Non-Padded"
@@ -2450,61 +1644,6 @@ all = {
             "High Waist",
             "Mid Waist"
         ],
-        "Dimensions":[
-            "Length: 5.5mtr (Approx), Blouse- 0.8 x 1.1 mtr (Approx) (L x W)",
-            "Length: 5.5 metres plus 0.8 metre blouse piece,Width: 1.06 metres (approx)",
-            "Saree- 550 x 80 cm (L x W), Blouse-105 cm (W)",
-            "Saree Length: 5.5 metres|550 cm, Blouse Length : 0.8 metre|80 cm",
-            "Saree Length:5.5 m Blouse Piece: 0.80m",
-            "Saree (L x W): 5.5 x 1.2 m, Blouse- 0.8 m",
-            "Saree: 5.5 metres|550 cm, Blouse: 0.8 metre|80 cm",
-            "(L x W) : 5.5 x 1.92 mtr, Blouse Piece: 0.80 mtr",
-            "Saree Length - 550 cm",
-            "Saree Length: 5.5 meter|550 cm",
-            "Saree - 6.1 Meter|610 cm including blouse piece",
-            "Dupatta Length:6.4 Mtr|640 cm",
-            "Saree with Blouse Piece: (550 plus (80 cm) ) x 110 cm (L x W)",
-            "Saree Length: 5.5 metre|550 cm, Blouse Length: 0.8 metre|80 cm",
-            "(L x W) : 6.4 x 1.16 Mtr",
-            "Saree : (L x W) : 6.30 x 115 cm, Blouse piece : 90 cm",
-            "Saree Length-5.5 mtr, Running Blouse Piece-0.8 mtr, Saree Width-1.2 mtr",
-            "650",
-            "Length: 5.5m(Approx), Width: 1.1m (Approx), 0.8m(Approx) Blouse Piece",
-            "Length=5.5 M, Width= 47",
-            "Saree Length: 650 cm",
-            "Saree - 5.5 mtr, Blouse - 0.8 mtr",
-            "5.5 meter x 1.2 meter (L x W)",
-            "6.4 x 1.16 mtr (L x W)",
-            "Length: 6.3 Meters Including 0.8-Meter Blouse Piece",
-            "Saree- 5.5 meter (550 cms) x 0.8 meter (80 cms) (L x W), Saree Blouse: 1.2 meter (105 cms) (W)",
-            "Saree Length - 6.4 meter|640 cm",
-            "Saree : 5.5 mtr, Blouse :0.8 mtr",
-            "The Saree length is 5.5 metres comes with unstitched blouse of 0.8 metre. The blouse in the images is only for styling purposes.",
-            "Saree - 5.50 Meter|550 cm, Blouse Piece - 0.80 Meter|80 cm",
-            "Saree length 5.5 meter, Blouse - 0.80 meter, Saree width -1.2 meter",
-            "Saree Length 5.5 mtr x Saree Width 1.2 mtr, Blouse: 0.8 mtr",
-            "Saree: 550 x 80 cm (L x W), Running Blouse- 120 cm (W)",
-            "Saree Length - 5.5 mtr, Blouse Length - 1 mtr",
-            "Saree Length-5.5. 0.8 meter running blouse piece, Saree Width-1.2 meter",
-            "Saree Length-5.5 m, No Running Blouse pc, Saree Width-1.2 meter",
-            "Saree Length: 6.4 meter|640 cm",
-            "Saree Length :- 5.5 Mtr & Blouse Length :- 90 CM",
-            "Saree Length-5.5 Mtr, 0.8 Mtr Blouse Pc ,Saree Width-1.2 Meter",
-            "Saree length - 5.5 metres|550 cm, Blouse Piece - 0.8 metre|80 cm",
-            "Saree Length: 5.5 meter|550 cm, Blouse Length: 0.8 meter|80 cm",
-            "6.5 metres – includes coordinated unstitched blouse piece",
-            "Dupatta Length:5.5 Mtr|550 cm",
-            "Saree size is 5.5 mtr (550 cm) and Blouse is 0.8 mtr (80 cm)",
-            "Saree Length :5.5 Mtr, Blouse Length :0.80 Mtr",
-            "6.5 Metres : Includes Coordinated Unstitched Blouse Piece, 650 cm : Includes Coordinated Unstitched Blouse Piece",
-            "530"
-        ],
-        "Pocket Description":[
-            "Slit Pocket"
-        ],
-        "Leg Style":[
-            "Flared"
-        ]
     },
     "shirts_":{
         "Composition":"fix",
@@ -3382,6 +2521,114 @@ all = {
             "Long"
         ]
     },
+    'cabinet': {
+        "Cabinet Color": [
+            "Red",
+            "Silver",
+            "Unfinished",
+            "Brown",
+            "Black",
+            "Orange",
+            "Blue",
+            "Yellow",
+            "Gray",
+            "Green",
+            "White"
+        ],
+        "Number of Shelves Included in Cabinet": [
+            "2",
+            "0",
+            "1",
+            "6",
+            "4",
+            "9",
+            "3"
+        ],
+        "Cabinet Shade": [
+            "Light",
+            "Medium",
+            "Dark"
+        ],
+        "Cabinet Material": [
+            "Composite",
+            "Solid Wood",
+            "Wood",
+            "Particle Board",
+            "Plywood",
+            "Iron",
+            "Medium Density Fiberboard (MDF)",
+            "Steel"
+        ],
+        "Medicine Cabinet Included": [
+            "Medicine Cabinet Not Included",
+            "Medicine Cabinet Included"
+        ],
+        "Mirror Included": [
+            "Mirror Not Included",
+            "Mirror Included"
+        ]
+    },
+    'Basin': {
+        'ht', 'wid', 'dep', 'len'
+    },
+    'sink': {
+        "Sink Color": [
+            "Silver",
+            "Brown",
+            "Beige/Bisque",
+            "Black",
+            "Blue",
+            "Gray",
+            "Green",
+            "White"
+        ],
+        "Number of Sinks": [
+            "Double Sink",
+            "Single Sink"
+        ],
+        "Sink Type": [
+            "Vessel",
+            "Farmhouse/Apron front",
+            "Drop-in",
+            "Undermount",
+            "Integral"
+        ],
+        "Sink Material": [
+            "Composite",
+            "Plastic",
+            "Glass",
+            "Porcelain",
+            "Ceramic",
+            "Acrylic",
+            "Marble",
+            "Solid Surface",
+            "Vitreous China",
+            "Cast Iron",
+            "Cultured Marble"
+        ],
+        "Sink Location": [
+            "Left",
+            "Center",
+            "Right"
+        ],
+        "Sink Shape": [
+            "Round",
+            "Rectangular",
+            "Specialty",
+            "Square"
+        ],
+    },
+    'mirror': {
+        "Mirror Features": [
+            "No Mirror Features",
+            "Lighted",
+            "Fog Free Mirror,Lighted",
+            "Beveled Edge Mirror,Lighted",
+            "Beveled Edge Mirror"
+        ],
+        'dim' : ['ht', 'wid', ]
+
+    },
     "Bathroom_Vanities":{
         "Top Material":[
             "Resin",
@@ -3405,168 +2652,9 @@ all = {
             "Marble",
             "Solid Surface"
         ],
-        "Vanity Features":"fix",
-        "Top Color":"fix",
-        "Assembled":[
-            "Assembled",
-            "Unassembled"
-        ],
-        "Sink Color":[
-            "WSG",
-            "High Gloss White",
-            "Silver",
-            "Travertine",
-            "Black",
-            "Solid White",
-            "Carrera",
-            "Matte Black",
-            "Matte White",
-            "white",
-            "Gray",
-            "Glossy White",
-            "Ivory",
-            "White",
-            "Matt Black"
-        ],
-        "Product Depth (in.)":[
-            "19 in",
-            "30 in",
-            "24 in",
-            "22.44 in",
-            "20.38 in",
-            "19.7 in",
-            "19.25 in",
-            "18.375 in",
-            "21.75 in",
-            "10.2 in",
-            "18.15 in",
-            "41 in",
-            "12.13 in",
-            "8.60 in",
-            "18.11 in",
-            "24.4 in",
-            "22.05 in",
-            "24.63 in",
-            "18.5 in",
-            "18.9 in",
-            "18.50 in",
-            "19.62 in",
-            "18.98 in",
-            "34.4 in",
-            "18.40 in",
-            "18.90 in",
-            "22.25 in",
-            "25 in",
-            "18.06 in",
-            "24.00 in",
-            "21.61 in",
-            "35.20 in",
-            "23 in",
-            "22.8 in",
-            "29.00 in",
-            "18.63 in",
-            "12.2 in",
-            "22.5 in",
-            "20.7 in",
-            "17.87 in",
-            "18.7 in",
-            "11.75 in",
-            "18.00 in",
-            "18.1 in",
-            "23.00 in",
-            "20.5 in",
-            "18.31 in",
-            "20.00 in",
-            "19.0 in",
-            "34.51 in",
-            "19.5 in",
-            "21.50 in",
-            "1 in",
-            "20.50 in",
-            "19.63 in",
-            "21.73 in",
-            "21 in",
-            "18.32 in",
-            "13.5 in",
-            "21.85 in",
-            "1831 in",
-            "21.00 in",
-            "18 in",
-            "40.16 in",
-            "18.38 in",
-            "18.75 in",
-            "20.40 in",
-            "21.65 in",
-            "18.13 in",
-            "18.12 in",
-            "19.50 in",
-            "20.9 in",
-            "20.4 in",
-            "22.00 in",
-            "20 in",
-            "21.63 in",
-            "22 in",
-            "17.8 in",
-            "12.20 in",
-            "17.6 in",
-            "18.25 in",
-            "17.75 in",
-            "18.3 in",
-            "21.5 in",
-            "20.47 in"
-        ],
         "Faucet Included":[
             "Faucet Not Included",
             "Faucet Included"
-        ],
-        "Number of Shelves Included in Cabinet":[
-            "2",
-            "0",
-            "1",
-            "6",
-            "4",
-            "9",
-            "3"
-        ],
-        "Mirror Height (in.)":[
-            "24",
-            "36",
-            "27.5",
-            "31.5",
-            "0",
-            "27.60",
-            "27.56",
-            "00",
-            "34.00",
-            "32",
-            "25.5",
-            "30",
-            "28",
-            "25.50",
-            "31.50",
-            "27.6",
-            "34.80",
-            "29.5",
-            "32.00",
-            "18.90",
-            "30.00",
-            "33",
-            "22.5"
-        ],
-        "Cabinet Color":"fix",
-        "Internet Sku":"fix",
-        "Cabinet Color Family":[
-            "Red",
-            "Silver",
-            "Unfinished",
-            "Brown",
-            "Black",
-            "Orange",
-            "Blue",
-            "Yellow",
-            "Gray",
-            "Green",
-            "White"
         ],
         "Top Color Family":[
             "Cream",
@@ -3577,99 +2665,7 @@ all = {
             "Green",
             "White"
         ],
-        "Basin Depth (in.)":"fix",
-        "Cabinet Shade":[
-            "Light",
-            "Medium",
-            "Dark"
-        ],
         "Top weight (lb.)":"fix",
-        "Sink Color Family":[
-            "Silver",
-            "Brown",
-            "Beige/Bisque",
-            "Black",
-            "Blue",
-            "Gray",
-            "Green",
-            "White"
-        ],
-        "Number of Sinks":[
-            "Double Sink",
-            "Single Sink"
-        ],
-        "Manufacturer Warranty":[
-            "3 months",
-            "We warrant our furniture free of manufacturing defects from the date of purchase to the original purchaser only.",
-            "Limited 1 Year Warranty",
-            "Limited lifetime",
-            "1 yr limited",
-            "2 year limited warranty",
-            "1 year limited warranty",
-            "1 year manufacture defects-original owner-parts only",
-            "1 Year Limited Manufacturer Warranty on all Eviva Products From Delivery Date",
-            "1 year Limited",
-            "1 Year Manufacturer Warranty On All Eviva Bathroom Products From Delivery Date",
-            "5 year limited",
-            "1 year",
-            "1 yr Manufacturer",
-            "1 Year Warranty",
-            "One Year Limited Mfg Warrant",
-            "1 month",
-            "1 Year Limited",
-            "1-Yr Limited Defect Warranty",
-            "90 days",
-            "OVE warrants all vanities to be free from defects in workmanship and materials under normal use and service for a period of one (1) year from the initial date of purchase.",
-            "90-days",
-            "30 days",
-            "5 Year limited",
-            "one year limited",
-            "6 Months Warranty",
-            "3 Year Limited Parts",
-            "n/a",
-            "1 Year limited to be free of defects in material and workmanship",
-            "25-year residential warranty",
-            "1 Year",
-            "1 year limited manufacturer warranty",
-            "1-year limited warranty on vanity, limited lifetime warranty on vanity top",
-            "2 year limited",
-            "1-year",
-            "30 Days Warranty",
-            "One Year Limited",
-            "Limited 1 year warranty",
-            "1 Year Unlimited",
-            "3 Year Limited Warranty",
-            "Limited Lifetime",
-            "60 days",
-            "If any questions about products and after-sale service, please contact us at service@angeleshome.com.",
-            "1 year manufacture warranty against defects - parts",
-            "One year limited warranty",
-            "2 years",
-            "One-year limited warranty",
-            "One-Year Limited Warranty",
-            "1 year limited",
-            "1 Year Limited Manufacturer Warranty",
-            "One Year Limited Warranty",
-            "1-Year Limited Warranty",
-            "1 Year Limited Warranty",
-            "5 Year Limited",
-            "2 Year Limited",
-            "1 Year Manufacturer Warranty On All Eviva Bathroom Vanities From delivery date",
-            "1 Year Limited Parts",
-            "3-year limited parts",
-            "1 Year Warranty / Limited Lifetime Warranty on drawer suspension systems",
-            "Limited 1 Year on Cabinet and Limited Lifetime Residential on Granite Top",
-            "KOHLER® One-Year Limited Warranty",
-            "Limited Lifetime Warranty",
-            "1-year limited warranty",
-            "Limited Warranty",
-            "1 Year Limited Manufacturer",
-            "Limited 5 year warranty",
-            "1 Year: The Manufacturer warrants the products against defects in workmanship, materials, or operation, excluding ordinary wear and tear.",
-            "1-Year limited warranty",
-            "Lexora grants a guarantee period of 1 year limited warranty.",
-            "90-Days Warranty"
-        ],
         "Vanity Top Thickness (in.)":[
             "3.0",
             "4.0",
@@ -3784,110 +2780,6 @@ all = {
             "Traditional",
             "Farmhouse,Transitional"
         ],
-        "Sink Type":[
-            "Vessel",
-            "Farmhouse/Apron front",
-            "Drop-in",
-            "Undermount",
-            "Integral"
-        ],
-        "Sink Material":[
-            "Composite",
-            "Plastic",
-            "Glass",
-            "Porcelain",
-            "Ceramic",
-            "Acrylic",
-            "Marble",
-            "Solid Surface",
-            "Vitreous China",
-            "Cast Iron",
-            "Cultured Marble"
-        ],
-        "Basin Length (in.)":"fix",
-        "Mirror Width (in.)":[
-            "55.25",
-            "28.00",
-            "24",
-            "31.5",
-            "36",
-            "0",
-            "20.00",
-            "22",
-            "27.56",
-            "72",
-            "26",
-            "55",
-            "47.2",
-            "48",
-            "34.00",
-            "46",
-            "30.1",
-            "32",
-            "28",
-            "27.50",
-            "30",
-            "47.20",
-            "27.3",
-            "18",
-            "30.10",
-            "29.5",
-            "24.00",
-            "15.75",
-            "80",
-            "58.00",
-            "44",
-            "21.7",
-            "27.00",
-            "48.00",
-            "46.00",
-            "27.30",
-            "32.00",
-            "23.20",
-            "60",
-            "58",
-            "26.00",
-            "23.50",
-            "70",
-            "34",
-            "43",
-            "23.58",
-            "30.00",
-            "21"
-        ],
-        "Backsplash Height (in.)":[
-            "4.0",
-            "3.1",
-            "0",
-            "3.9",
-            "34.00",
-            "0.50",
-            "3.94",
-            "2.40",
-            "3.5",
-            "3.90",
-            "0.5",
-            "0.63",
-            "3.50",
-            "2.99",
-            "3.88",
-            "4.00",
-            "4",
-            "3.00",
-            "3"
-        ],
-        "Cabinet Width (in.)":"fix",
-        "Cabinet & Top Assembled weight (lbs)":"fix",
-        "Mirror Features":[
-            "No Mirror Features",
-            "Lighted",
-            "Fog Free Mirror,Lighted",
-            "Beveled Edge Mirror,Lighted",
-            "Beveled Edge Mirror"
-        ],
-        "Returnable":[
-            "90-Day"
-        ],
         "Vanity Top Edge Type":[
             "Bullnose",
             "Round Over",
@@ -3900,85 +2792,6 @@ all = {
             "Miter",
             "Ogee"
         ],
-        "Sink Location":[
-            "Left",
-            "Center",
-            "Right"
-        ],
-        "Cabinet Height (in.)":"fix",
-        "Product Width (in.)":"fix",
-        "Included":[
-            "Drawers,Floor Cabinet,Mounting Hardware,Pull Handle(s)",
-            "Legs",
-            "Drain Assembly,P-Trap",
-            "Drain Assembly,Drawers,Floor Cabinet,P-Trap,Pull Handle(s)",
-            "Mounting Hardware,Pull Handle(s),Wall Cabinet",
-            "Floor Cabinet,Legs,Mounting Hardware,Pull Handle(s)",
-            "Drawers",
-            "Drain Assembly,Drawers,Legs,Pull Handle(s)",
-            "No Additional Included Components",
-            "Drain Assembly,Drawers,Floor Cabinet,Mounting Hardware,P-Trap,Pull Handle(s)",
-            "Drawers,Mounting Hardware,Wall Cabinet",
-            "Drawers,Floor Cabinet,Legs,Mounting Hardware",
-            "Drawers,Floor Cabinet,Floor Protectors,Legs,Mounting Hardware",
-            "Drain Assembly,Legs,Pull Handle(s)",
-            "Wall Cabinet",
-            "Drain Assembly,Drawers,Pull Handle(s)",
-            "Drawers,Floor Cabinet,Pull Handle(s)",
-            "Floor Cabinet,Floor Protectors,Pull Handle(s)",
-            "Drain Assembly,Drawers,Mounting Hardware,P-Trap,Pull Handle(s),Wall Cabinet",
-            "Assembly Tool",
-            "Drawers,Legs,Mounting Hardware,Pull Handle(s)",
-            "Drawers,Mounting Hardware,Pull Handle(s),Wall Cabinet",
-            "Drawers,Floor Cabinet",
-            "Drawers,Floor Cabinet,Legs,Pull Handle(s)",
-            "Drawers,Pull Handle(s),Wall Cabinet",
-            "Floor Cabinet,Mounting Hardware,Wall Cabinet",
-            "Drawers,Floor Cabinet,Legs,Mounting Hardware,Pull Handle(s)",
-            "Drawers,Mounting Hardware",
-            "Pull Handle(s)",
-            "Assembly Tool,Drawers,Legs",
-            "Drawers,Mounting Hardware,Pull Handle(s)",
-            "Drain Assembly,Floor Cabinet,Mounting Hardware,Wall Cabinet",
-            "Drawers,No Additional Included Components,Pull Handle(s)",
-            "Drawers,Floor Cabinet,Floor Protectors,Pull Handle(s)",
-            "Drain Assembly,Mounting Hardware,Wall Cabinet",
-            "Drawers,Floor Protectors,Legs,Pull Handle(s)",
-            "Drawers,Floor Cabinet,Mounting Hardware",
-            "Legs,Mounting Hardware",
-            "Drain Assembly,Mounting Hardware,P-Trap,Pull Handle(s),Wall Cabinet",
-            "Mounting Hardware,Pull Handle(s)",
-            "Floor Cabinet,Legs",
-            "Mounting Hardware,No Additional Included Components,Wall Cabinet",
-            "Mounting Hardware",
-            "Assembly Tool,Drawers,Floor Cabinet,Pull Handle(s)",
-            "No Additional Included Components,Pull Handle(s)",
-            "Drain Assembly,Pull Handle(s)",
-            "Drawers,Wall Cabinet",
-            "Floor Protectors,Legs,Pull Handle(s)",
-            "Mounting Hardware,Wall Cabinet",
-            "Drawers,Floor Cabinet,Legs",
-            "Drain Assembly,Drawers,Floor Cabinet,Legs,P-Trap",
-            "Drawers,Pull Handle(s)",
-            "Floor Cabinet,Mounting Hardware",
-            "Legs,Mounting Hardware,Pull Handle(s)",
-            "Drawers,Floor Cabinet,No Additional Included Components,Pull Handle(s)",
-            "Legs,Pull Handle(s)",
-            "Floor Cabinet",
-            "Drawers,Legs,Pull Handle(s)",
-            "Drawers,Legs",
-            "Drawers,Legs,Linen Cabinet"
-        ],
-        "Cabinet Material":[
-            "Composite",
-            "Solid Wood",
-            "Wood",
-            "Particle Board",
-            "Plywood",
-            "Iron",
-            "Medium Density Fiberboard (MDF)",
-            "Steel"
-        ],
         "Backsplash Included":[
             "Backsplash Not Included",
             "Backsplash Included"
@@ -3987,18 +2800,6 @@ all = {
             "Floating",
             "Corner",
             "Freestanding"
-        ],
-        "Cabinet Depth (in.)":"fix",
-        "Store Sku":"fix",
-        "Sink Shape":[
-            "Round",
-            "Rectangular",
-            "Specialty",
-            "Square"
-        ],
-        "Mirror Included":[
-            "Mirror Not Included",
-            "Mirror Included"
         ],
         "Faucet Hole Spacing (in.)":[
             "Single Hole, No Spacing - Single Hole",
@@ -4009,106 +2810,15 @@ all = {
             "8 in. Faucet Hole Spacing",
             "4 in. Faucet Hole Spacing"
         ],
-        "Number of Drawers":[
-            "2",
-            "14",
-            "7",
-            "11",
-            "0",
-            "1",
-            "10",
-            "12",
-            "6",
-            "4",
-            "9",
-            "8",
-            "5",
-            "13",
-            "3"
-        ],
-        "Model":"fix",
-        "Basin Width (in.)":"fix",
-        "Product Height (in.)":"fix",
         "Assembly Required":[
             "Yes",
             "No"
-        ],
-        "Vanity Part Type":[
-            "Vanity Side Cabinet"
         ],
         "Label":[
             "Exclusive",
             "Top Rated",
             "New",
             "Bath Event"
-        ],
-        "Product Weight (lb.)":[
-            "124.6 lb",
-            "174.6 lb",
-            "87.6 lb",
-            "49 lb",
-            "157.6 lb",
-            "69 lb",
-            "180 lb",
-            "130.6 lb",
-            "108.6 lb",
-            "89 lb",
-            "146 lb",
-            "124 lb",
-            "126.5 lb",
-            "113 lb",
-            "118 lb",
-            "76.5 lb",
-            "67 lb",
-            "129.86 lb",
-            "115.5 lb",
-            "52.7 lb",
-            "6.700 lb",
-            "101 lb",
-            "70.99 lb",
-            "162 lb",
-            "82 lb",
-            "61.7 lb",
-            "108 lb",
-            "82.6 lb",
-            "129 lb",
-            "65 lb",
-            "72 lb",
-            "123 lb",
-            "141.6 lb",
-            "50 lb",
-            "42 lb",
-            "40 lb",
-            "64.8 lb",
-            "77 lb",
-            "87.09 lb",
-            "149 lb",
-            "57 lb",
-            "9.650 lb",
-            "89.38 lb",
-            "179 lb",
-            "135.6 lb",
-            "104.36 lb",
-            "8.180 lb",
-            "132 lb",
-            "96 lb",
-            "99.5 lb",
-            "31 lb",
-            "85 lb",
-            "94.5 lb",
-            "12.600 lb",
-            "140 lb",
-            "105 lb",
-            "113.6 lb",
-            "117 lb",
-            "105.5 lb",
-            "47 lb",
-            "34 lb",
-            "15.540 lb",
-            "33 lb",
-            "119.6 lb",
-            "89.5 lb",
-            "135 lb"
         ],
         "Features":[
             "Mildew Resistant,Mold Resistant,Predrilled,Scratch Resistant,Stain Resistant",
@@ -4121,153 +2831,9 @@ all = {
             "Sidesplash Included",
             "Sidesplash Not Included"
         ],
-        "Product Width x Depth":[
-            "30 in. x 22 in.",
-            "58.25 in. x 22.25 in.",
-            "25 in. x 22.25 in.",
-            "36 in. x 22 in.",
-            "42 in. x 22 in.",
-            "43.25 in. x 22.25 in.",
-            "49.25 in. x 22.25 in.",
-            "37 in. x 22 in.",
-            "54.5 in. x 22.25 in.",
-            "24 in. x 22 in.",
-            "49 in. x 22.25 in.",
-            "60 in. x 22 in.",
-            "43 in. x 22 in.",
-            "34.5 in. x 22.25 in.",
-            "55.5 in. x 22.25 in.",
-            "54 in. x 22 in.",
-            "24 in. x 1 in.",
-            "33.75 in. x 22.25 in.",
-            "31 in. x 22 in.",
-            "57.5 in. x 22.25 in.",
-            "25.5 in. x 22.25 in.",
-            "28.5 in. x 22.25 in.",
-            "28 in. x 22.25 in.",
-            "36.5 in. x 22.25 in.",
-            "39.5 in. x 22.25 in.",
-            "48.5 in. x 22.25 in.",
-            "37.25 in. x 22.25 in.",
-            "27.5 in. x 22.25 in.",
-            "39.75 in. x 22.25 in.",
-            "34.25 in. x 22.25 in.",
-            "27.75 in. x 22.25 in.",
-            "55.25 in. x 22.25 in.",
-            "25.25 in. x 22.25 in.",
-            "58 in. x 22.25 in.",
-            "60.5 in. x 22.25 in.",
-            "30.75 in. x 22.25 in.",
-            "61.5 in. x 22.25 in.",
-            "49 in. x 22 in.",
-            "40.5 in. x 22.25 in.",
-            "61 in. x 22.25 in.",
-            "48.75 in. x 22.25 in.",
-            "61.25 in. x 22.25 in.",
-            "24.5 in. x 22.25 in.",
-            "43.5 in. x 22.25 in.",
-            "61 in. x 22 in.",
-            "31.25 in. x 22.25 in.",
-            "31.5 in. x 22.25 in.",
-            "42.5 in. x 22.25 in.",
-            "43 in. x 22.25 in.",
-            "34 in. x 22.25 in.",
-            "66 in. x 22 in.",
-            "55 in. x 22.25 in.",
-            "33.5 in. x 22.25 in.",
-            "40.25 in. x 22.25 in.",
-            "48 in. x 22 in.",
-            "49.5 in. x 22.25 in.",
-            "57.75 in. x 22.25 in.",
-            "31 in. x 22.25 in.",
-            "58.5 in. x 22.25 in.",
-            "42.75 in. x 22.25 in.",
-            "37 in. x 22.25 in.",
-            "37.5 in. x 22.25 in.",
-            "28.25 in. x 22.25 in.",
-            "36.75 in. x 22.25 in.",
-            "40 in. x 22.25 in.",
-            "54.75 in. x 22.25 in.",
-            "60.75 in. x 22.25 in.",
-            "30.5 in. x 22.25 in."
-        ],
-        "Medicine Cabinet Included":[
-            "Medicine Cabinet Not Included",
-            "Medicine Cabinet Included"
-        ],
         "Remote Access":[
             "Remote Access",
             "No Remote Access"
-        ],
-        "Voice Control Hub Required":[
-            "No Voice Control"
-        ],
-        "Works With":[
-            "No additional compatibility"
-        ],
-        "Mirror Width in":[
-            "24",
-            "27.50"
-        ],
-        "Product Depth in":[
-            "18.1 in",
-            "18.5 in"
-        ],
-        "Faucet Hole Spacing in":[
-            "Single Hole"
-        ],
-        "Vanity Drawer/Door Features":[
-            "Adjustable Hinges,Soft Close Door Hinges,Soft Close Drawer Hinges"
-        ],
-        "Basin Depth in":[
-            "6.5",
-            "4.7"
-        ],
-        "Basin Length in":[
-            "11.5",
-            "15.7"
-        ],
-        "Cabinet Top Assembled weight lbs":[
-            "148",
-            "126"
-        ],
-        "Cabinet Depth in":[
-            "17.90",
-            "17.70"
-        ],
-        "Mirror Height in":[
-            "27.6"
-        ],
-        "Cabinet Height in":[
-            "35.00",
-            "30.30"
-        ],
-        "Basin Width in":[
-            "15.7",
-            "17.5"
-        ],
-        "Cabinet Width in":[
-            "29.50",
-            "23.20"
-        ],
-        "Vanity Top Thickness in":[
-            "0.8"
-        ],
-        "Vanity Cabinet Features":[
-            "Mold Resistant,Stain Resistant",
-            "Stain Resistant"
-        ],
-        "Product Width in":[
-            "24 in",
-            "29.9 in"
-        ],
-        "Product Height in":[
-            "35.8 in",
-            "36 in"
-        ],
-        "Top weight lb":[
-            "25",
-            "30"
         ],
         "Vanity Drawer Door Features":[
             "Adjustable Hinges,Soft Close Door Hinges",
@@ -4280,48 +2846,12 @@ all = {
             "PVC (60%), Plywood (40%)",
             "Plywood (N/A%)"
         ],
-        "Assembled Width (in.)":[
-            "49.00 in"
-        ],
-        "Assembled Height (in.)":[
-            "34.78 in"
-        ],
-        "Assembled Depth (in.)":[
-            "22.00 in"
-        ],
-        "Hub Required":[
-            "No hub connection available"
-        ],
-        "Requires Hub?":[
-            "No Hub Required"
-        ],
-        "Power Options":[
-            "Plug-in,USB Connector"
-        ],
-        "Reversible":[
-            "No"
-        ],
-        "Color/Finish":[
-            "Eternal Serena",
-            "Eternal Statuario",
-            "Eternal Marquina",
-            "Miami White"
-        ],
         "Color Family":[
             "Black",
             "Cream",
             "White",
             "Gray"
         ],
-        "Product Thickness (in.)":[
-            ".8125 in",
-            ".2125 in"
-        ],
-        "Certifications and Listings":[
-            "EPA Approved",
-            "EPA Approved,IAPMO Certified",
-            "EPA Approved,EPA Approved,IAPMO Certified"
-        ]
     },
     "Watches":{
         "Calendar Type":[
@@ -4347,11 +2877,10 @@ all = {
             "Date-Moon Phase",
             "Day"
         ],
-        "Date First Available":"fix",
+        "Date First Available":"fix", # what it means
         "Part Number":"fix",
-        "Band Colour":"fix",
-        "ASIN":"fix",
-        "Dial Colour":"fix",
+        "Band Colour":"fix", # must add
+        "ASIN":"fix", # whats this
         "Product Dimensions":"fix",
         "Bezel Function":[
             "226_hour_time_display",
@@ -4442,7 +2971,7 @@ all = {
             "Black"
         ],
         "Special Features":"fix",
-        "Case Thickness":"fix",
+        "Case Thickness":"fix", # must add
         "Department":[
             "Womens",
             "Unisex Kids",
@@ -4495,90 +3024,7 @@ all = {
             "Analog-Digital",
             "Pointer type"
         ],
-        "Warranty Type":[
-            "6 MONTH",
-            "Contact Seller of Record",
-            "Limited",
-            "Manufacturer",
-            "NO",
-            "VAIDEHI ENTERPRISE",
-            "no",
-            "1 year",
-            "1 Year Warranty",
-            "1 Years Warranty",
-            "Lifetime",
-            "1 YEAR",
-            "Al-Huda Fashions",
-            "Generic",
-            "6 Months Warranty",
-            "No warranty",
-            "manufacturer",
-            "Standard",
-            "Warranty Covered manufacturing defect",
-            "Manufacture",
-            "Off Site",
-            "6 Months",
-            "6 warranty",
-            "No Warraty",
-            "6 Month",
-            "Extended",
-            "6 month",
-            "No",
-            "12 Months Warranty",
-            "6 month warranty",
-            "3 months service warranty",
-            "No Warranty"
-        ],
-        "Manufacturer":"fix",
-        "Net Quantity":[
-            "1.00 Unit",
-            "5.0 Grams",
-            "1.00 count",
-            "2.00 2",
-            "150.00 gram",
-            "1.0 1",
-            "2 Piece",
-            "2.00 count",
-            "6 count",
-            "1.00 Milliliters",
-            "1.00 CM",
-            "150.0 gram",
-            "3.00 count",
-            "2.00 Set",
-            "5.00 count",
-            "2.00 Piece",
-            "2 Count",
-            "50.00 gram",
-            "2.0 Pack",
-            "1.0 Count",
-            "4 count",
-            "1.0 count",
-            "1.00 Count",
-            "4.00 count",
-            "1.00 1",
-            "1.00 Uunit",
-            "5 Piece",
-            "1 count",
-            "1.00 Set",
-            "1 Count",
-            "2.0 Piece",
-            "1.00 Pack",
-            "200.00 gram",
-            "1.00 Piece",
-            "200 gram",
-            "3 count",
-            "1.0 Pack",
-            "2.0 count",
-            "1.00 unit",
-            "12.00 1",
-            "2 count",
-            "1 Piece",
-            "4.00 Piece",
-            "500 Grams",
-            "50.0 millilitre",
-            "1.0 Piece",
-            "100.00 gram"
-        ],
+        "Manufacturer":"fix", # must add
         "Case Material":[
             "Gold-tone Metal",
             "Resin",
@@ -4627,108 +3073,7 @@ all = {
             "Palladium",
             "TR90",
             "Polycarbonate"
-        ],
-        "Importer":[
-            "Poonam Panwar",
-            "<p>Fossil India Pvt. Ltd. <br> Khata Khatoni No-147/150 Min, Khasra No-190/3 &188,191, Village-Tipra, Barotiwala, Tehsil Baddi, District Solan (H.P) - 174103<br> </p>",
-            "Secure Space",
-            "Vardhman Marketing",
-            "Ayan Enterprises",
-            "ECONETING E-COMMERCE PRIVATE LIMITED PLOT NO- 93-94, UTTAM NAGAR, New Delhi South West Delhi DELHI 印度 110059 +8619902914838",
-            "Timeland",
-            "M.P Enterprise, Office No. 1, 2nd Floor, Aman Chambers, Opera House, 113 Mama Parmanand Marg, Charni Road East, Mumbai - 400 004",
-            "Watches of Switzerland, 36-G, Heera Panna Arcade, Haji Ali, Mumbai 400026, India, Telephone No: (91-22) 614 63 838",
-            "Motu Gaju,307,Crystal plaza,silver chowk,surat-395010,Email-motugaju@gmail.com,India",
-            "Carlington india | 8100323453 | support@carlington.in",
-            "TERA 13",
-            "AE",
-            "Caveman Projects, New Delhi - 70, Phone number - 9315467443",
-            "Bizotico, 3rd Floor, RT Nagar Main Road, Bangalore, India - 560032. Customer Care -7711889191",
-            "ETHOS Ltd, Plot No. 359, Ground Floor, Udyog Vihar-2, Gurgaon-120015",
-            "TIME UP WATCHES",
-            "FEMEO",
-            "Anjaneya Solutions",
-            "Caveman Projects, Vasant Kunj, New Delhi -70",
-            "KAJAL. ENTERPRISE.",
-            "Titan Company Limited, #3, SIPCOT Industrial Complex, Hosur - 635126, Tamil Nadu",
-            "Designer World Brands LLP",
-            "Progressive Lifestyles Pvt Ltd. Plot No 18 Phase -2 Industrial Area. Panchkula Haryana -134113",
-            "‎ Brandzstorm India Marketing Private Limited 305-HUBTOWN SOLARIS.N.S.PHADKE MARG, NEAR, EAST-WEST FLYOVER, Andheri East, Mumbai, Maharashtra 400069",
-            "MUKTESHWARPURI ENTERPRISE LLP",
-            "Timex Group India Limited, Plot No. 10, Industrial Area- Katha, Bhatoli Kalan, Baddi, Himachal Pradesh – 173205",
-            "ATTAR",
-            "TAMAVI",
-            "Godrej & Boyce Mfg. Co. Ltd.",
-            "YHMEI WATCH,Email:Jkindia247@gmail.com",
-            "Imported By - Timex Group India Limited, Plot No. 10, Industrial Area- Katha, Bhatoli Kalan, Baddi, Himachal Pradesh – 173205",
-            "P.A TIME INDUSTRIES UNIT II KASAULI ROAD DHARAMPUR SOLAN HP 173209 INDIA",
-            "Approved Club LLP, 36-G, Heera Panna Arcade, Haji Ali, Mumbai 400026, India, Telephone No: (91-22) 614 63 838",
-            "Motu Gaju,307,crystal plaza,silver chowk,surat-395010,Email-Motu Gajuwatches@gmail.com,India",
-            "Victorinox India Pvt Ltd, 022-6262-8888",
-            "TONSY WATCHES TRADER VT LTD",
-            "Designer World Brands LLP.F1-4, Pinnacle Business Park, First Floor, Next to Ahura Centre, Mahakali Caves Road, Andheri East. Mumbai - 400093.",
-            "MGI DISTRIBUTION PRIVATE LIMITED, #210/2, ‘TERRATANA’ 2nd Floor, Upper Palace Orchards, Bellary Road Sadashiva Nagar Bengaluru 560143",
-            "SuperSpring Ventures Pvt. Ltd., 705, Ecstasy Business Park, Citi of Joy, J.S.D. Road, Mulund (W), Mumbai - 400080. Customer Care No. 890 965 4444",
-            "Made In India",
-            "Britime",
-            "IMPORTREND",
-            "Imported By: Plot No. 10, Industrial Area- Katha, Bhatoli Kalan, Baddi, Himachal Pradesh – 173205",
-            "YES Enterprise",
-            "Hamster london",
-            "#3, SIPCOT Industrial Complex, Hosur - 635126, Tamil Nadu",
-            "P.A TIME INDUSTRIES UNIT II KASAULI ROAD DHARAMPUR SOLAN 173209 HP INDIA",
-            "DESIGNER PROGRESSIVE INDIA LLP, First Floor, PLOT NO.18, INDUSTRIAL AREA, PHASE-II, Panchkula, Haryana, 134113, India",
-            "Raspberry",
-            "nyalkaran.creation3888@gmail.com",
-            "Carlson Raulen",
-            "AAPXI",
-            "Imported By - Casio India Co Pvt Ltd, A-41, 1st Floor, MCIE, Mathura Road, New Delhi-110044",
-            "Progressive Lifestyles Pvt Ltd. Plot No 18 Phase 2 Panchkula, Haryana - 134113 India",
-            "Time Master Watches and Accessories Pvt. Ltd.",
-            "Hunnenweg 4 P.O. BOX 4503 Solothum, Switzerland",
-            "Approved Club LLP 36-G, Heera Panna Arcade, Haji Ali, Mumbai 400026, India, Telephone No: (91-22) 614 63 838",
-            "ILG INDIA FASHION LLP, Pinnacle Business Park, S7-9 7th floor, next to Ahura Center, Mahakali caves Road, Andheri east, mumbai - 400093",
-            "Importrend",
-            "shelvellon@gmail.com",
-            "SUDHIRYADAV ENTERPRISE LLP, sudhiryadaventpdelhi@gmail.com (9355379488)",
-            "DHWANI ENTERPRISE",
-            "The Shopoholic,307,Crystal Plaza,Surat-395010,Email-khatrionline27@gmail.com",
-            "Brandzstorm India Marketing PVT LTD, 305, 3rd Floor, Hubtown Solaris, N.S. Phadke Marg, Near East West Flyover, Andheri East, Mumbai-400069.",
-            "Azon India",
-            "amazonglobal222@gmail.com",
-            "SSKR, ANDHRA PRADESH",
-            "squirro watches",
-            "Motu Gaju,Email-motugaju@gmail.com,Addres-307,crystal plaza,silver chowk,surat-395010,India",
-            "Manvik Creation, Delhi",
-            "RS ENTERPRISES, House No. 05, Block No. 36, Trilok Puri Delhi - 110091, Contact No. 9582320531, Email - rizwanahmed2504@gmail.com",
-            "OHHO WATCH PVT.LTD.GUJARAT",
-            "Chumbak Design Pvt. Ltd., 520, CMH Road, Indiranagar, 1st Stage, Near ICICI Bank, Bangalore - 560038",
-            "ACES Timeless PTE Ltd, 28 Kallang Place Singapore 339158",
-            "vr womens watches",
-            "SUDHIRYADAV DECO WORLD FURNISHINGS LLP,, Customer Care : (+91-7291860014),sdecor.world080@gmail.com",
-            "ILG INDIA FASHION LLP, Pinnacle Business Park, S7-9, 7th floor,Mahakali caves Road, Andheri east, mumbai - 400093",
-            "SuperSpring Ventures Pvt. Ltd. 705, Ecstasy Business Park, Citi of Joy, J.S.D. Road, Mulund (W), Mumbai - 400080. Customer Care No. 890 965 4444",
-            "ANANYA SHOP (ROSEFAIR) GUJARAT CONTACT,ananyashop1392020@gmail.com",
-            "Atomics, SJ Complex, Town Railway Station Road, Palakkad",
-            "Mahi Traders",
-            "Timex Group India Limited, Plot No. 10, Industrial Area- Katha, Bhatoli Kalan, Baddi, Himachal Pradesh - 173205",
-            "MGI Distribution Pvt Ltd.210/2 Bellary road, sadashiv nagar 2nd floor upper Palace Orchards Bengalure- 560080",
-            "LUOLINGONGJUE",
-            "Nalini Shubhra Enterprises",
-            "Designer World Brand LLP",
-            "Motu Gaju,Email-motugaju@gmail.com,Address-307,crystal plaza,silver chowk,surat-395010,India",
-            "NIBOSI 000",
-            "Designer Progressive India LLP, PLOT NO 18 INDUSTRIAL AREA PHASE - 2, PANCHKULA ( HARYANA)-134113",
-            "Guangzhou",
-            "Watches of Switzerland , 36-G , Heera Panna Arcade, Haji ali- 400026",
-            "Titan Company Limited, Sipcot Industrial Complex, Hosur, Tamil Nadu - 635129",
-            "Designer World Brands LLP, Mumbai India",
-            "Seiko Watch India Pvt Ltd, 874, Temple Vista Ground Floor, Indiranagar, Bangalore",
-            "INDIA",
-            "ABC DELHI",
-            "Imported by:- Timex Group India Limited, Plot No. 10, Industrial Area- Katha, Bhatoli Kalan, Baddi, Himachal Pradesh – 173205",
-            "Atomics, SJ Complex, Railway station road, Palakkad, Kerala, India"
-        ],
+        ], # cut short + name chg - case
         "Crystal Material":[
             "Resin",
             "Tempered Glass",
@@ -4779,107 +3124,6 @@ all = {
             "Swiss Quartz",
             "No"
         ],
-        "Warranty":[
-            "3 Years",
-            "5 years",
-            "2 Years",
-            "2 Years International Warranty",
-            "7 Years",
-            "5 Years",
-            "6 Months",
-            "2 years",
-            "If this product is sold by Amazon, please review the manufacturers website for warranty information. If this product is sold by another party, please contact the seller directly for warranty information for this product. You may also be able to find warranty information on the manufacturers website.",
-            "6 months",
-            "4 Years",
-            "1 year",
-            "1 Year"
-        ],
-        "Item model number":"fix",
-        "Model Number":"fix",
-        "Generic Name":[
-            "Perfume - Eau De Parfum",
-            "Men Watch",
-            "Unisex Wrist Watch",
-            "Fashion Bracelet Watch",
-            "watch for kids boys",
-            "Sport Watch",
-            "WOMEN WATCH",
-            "Watches",
-            "Sports::Formal::Party-Wedding::Casual",
-            "Casual Watch ,Modern Watch , Stylish Watch ,Wrist Watch",
-            "Watches for Men",
-            "Casual",
-            "New Stylish Analog Watch For Men",
-            "Running Watch",
-            "sport watch",
-            "Mult Dial Watch",
-            "girls bracelet watch band",
-            "Casual Watch party, Wedding Celebrate.",
-            "Camping Watch",
-            "Ck_PURPLE",
-            "Date Display Watch",
-            "Casual::Formal",
-            "casual watch",
-            "Running Watch Casual Watch",
-            "Sports::Casual::Party-Wedding::Formal",
-            "Women Small Gold Watch",
-            "2 tone 9151 DLX Golden",
-            "watches",
-            "Sports::Casual::Formal::Party-Wedding",
-            "WATCH",
-            "Sports",
-            "Watch,Fashion,Kids",
-            "Smart Watch",
-            "Watch Repair Kit",
-            "Sports::Casual",
-            "Hybrid",
-            "Analog Wrist Watch",
-            "Casual::Formal::Party-Wedding",
-            "Wrist Watch",
-            "Casual::Sports",
-            "Women Gold Watch",
-            "Womens Wrist Watch Combo",
-            "Casual Watch",
-            "Analogue Sport Watch",
-            "Rings",
-            "Digital Sports Stylish Multi Functional Watch",
-            "Mens Sports Watches",
-            "kids watch",
-            "Bracelet Watch",
-            "DRW030_Pink",
-            "Men Women Pair Watch",
-            "Wristwatch",
-            "Sports::Formal::Casual",
-            "Pocket Watch",
-            "Watches Parts & Accessories",
-            "portableelectronicdevicecover",
-            "Casual::Sports::Formal",
-            "Sports::Party-Wedding::Casual",
-            "Ring Watch",
-            "c cup",
-            "Cartoon Watch",
-            "Bracelet",
-            "Watch, Sport Watch",
-            "Automatic Watch",
-            "Analog Watch",
-            "Touchscreen",
-            "Classic Watch for Men",
-            "Jewelry Ser Gift",
-            "Dress Watch",
-            "Jelly",
-            "Analog",
-            "Wristwatches",
-            "Wrist Watches",
-            "Casual Watch, Formal Watch, Party Wear Watch",
-            "Casual::Formal::Party-Wedding::Sports",
-            "Ladies Watches",
-            "watch",
-            "Analog Watch with Date Function",
-            "Womens Watch",
-            "Party Watch",
-            "watch for men",
-            "Watch"
-        ],
         "Band size":[
             "Womens",
             "Children Standard",
@@ -4916,10 +3160,9 @@ all = {
             "20mm",
             "1.4",
             "Women"
-        ],
-        "Packer":"fix",
-        "Case Diameter":"fix",
-        "Brand":"fix",
+        ], # need fix
+        "Case Diameter":"fix", # must add
+        "Brand":"fix", # must add
         "Case Shape":[
             "Rectangle",
             "Round",
@@ -5118,25 +3361,6 @@ all = {
             "Foldover Clasp",
             "Butterfly double snap button"
         ],
-        "Band Width":"fix",
-        "Item Dimensions LxWxH":"fix",
-        "Country of Origin":[
-            "Hong Kong",
-            "France",
-            "Japan",
-            "Switzerland",
-            "USA",
-            "Germany",
-            "Thailand",
-            "China",
-            "Philippines",
-            "India",
-            "United Arab Emirates",
-            "Hong Kong Sar China",
-            "Singapore",
-            "Italy"
-        ],
-        "Item Weight":"fix",
         "Included Components":[
             "Resin",
             "Warranty Card, Watch",
@@ -5189,50 +3413,7 @@ all = {
             "Watch, Bangle",
             "silicon slap band bracelet",
             "Watch"
-        ],
-        "Water Resistance Depth":[
-            "100 Feet",
-            "10 Feet",
-            "40 Meters",
-            "36 Meters",
-            "30 Meters",
-            "IP68",
-            "20 Meters",
-            "5 Meters",
-            "50 Feet",
-            "10 Centimeters",
-            "15 Meters",
-            "50 Millimeters",
-            "50 Meters",
-            "30.00 Centimeters",
-            "30 Metres",
-            "IP67",
-            "0.1 Meters",
-            "20 Feet",
-            "1 Feet",
-            "0.5 Meters",
-            "15 Feet",
-            "30 Millimeters",
-            "0.1 Feet",
-            "200 Meters",
-            "1.00 Feet",
-            "10 Meters",
-            "47 Meters",
-            "1 Meters",
-            "0.75 Meters",
-            "330 Meters",
-            "50 Metres",
-            "3 Feet",
-            "30 Feet",
-            "100 Meters",
-            "2 Meters",
-            "3 Meters"
-        ],
-        "Warranty Description":"fix",
-        "Is Discontinued By Manufacturer":[
-            "No",
-            "Yes"
-        ],
+        ], # may remove
         "Collection":[
             "Hip-hop",
             "Commodore",
@@ -5294,7 +3475,6 @@ all = {
             "Silver Diamond",
             "I.N.O.X.",
             "Seven Color Digital Watch",
-            "4",
             "Unika",
             "ASGARD",
             "WEDDING AND PARTYWEAR",
@@ -5303,109 +3483,7 @@ all = {
             "casual",
             "Pigalle",
             "Casual Wear"
-        ],
-        "Batteries":[
-            "1 Lithium Metal batteries required.",
-            "1 Lithium Metal batteries required. (included)",
-            "1 LR44 batteries required. (included)",
-            "1 LR44 batteries required.",
-            "2 A batteries required. (included)",
-            "1 AAA batteries required. (included)",
-            "1 A batteries required. (included)",
-            "2 Lithium Ion batteries required. (included)",
-            "1 Lithium Ion batteries required. (included)",
-            "1 Unknown batteries required.",
-            "2 Product Specific batteries required.",
-            "1 LR41 batteries required. (included)",
-            "1 Unknown batteries required. (included)",
-            "1 Product Specific batteries required.",
-            "1 Lithium Ion batteries required.",
-            "2 LR44 batteries required. (included)",
-            "1 Product Specific batteries required. (included)",
-            "1 Lithium Polymer batteries required. (included)",
-            "1 CR2 batteries required. (included)"
-        ],
-        "Package Dimensions":[
-            "15 x 13.6 x 7.8 cm; 470 g",
-            "10 x 7.7 x 7.2 cm; 150 g",
-            "11 x 8.1 x 7.7 cm; 200 g",
-            "20 x 15 x 6 cm; 180 g",
-            "1 x 0.9 x 0.7 cm; 0.25 g",
-            "11.8 x 8 x 7.6 cm; 310 g",
-            "26.29 x 10.49 x 1.7 cm; 68 g",
-            "10 x 10 x 10 cm; 400 g",
-            "14.99 x 13.21 x 7.62 cm; 360 g",
-            "10.9 x 8.4 x 7.2 cm; 215 g",
-            "16.51 x 11 x 4.39 cm; 110 g",
-            "8.6 x 8.4 x 8.4 cm; 120 g",
-            "1 x 1 x 1 cm; 300 g",
-            "8.61 x 6.91 x 2.39 cm; 50 g",
-            "9.1 x 9.1 x 7.2 cm; 80 g",
-            "12.9 x 9.2 x 5.7 cm; 90 g",
-            "12.5 x 12.5 x 8 cm; 98 g",
-            "15.24 x 10.16 x 10.16 cm; 453.59 g",
-            "8 x 6 x 3 cm; 200 g",
-            "26.7 x 6.2 x 1.7 cm; 41 g",
-            "10 x 10 x 10 cm; 250 g",
-            "10 x 10 x 7.6 cm; 180 g",
-            "8 x 7.9 x 7.01 cm; 97 g",
-            "15 x 15 x 15 cm; 300 g",
-            "10.6 x 10.2 x 8 cm; 240 g",
-            "7.9 x 7.8 x 7.7 cm; 60 g",
-            "11.4 x 11.1 x 7.2 cm; 69 g",
-            "18 x 16.6 x 8.2 cm; 230 g",
-            "17.78 x 10.16 x 5.08 cm; 90.72 g",
-            "18.1 x 12.1 x 8.3 cm; 240 g",
-            "10 x 10 x 9 cm; 70 g",
-            "9.53 x 7.62 x 7.62 cm; 226.8 g",
-            "16.7 x 16.3 x 8.2 cm; 210 g",
-            "5 x 5 x 5 cm; 200 g",
-            "10.1 x 7.8 x 7.2 cm; 150 g",
-            "18 x 8.2 x 0.5 cm; 15 g",
-            "9.14 x 6.1 x 4.83 cm; 70 g",
-            "9.19 x 8.99 x 7.29 cm; 250 g",
-            "11.18 x 7.62 x 6.6 cm; 9 g",
-            "10.1 x 8.8 x 8.7 cm; 80 g",
-            "19.81 x 10.49 x 6.2 cm; 349 g",
-            "10 x 10 x 10 cm; 200 g",
-            "8.5 x 8 x 7.5 cm; 75 g",
-            "9.9 x 8.9 x 8.7 cm; 80 g",
-            "14.73 x 13.21 x 7.62 cm; 65 g",
-            "12 x 4 x 4 cm; 200 g",
-            "8.13 x 7.87 x 7.87 cm; 420 g",
-            "18 x 10 x 10 cm; 299 g",
-            "14 x 13 x 7 cm; 340 g",
-            "14.81 x 13.49 x 7.7 cm; 340 g",
-            "26.59 x 6.2 x 1.7 cm; 50 g",
-            "10.2 x 7.7 x 7.2 cm; 200 g",
-            "10 x 10 x 10 cm; 300 g",
-            "26.92 x 6.43 x 1.65 cm; 93.55 g",
-            "12 x 8 x 4 cm; 200 g",
-            "19.61 x 15.39 x 8.2 cm; 449 g",
-            "11.6 x 6.6 x 3 cm; 100 g",
-            "10.41 x 7.62 x 7.11 cm; 199.58 g",
-            "26.67 x 6.5 x 1.65 cm; 99.22 g",
-            "8 x 5 x 5 cm; 80 g",
-            "9.9 x 7.7 x 7.3 cm; 150 g",
-            "7.01 x 7.01 x 7.01 cm; 70 g",
-            "29 x 7.5 x 3.2 cm; 97 g",
-            "10 x 10 x 10 cm; 180 g",
-            "15 x 13.6 x 7.8 cm; 370 g",
-            "10 x 10 x 10 cm; 100 g",
-            "13 x 9 x 8 cm; 130 g",
-            "10.2 x 7.7 x 7.2 cm; 130 g",
-            "16 x 9 x 4 cm; 110 g",
-            "9.6 x 8.2 x 7.7 cm; 123 g",
-            "6 x 5 x 3 cm; 250 g",
-            "15 x 13.6 x 7.8 cm; 350 g",
-            "7.11 x 7.11 x 5.08 cm; 45.36 g",
-            "11 x 7.62 x 7.37 cm; 230 g",
-            "27.1 x 6.1 x 1.7 cm; 68 g",
-            "8.89 x 8.89 x 6.98 cm; 110 g",
-            "8.8 x 8.8 x 7.6 cm; 250 g",
-            "18 x 10 x 2 cm; 60 g",
-            "11 x 10.49 x 2.59 cm; 91 g"
-        ],
+        ], # imp
         "Shape":[
             "Round",
             "Rectangular",
@@ -5414,56 +3492,11 @@ all = {
             "Asymmetrical",
             "Square",
             "Oval"
-        ],
-        "Model Name":[
-            "Vintage Bead",
-            "LTIN76003289",
-            "Signature Butterfly",
-            "Chonograph",
-            "Skytraveller",
-            "Bejewelled",
-            "JACKSON",
-            "Cary",
-            "Square-Watch-5pc-Multicolor",
-            "PDS-616",
-            "Runner For Her",
-            "Tearose",
-            "BROOKS",
-            "Signature Square",
-            "Lustre",
-            "CHARTER",
-            "Watch",
-            "Wachet",
-            "Elliot",
-            "1502775",
-            "Classic Swirl",
-            "ULTRA01-WHITE",
-            "Odyssey Ii",
-            "Wristwatch",
-            "Grand Tour Ladies",
-            "ELLIOT",
-            "Lightwings Screen Guard for Hmt Janata Metallic Pink Dial Wrist Watch",
-            "Grand",
-            "Cass",
-            "KITT",
-            "Candor Auto",
-            "Avery",
-            "Coach Boyfriend",
-            "#Grail Skeleton",
-            "Smart Display Design Orange watch",
-            "Smartwatch",
-            "LED Watch",
-            "SMART LED BLACK + POWER LED PINK",
-            "Greyson",
-            "Pack2.Lighter.Watch",
-            "Classic Ii",
-            "TW048HL13",
-            "Radiant Sun"
-        ],
+        ], # imp
         "Age Range Description":[
             "Adult",
             "Kid"
-        ],
+        ], # imp
         "Product Features":[
             "Time Display",
             "Waterproof",
@@ -5473,16 +3506,14 @@ all = {
             "Lightweight"
         ],
         "Colour":[
-            "As Shown",
             "BLACK & PINK",
             "Black",
             "Orange",
             "BLACK",
-            "Multicolour,White",
             "Green",
             "Multicolor",
-            "Yellow Watch You Head"
-        ],
+            "Yellow "
+        ], # name chg
         "Brand Name":[
             "Wristflix",
             "Generic",
@@ -5491,49 +3522,34 @@ all = {
             "PIRASO",
             "ZOVUTA",
             "DOUBLERUN"
-        ],
+        ], # imp
         "Band Color":[
             "BLACK & PINK",
             "Black",
             "Multicolour",
             "black",
             "orange",
-            "white",
             "White",
             "Multicolor"
-        ],
-        "Case Material Type":[
-            "Plastic",
-            "rubber",
-            "Rubber",
-            "Metal",
-            "Silicone",
-            "brass"
-        ],
+        ], # imp
         "Box Contents":[
-            "nill",
             "Digital Watch",
             "Wristwatch",
             "LED WATCH",
-            "Watch"
-        ],
+        ], # name chg - watch type
         "Band Material Type":[
             "Rubber",
             "Silicone",
             "Plastic",
             "plastic"
-        ],
+        ], # imp
         "Target Audience":[
             "Unisex Kids",
             "Baby Boys, Boys, Baby Girls, Girls, Unisex Kids",
             "Unisex Teen",
             "Unisex Adult",
             "Men"
-        ],
-        "Style Name":[
-            "Modern",
-            "strap"
-        ],
+        ], # imp
         "Style":[
             "Modern",
             "strap",
@@ -5553,17 +3569,6 @@ all = {
             "Sliding Clasp",
             "Magnet Clasp"
         ],
-        "Item Dimensions":[
-            "8 x 8 x 4 Centimeters",
-            "7 x 6 x 6 Centimeters",
-            "22 x 2 x 1 Centimeters",
-            "10 x 10 x 5 Millimeters",
-            "12 x 8 x 5 Centimeters",
-            "35 x 19 x 40 Millimeters",
-            "10 x 10 x 150 Millimeters",
-            "10 x 10 x 5 Centimeters",
-            "10 x 10 x 10 Centimeters"
-        ],
         "Special Feature":[
             "Time Display",
             "Waterproof",
@@ -5575,165 +3580,18 @@ all = {
             "Sleep Monitoring, Shock Resistant, Heart Rate Monitor",
             "9H Surface Hardness, Scratch Resistant",
             "Lightweight"
-        ],
-        "Item part number":[
-            "CSQ-57",
-            "SM=WM=110=R.GOLD",
-            "SM-WM-56-GREEN",
-            "SDR71056325",
-            "PN-1353-Aug",
-            "L80070520",
-            "SM-WL-17-WHITE",
-            "SM-WM-113-R.GOLD",
-            "SM-WM-93-SILVER",
-            "1",
-            "6026C",
-            "SM-WM-106-R.GOLD",
-            "SM=WM=46=GREY",
-            "SM-WL-19-RED",
-            "K24507-KBKK",
-            "6609PIXIU",
-            "6030A",
-            "MC88",
-            "SM-WM-13-R.GOLD",
-            "DD",
-            "K24505-GBGB",
-            "FT-0047 BLK",
-            "SM-WM-76-BLACK",
-            "SM=WM=50=BLACK",
-            "159357456852",
-            "T24302-SSBB",
-            "K24508-RLHW",
-            "K24509-TBTW",
-            "SM=WM=120=B.SILVER",
-            "K24505-RBKW",
-            "d5d546g45fd465",
-            "RX8007",
-            "SM=WM-40-BLUE",
-            "RUI6",
-            "5201-3A",
-            "SM=WM=108=GOLD",
-            "K24507-TBTW",
-            "SM-WM-72-GREY",
-            "SAZD68040595",
-            "T24007-TBTN",
-            "L10290520",
-            "108",
-            "SM=WM=121=GREEN",
-            "SAZD68040578",
-            "SM-WM-70-BLUE",
-            "SM-WM-78-GREY",
-            "SM-WM-43-BLUE",
-            "K24510-SLBW",
-            "SM-WM-15-BLUE",
-            "HH1110",
-            "L10300520",
-            "K24506-RBKH",
-            "SM-WL-18-PURPLE",
-            "K24505-KBKP",
-            "L10210517",
-            "SM-WM-82-D.GREEN",
-            "SM-WM-117-B.GOLD",
-            "SM-WM-59-BLUE",
-            "101",
-            "SM-WM-52-SILVER",
-            "SM-WML-24-BLACK",
-            "DY0508-LRJ",
-            "SM-WM-73-GOLD",
-            "SM-WM-62-WHITE",
-            "SM-WM-29-BLACK",
-            "SM-WM-28-BLACK",
-            "K24510-RLNN",
-            "K24509-KBKH",
-            "SM-WM-60-BROWN",
-            "SM-WM-89-BLACK",
-            "SM=WM=116=B.SILVER",
-            "SM-WM-64-BLUE",
-            "KLJH456O",
-            "R0915",
-            "T24302-SSRB",
-            "SM-WM-34-ORANGE",
-            "K24507-RBKP",
-            "SM=WM=85=BLACK",
-            "SM-WML-26-GREY",
-            "SM-WM-94-BLUE",
-            "K24506-GBGW",
-            "SM-WM-71-R.GOLD",
-            "BZ_RE-WWBRE",
-            "T24007-SBSB",
-            "SM=WM=119=G.GREEN",
-            "HH659",
-            "001",
-            "SM=WM=111=GOLD",
-            "SM-WML-25-SKY",
-            "KLJ001"
-        ],
-        "Customer Reviews":[
-            "3.3 3.3 out of 5 stars 3 ratings",
-            "4.6 4.6 out of 5 stars 7 ratings",
-            "3.2 3.2 out of 5 stars 3 ratings 3.2 out of 5 stars",
-            "4.2 4.2 out of 5 stars 32 ratings 4.2 out of 5 stars",
-            "3.6 3.6 out of 5 stars 18 ratings",
-            "4.6 4.6 out of 5 stars 56 ratings",
-            "4.2 4.2 out of 5 stars 15 ratings",
-            "4.4 4.4 out of 5 stars 95 ratings",
-            "4.0 4.0 out of 5 stars 4 ratings",
-            "4.0 4.0 out of 5 stars 2 ratings",
-            "3.0 3.0 out of 5 stars 2 ratings",
-            "3.2 3.2 out of 5 stars 5 ratings",
-            "3.8 3.8 out of 5 stars 5 ratings 3.8 out of 5 stars",
-            "4.5 4.5 out of 5 stars 2 ratings 4.5 out of 5 stars",
-            "2.2 2.2 out of 5 stars 4 ratings",
-            "2.7 2.7 out of 5 stars 5 ratings",
-            "4.0 4.0 out of 5 stars 14 ratings",
-            "4.2 4.2 out of 5 stars 14 ratings",
-            "3.2 3.2 out of 5 stars 27 ratings",
-            "4.2 4.2 out of 5 stars 37 ratings 4.2 out of 5 stars",
-            "4.4 4.4 out of 5 stars 6 ratings",
-            "4.1 4.1 out of 5 stars 47 ratings",
-            "3.3 3.3 out of 5 stars 9 ratings",
-            "5.0 5.0 out of 5 stars 1 rating",
-            "3.3 3.3 out of 5 stars 14 ratings",
-            "3.0 3.0 out of 5 stars 7 ratings",
-            "4.3 4.3 out of 5 stars 49 ratings",
-            "3.0 3.0 out of 5 stars 1 rating",
-            "4.5 4.5 out of 5 stars 352 ratings",
-            "4.0 4.0 out of 5 stars 11 ratings",
-            "5.0 5.0 out of 5 stars 2 ratings",
-            "4.4 4.4 out of 5 stars 41 ratings",
-            "4.6 4.6 out of 5 stars 10 ratings",
-            "5.0 5.0 out of 5 stars 4 ratings",
-            "4.5 4.5 out of 5 stars 2 ratings",
-            "3.8 3.8 out of 5 stars 351 ratings",
-            "4.8 4.8 out of 5 stars 5 ratings",
-            "3.3 3.3 out of 5 stars 4 ratings",
-            "1.0 1.0 out of 5 stars 1 rating",
-            "4.1 4.1 out of 5 stars 153 ratings",
-            "4.7 4.7 out of 5 stars 21 ratings 4.7 out of 5 stars",
-            "3.4 3.4 out of 5 stars 14 ratings 3.4 out of 5 stars",
-            "3.9 3.9 out of 5 stars 6 ratings",
-            "4.7 4.7 out of 5 stars 4 ratings",
-            "4.4 4.4 out of 5 stars 33 ratings",
-            "3.4 3.4 out of 5 stars 11 ratings",
-            "5.0 5.0 out of 5 stars 3 ratings",
-            "3.8 3.8 out of 5 stars 15 ratings",
-            "4.4 4.4 out of 5 stars 852 ratings"
-        ],
+        ], # name chg
         "Metal":[
             "Stainless Steel Pu",
             "Stainless Steel",
             "Alloy",
             "PU Leather Alloy",
-            "No Metal Type"
         ],
         "Stone":[
             "Stainless Steel Pu",
-            "No Gemstone",
             "Stainless Steel",
-            "no gemstone",
             "Quartz",
             "Rhinestone",
-            "As Per Description"
         ],
         "Theme":[
             "Fashion",
@@ -5745,13 +3603,7 @@ all = {
             "Antique",
             "Classic",
             "strap"
-        ],
-        "Model Year":[
-            "2024",
-            "2023",
-            "2022",
-            "2012"
-        ],
+        ], # name chg
         "Power Source":[
             "Solar Powered",
             "Battery",
@@ -5767,61 +3619,6 @@ all = {
         "Batteries Required":[
             "Yes",
             "No"
-        ],
-        "Model":[
-            "14503980",
-            "MF03-G",
-            "1502756",
-            "ob24000151",
-            "1514155",
-            "1514186",
-            "PDS-616",
-            "mdl22",
-            "278",
-            "1514185",
-            "14504393",
-            "24000139",
-            "14503877",
-            "Wachet",
-            "252",
-            "28000353",
-            "mdl45",
-            "1514195",
-            "1502770",
-            "1514184",
-            "1530377",
-            "ULTRA01-WHITE",
-            "14504272",
-            "14503406",
-            "28000321",
-            "1502755",
-            "ob24000147",
-            "14503075",
-            "14504396",
-            "236",
-            "17046",
-            "14602713",
-            "14602705",
-            "28000346-D"
-        ],
-        "Shipping Weight":[
-            "0.28 Kilograms"
-        ],
-        "Color":[
-            "Brown",
-            "Multicolour"
-        ],
-        "Item Shape":[
-            "Dodecagonal"
-        ],
-        "Item Part Number":[
-            "1",
-            "ben 10 bul"
-        ],
-        "Battery Type":[
-            "Lithium Polymer",
-            "The battery is very good and new condition having good life",
-            "Lithium Ion"
         ],
         "Strap Material":[
             "Fabric",
@@ -5847,12 +3644,6 @@ all = {
             "Sapphire Crystal",
             "Acrylic"
         ],
-        "Dial Size in mm":"fix",
-        "Multipack Set":[
-            "Single",
-            "2",
-            "His and Her Watches"
-        ],
         "Occasion":[
             "Casual",
             "Everyday Essentials",
@@ -5860,7 +3651,6 @@ all = {
             "Sports",
             "Party"
         ],
-        "Material & Care":"fix",
         "Dial Pattern":[
             "Textured",
             "Skeleton",
@@ -5870,67 +3660,6 @@ all = {
             "Mother of Pearl",
             "Solid"
         ],
-        "Strap Width in mm":"fix",
-        "seller_name":[
-            "TIMEHUT RETAIL (INDIA) PRIVATE LIMITED",
-            "ILG INDIA FASHION LLP",
-            "BHAVYA ENTERPRISE",
-            "Vision Star",
-            "J K ENTERPRISES",
-            "Ethos Limited",
-            "Progressive Lifestyles Pvt Limited",
-            "RAMA WATCH BOUTIQUE",
-            "LECORB INDIA PRIVATE LIMITED",
-            "TIMELESS ERA LLP",
-            "CWC SALES PRIVATE LIMITED",
-            "SWAROVSKI INDIA PRIVATE LIMITED",
-            "WATCHES OF SWITZERLAND",
-            "RetailNet",
-            "Flashstar Commerce",
-            "SKY BIRD INC",
-            "SHOCKNSHOP",
-            "BIZOTICO",
-            "Runway Creation Pvt Ltd",
-            "OLYMPIA INDUSTRIES LIMITED",
-            "Brandzstorm India Marketing Pvt.Ltd.",
-            "KAPIL TIMES",
-            "ARTAN COLLECTIONS",
-            "JUST IN TIME TRADING PRIVATE LIMITED",
-            "Titan Company Limited",
-            "LOIS CARON PVT LTD",
-            "ELITE ENTERPRISES",
-            "SRIJAGDAMBA PEARLS DEALER",
-            "SWADESI STUFF",
-            "M.P.Enterprise",
-            "Truenet Commerce",
-            "LAXMI AGENCIES",
-            "Shantam International",
-            "TIRUPATI BIZ LINK LLP",
-            "Supercom Net",
-            "NARAYAN ENTERPRISE",
-            "CHUMBAK DESIGN PVT LTD",
-            "JW Brands Private Limited",
-            "Truecom Retail",
-            "Wink Lifestyles Pvt Ltd",
-            "WATCHSTAR",
-            "FIMBUL ENTERPRISES",
-            "LUXURIT",
-            "ADONIS KOMMERCE",
-            "HOUSE OF BRANDS FASHION LLP",
-            "Br enterprises",
-            "Designer World Brands LLP",
-            "BAPPA ASSOCIATES",
-            "DESIGNER PROGRESSIVE INDIA LLP",
-            "Supertrust Marketing",
-            "Krishiv",
-            "DESIGNER WORLD OF MANUFACTURING & TRADING LLP.",
-            "P.A.TIME INDUSTRIES UNIT- II",
-            "SAMAY",
-            "Indiflashmart",
-            "Flashtech Retail",
-            "AJANTA WATCH COMPANY"
-        ],
-        "Case Thickness in mm":"fix",
         "Dial Shape":[
             "Round",
             "Rectangular",
@@ -5948,14 +3677,7 @@ all = {
             "Plain 3-Hand",
             "Tachymeter",
             "Chronograph"
-        ],
-        "Number of Items":[
-            "5",
-            "2",
-            "1",
-            "4"
-        ],
-        "Package Contains":"fix",
+        ], # name chg
         "Dial Material":[
             "Nylon",
             "Resin",
@@ -5980,17 +3702,6 @@ all = {
             "Tang",
             "Foldover"
         ],
-        "Water Resistance":[
-            "Water Resistant",
-            "Yes",
-            "300 m",
-            "100 m",
-            "200 m",
-            "Non-Resistant",
-            "50 m",
-            "500 m",
-            "30 m"
-        ],
         "Strap Style":[
             "Wrap Around",
             "Serpentine Strap",
@@ -6006,7 +3717,6 @@ all = {
             "Non-Swiss Made",
             "Swiss Made"
         ],
-        "Collection Name":"fix",
         "Type":[
             "Regular",
             "Hybrid",
@@ -6025,30 +3735,6 @@ all = {
             "Analogue",
             "Analogue and Digital"
         ],
-        "Strap Colour":[
-            "Gold Toned",
-            "Gold-Plated",
-            "Grey",
-            "Steel Toned",
-            "Green",
-            "Transparent",
-            "Orange",
-            "Yellow",
-            "Rose Gold-Plated",
-            "Rhodium-Plated",
-            "Red",
-            "Purple",
-            "Blue",
-            "Beige",
-            "White",
-            "Multicoloured",
-            "Pink",
-            "Black",
-            "Brown",
-            "Rose Gold Toned",
-            "Silver Toned",
-            "Gunmetal Toned"
-        ],
         "Features 3":[
             "Glow in the Dark Inlays",
             "Multiple Time Zone",
@@ -6059,8 +3745,7 @@ all = {
             "Date Aperture",
             "Alarm",
             "Chronograph"
-        ],
-        "Size & Fit":"fix",
+        ], # name chg - may drop
         "Features 2":[
             "Glow in the Dark Inlays",
             "Reset Time",
@@ -6071,92 +3756,18 @@ all = {
             "Date Aperture",
             "Alarm",
             "Chronograph"
-        ],
-        "Strap Length in mm":[
-            "185mm",
-            "230 mm",
-            "180mm",
-            "240mm",
-            "165",
-            "260 mm",
-            "240 mm",
-            "215mm",
-            "170 mm",
-            "152.4",
-            "170mm",
-            "165 mm",
-            "205mm",
-            "260mm",
-            "200mm",
-            "180 mm",
-            "175mm",
-            "190mm"
-        ],
-        "Complete The Look":[
-            "This impressive, trendy watch from Timex is sure to draw attention when you tell the time. This grey piece can be styled with slick black jeans and a classic leather jacket for an edgy date look.",
-            "Created for men who love accessories with class, this fabulous watch from Timex is for keeps. With a classic blue dial and stainless steel strap this piece is the perfect all round accessory.",
-            "Add a touch of elegance to any outfit with this Mother of Pearl Dial Analog Watch. The bracelet-style chain complements both casual and formal looks, making it a versatile accessory. Pair it with other minimalist jewelry for a cohesive, sophisticated appearance.",
-            "Elevate your partywear with this elegant pearl stone watch. Its sophisticated design makes it the perfect statement piece for special occasions, adding a touch of glamour to both traditional and modern outfits. Pair it with pearl or metallic accessories for a coordinated and stunning look.",
-            "This watch from Tees Collection by Fastrack is perfect for the college-goer and the lover of casual fashion. Teamit with a pair ofdenims and a linen shirt for the perfectlook.",
-            "Add a touch of luxury to your casual attire with this diamond-accented LED watch. Its sleek and compact design pairs effortlessly with both everyday and evening wear. The stainless steel strap adds durability, while the touch display brings a modern twist to a classic accessory. Perfect for women who appreciate elegance and innovation.",
-            "Dial Colour: White ,Case Shape: Round ,Case Material : Stainless Steel",
-            "Carlton London Women Gift Set of 2 Watch + Bracelet - CLPLG053",
-            "Dial Colour: Black ,Case Shape: Round ,Case Material : Stainless Steel",
-            "The perfect everyday accessory, this Ted Baker watch is both practical and stylish. Flaunt this timeless white piece with formal attire to nail a polished look when you head out to work.",
-            "Enhance your look with this elegant cuff chain bracelet watch set. The timeless design of the watch, paired with the stylish bracelet, adds a touch of sophistication to any outfit. Perfect for casual, office, or evening wear, this set is a versatile addition to your accessory collection. Gift it to someone special or treat yourself to this chic ensemble.",
-            "Make a stylishly cool statement with a deliciously detailed finish and a gorgeous, colorful dial. The thick bezel adds a sporty touch to a metal analog watch designed around the classic hour, minute, and seconds hand look. Water resistance up to 50 meters frees you from worry when washing up or working with water.",
-            "This NAVIFORCE NF9234 watch is a bold and contemporary timepiece that seamlessly blends sporty elements with a touch of sophistication. Its sleek stainless steel bracelet and case exude a modern, masculine aesthetic, while the contrasting black dial and luminous accents provide excellent readability in various lighting conditions.",
-            "Stainless Steel Back Cover",
-            "Elevate your accessory game with this stunning crystal watch. The CZ stone-studded bracelet design adds a luxurious vibe to any outfit, from casual daywear to formal evening attire. Pair it with your favorite bracelets or let it shine solo for an effortlessly chic look.",
-            "A versatile and casual timepiece that complements a wide range of outfits. Pair it with your everyday wear for a laid-back look, or match it with your sports attire for a sporty-chic vibe. Whether youre at a casual outing or on the move, this watch adds a touch of elegance and comfort.",
-            "Discover the epitome of refined masculinity with Carlingtons stainless steel analog watch for men. This timepiece exudes strength and sophistication with its robust stainless steel construction and a polished finish that speaks to modern elegance. The classic round dial, accentuated with bold hour markers, ensures clear visibility, while the precision quartz movement guarantees impeccable timekeeping. Versatile enough to transition from a business meeting to a weekend getaway, this watch is designed for the man who values both style and functionality. Carlingtonwhere timeless design meets enduring quality.",
-            "This Watch is Suitable for many different occasions, such as work, meetings, business, travel, dates, parties, etc. The silicone strap is both versatile and fashionable, easily fits the wrist and has a casual feel.",
-            "Case:Alloy,Strap:Alloy,Stainless Steel Back Cover",
-            "Enhance your look with this luxurious gold-tone wristwatch. The rhinestone decor adds a touch of sophistication, making it perfect for pairing with elegant evening wear or adding sparkle to a casual outfit. Its timeless design makes it a versatile and stylish addition to your accessory collection.",
-            "Make a singular statement with the timelessness of a classic analog watch with tonneau case. Water resistance for daily use frees you from worry when washing up or out in the rain.",
-            "Elevate your style with the timeless elegance of Carlingtons stainless steel analog watch, designed exclusively for women who appreciate classic sophistication. Crafted with a sleek stainless steel body, this watch seamlessly blends durability with modern grace. The minimalist dial, featuring clear hour markers, offers effortless readability, while the scratch-resistant glass ensures long-lasting brilliance. Perfect for both casual outings and formal occasions, this watch embodies the perfect balance of functionality and fashion. Whether youre stepping into a meeting or enjoying a night out, Carlington keeps you elegantly on time.",
-            "Watch Material = Dial:Alloy,Strap: Alloy,Stainless Steel Back Cover & Bracelet Material : Alloy",
-            "Giordano is one of the established brand with employing over 8,000 friendly staff with over 2,400 operating chains in more than 30 countries and regions worldwide. Giordano embodies todays contemporary lifestyle choices simplicity in design and quality in substance. Our total commitment to superior service and outstanding quality and value has enabled the company to successfully grow the brand.",
-            "Japanese movement . Stainless Steel Back Cover",
-            "Complete your look with this stunning bracelet watch that exudes sophistication. Its gold rhodium finish and white accents pair beautifully with both traditional and modern attire. Wear it as a statement accessory for formal events or as a chic addition to your everyday wardrobe.",
-            "The classic metal analog watch dressed up in gorgeous color. The sunray dial delivers a deceptively simple, luxe appearance. The easy-read date display at the 3 oclock position adds an extra handy touch. Water resistance up to 50 meters frees you from worry, even on rainy days.",
-            "Water resistant Day and Date display",
-            "This impressive, trendy watch from Lacoste is sure to draw attention when you tell the time. Match this green piece with slim jeans and a basic tee for a super-cool date outfit.",
-            "This impressive, trendy watch from Timex is sure to draw attention when you tell the time. Flaunt this timeless black piece with casuals when you head out to lunch for a smart look."
-        ],
-        "Item Length":[
-            "5.91 Inches",
-            "2.76 Inches",
-            "3.54 Inches",
-            "5.12 Inches"
-        ],
-        "Item Width":[
-            "7.00 Centimeters"
-        ],
-        "Embellishment Feature":[
-            "Crystal"
-        ],
+        ], #name chg - may drop
         "Case Material1 - Case Material2":[
             "Plastic",
             "Brass",
             "Stainless Steel",
             "Stainless Steel & Plastic",
             "Silicone"
-        ],
+        ], # name chg
         "Movement Type":[
             "Automatic",
             "Digital",
             "Quartz"
-        ],
-        "Power Source Type":[
-            "Solar Powered",
-            "Battery Powered"
-        ],
-        "Character":[
-            "Casual Watch",
-            "disney",
-            "Fashion",
-            "fashion"
         ],
         "Strap Type":[
             "Strap",
@@ -6166,365 +3777,6 @@ all = {
             "Bracelet",
             "Two Piece Strap",
             "bracelet"
-        ],
-        "Sport1 - Sport3":[
-            "Walking, Cycling, Running",
-            "Cycling, Running",
-            "Swimming",
-            "Walking"
-        ],
-        "Water Resistance Level":[
-            "Water Resistant",
-            "Waterproof"
-        ],
-        "Language":[
-            "English"
-        ],
-        "Closure Type":[
-            "Buckle",
-            "Push-Button"
-        ],
-        "Shell Type":[
-            "1"
-        ],
-        "Compatible Devices":[
-            "Smartwatch",
-            "1",
-            "All Smartphones (Android & iOS)"
-        ],
-        "Whats in the box":[
-            "Protector"
-        ],
-        "Form Factor":[
-            "Bumper"
-        ],
-        "Special features":[
-            "Wireless"
-        ],
-        "Form factor":[
-            "Bumper"
-        ],
-        "Battery cell composition":[
-            "Silver Oxide"
-        ],
-        "Maximum Water Resistance Pressure":[
-            "3.00 atmosphere",
-            "5.00 Bars",
-            "20.00 Bars"
-        ],
-        "Best Sellers Rank":[
-            "#42,775 in Watches ( See Top 100 in Watches )",
-            "#10,743 in Watches ( See Top 100 in Watches )",
-            "#30,150 in Watches ( See Top 100 in Watches )",
-            "#65,592 in Watches ( See Top 100 in Watches )",
-            "#79,247 in Watches ( See Top 100 in Watches )",
-            "#50,668 in Watches ( See Top 100 in Watches )",
-            "#13,260 in Watches ( See Top 100 in Watches )",
-            "#79,444 in Watches ( See Top 100 in Watches )",
-            "#34,948 in Watches ( See Top 100 in Watches )",
-            "#9,659 in Watches ( See Top 100 in Watches )",
-            "#35,356 in Watches ( See Top 100 in Watches )",
-            "#19,167 in Watches ( See Top 100 in Watches )",
-            "#79,337 in Watches ( See Top 100 in Watches )",
-            "#50,660 in Watches ( See Top 100 in Watches )",
-            "#4,761 in Watches ( See Top 100 in Watches )"
-        ],
-        "Activity Tracking":[
-            "Yes"
-        ],
-        "Bluetooth":[
-            "Yes"
-        ],
-        "Microphone":[
-            "Yes"
-        ],
-        "Flight Mode":[
-            "No"
-        ],
-        "GPS Tracking":[
-            "No"
-        ],
-        "Altimeter":[
-            "Yes",
-            "No"
-        ],
-        "BIS Expiry Date":[
-            "17/10/2025",
-            "22/08/2026",
-            "09/05/2025",
-            "30/05/2025",
-            "31/07/2025",
-            "31/03/2026"
-        ],
-        "Case":[
-            "Aluminum",
-            "Hard Case"
-        ],
-        "Battery Life":[
-            "Up to 5 Days",
-            "Up to 7 Days"
-        ],
-        "Call Function":[
-            "Yes"
-        ],
-        "Charging Type":[
-            "Wired"
-        ],
-        "Dust Resistance":[
-            "No",
-            "Yes"
-        ],
-        "Customisable Watch Face":[
-            "Yes",
-            "No"
-        ],
-        "Caller ID":[
-            "No",
-            "Yes"
-        ],
-        "Heart Rate Monitor":[
-            "Yes"
-        ],
-        "Display Resolution":[
-            "360 x 325 Pixels",
-            "466 x 466 Pixels",
-            "240 x 240 Pixels",
-            "320 x 320 Pixels"
-        ],
-        "OS":[
-            "No OS",
-            "Android"
-        ],
-        "Wi-Fi":[
-            "No",
-            "Yes"
-        ],
-        "BIS Certificate Image URL":[
-            "https://azmyntra.myntassets.com/dam-assets/assets/images/bis/2024/SEPTEMBER/10/tEJxakaz_ca85ed88461944ea88f83600e4bb930f.jpg",
-            "https://azmyntra.myntassets.com/dam-assets/assets/images/bis/2024/SEPTEMBER/10/h29p6hUn_40e6ebb342124a89a000ff9b356aa597.jpg",
-            "https://azmyntra.myntassets.com/dam-assets/assets/images/bis/2024/OCTOBER/14/0b7gyzA4_f681116cfb4c48edacab7e25f0c32c60.jpg",
-            "https://azmyntra.myntassets.com/dam-assets/assets/images/bis/2024/SEPTEMBER/10/AdYypY3L_d44224d326fd492fa23481226c098da6.jpg",
-            "https://azmyntra.myntassets.com/dam-assets/assets/images/bis/2024/SEPTEMBER/10/6ylwZOUU_a917fb7f2231481981fbc340be666236.jpg",
-            "https://assets.myntassets.com/assets/images/2024/6/11/84780403-60df-446f-b065-1e8237ac7aa31718089691112-Renewal-Certificate-of-R-41192155.jpg",
-            "https://azmyntra.myntassets.com/dam-assets/assets/images/bis/2024/SEPTEMBER/10/fLBLAt9U_64f9a37564f54993940ce3e3ce56b743.jpg",
-            "https://azmyntra.myntassets.com/dam-assets/assets/images/bis/2024/SEPTEMBER/10/XBMnpnBu_7610719e17e64d2f8bfa23f177d6c356.jpg",
-            "https://azmyntra.myntassets.com/dam-assets/assets/images/bis/2024/SEPTEMBER/10/LiTAZUPb_589a30ba10f1462ca5229569c15a3bdd.jpg",
-            "https://azmyntra.myntassets.com/dam-assets/assets/images/bis/2024/SEPTEMBER/10/VnfsmQrq_27ccd63821f046219a9a8248fecf96c5.jpg",
-            "https://azmyntra.myntassets.com/dam-assets/assets/images/bis/2024/SEPTEMBER/10/FzkvBJPB_8f60c86a86114ca7955dccbc9891dba4.jpg",
-            "https://azmyntra.myntassets.com/dam-assets/assets/images/bis/2024/SEPTEMBER/10/W6GPWZQR_ccd9d4acde4c4e91aefce6cdb7901b52.jpg",
-            "https://azmyntra.myntassets.com/dam-assets/assets/images/bis/2024/SEPTEMBER/10/EmsKfgUa_7ac4c2b59c5047cc88b14cd6d9eee89a.jpg",
-            "https://azmyntra.myntassets.com/dam-assets/assets/images/bis/2024/SEPTEMBER/10/lsFjOev3_dc2554ef7c5a4cd4ae5da8d415f3fd3f.jpg",
-            "https://azmyntra.myntassets.com/dam-assets/assets/images/bis/2024/SEPTEMBER/10/uCnjAemx_e0a84b166c404476ba1f90af53ad1fb5.jpg",
-            "https://azmyntra.myntassets.com/dam-assets/assets/images/bis/2024/OCTOBER/14/frqYkuHh_21178e5d3f7f4b5381e976372ff73a0a.jpg",
-            "https://azmyntra.myntassets.com/dam-assets/assets/images/bis/2024/SEPTEMBER/10/Hnv0PEw4_1d0654c37fc14c2a93573686f05e9839.jpg",
-            "https://azmyntra.myntassets.com/dam-assets/assets/images/bis/2024/3/20/f183f117-b799-4e93-9197-dddd093037b21710936846967null1.jpg",
-            "https://azmyntra.myntassets.com/dam-assets/assets/images/bis/2024/3/20/a3ee9118-789e-4056-895f-d6121db10af11710936847002null1.jpg",
-            "https://azmyntra.myntassets.com/dam-assets/assets/images/bis/2024/SEPTEMBER/10/uEqtR7wU_200d94ee0b6b4256b01cce55c63e174d.jpg",
-            "https://azmyntra.myntassets.com/dam-assets/assets/images/bis/2024/OCTOBER/14/xMsTtjZh_d119a62e5ebe417995d0464ed8b4ef86.jpg",
-            "https://azmyntra.myntassets.com/dam-assets/assets/images/bis/2024/SEPTEMBER/10/CcwD11Yq_5466afb6c4c94cdda0a98e17175ffe5e.jpg",
-            "https://azmyntra.myntassets.com/dam-assets/assets/images/bis/2023/11/2/69f80b05-1883-4915-ae15-bf4c3e9dad4b1698934166299null1.jpg"
-        ],
-        "Pedometer":[
-            "Yes"
-        ],
-        "Voice Recognition":[
-            "Yes",
-            "No"
-        ],
-        "Sleep Monitor":[
-            "No",
-            "Yes"
-        ],
-        "Battery Capacity":[
-            "300 mAh",
-            "250 to 300 mAh"
-        ],
-        "Activity Training":[
-            "No",
-            "Yes"
-        ],
-        "Gyroscope":[
-            "Yes",
-            "No"
-        ],
-        "Glass Type":[
-            "Normal"
-        ],
-        "BIS Certificate Number":[
-            "r-93021229",
-            "r-93017183",
-            "r-41263117",
-            "r-93025364",
-            "R-41192155",
-            "r-41221600"
-        ],
-        "Barometer":[
-            "No"
-        ],
-        "Screen Type":[
-            "TFT",
-            "Amoled"
-        ],
-        "Compatibility":[
-            "Android and iOS"
-        ],
-        "Notifications":[
-            "Yes"
-        ],
-        "Sensor":[
-            "Yes"
-        ],
-        "Care instructions":[
-            "Gently Wipe Off Your Watch From Time-to-time To Remove Dust",
-            "Stainless Steel Does Not Readily Corrode, Rust Or Stain With Water As Ordinary Steel Does. To Minimize Discoloration And Damage To These Bands, Limit Exposure To Moisture And Substances Like Perfume, Insect Repellent Or Oil",
-            "Avoid Spirit/alcohol/perfume. Avoid Violent Shocks And Knocks As It Will Leave Marks On The Case Or It Can Harm The Inner Mechanism Of Your Watch. Wipe The Watch After Use And Keep The Eye On Battery.",
-            "Gently Wipe Off Your Watch From Time-to-time To Remove Dust, Dirt, Perspiration And Moisture Buildup.",
-            "Clean With Wet Wipes Only",
-            "Gently Wipe Off Your Watch With Cotton Cloth From Time-to-time To Remove Dust.",
-            "Charge Before Use",
-            "Gently Wipe Off Your Watch From Time-to-time To Remove Dust, Dirt, Perspiration And Moisture Build Up.",
-            "Clean With Dry Soft Cloth",
-            "Clean With Cotton Cloth",
-            "Gently Wipe Off Your Watch With Cotton Cloth From Time-to-time To Remove Dust",
-            "Use A Soft Cloth To Clean The Watch",
-            "Keep Away From Chemicals",
-            "Remove Dust & Grime By Gently Wiping The Glass With A Dry Cloth",
-            "Clean The Dial With A Cotton Cloth",
-            "A Gentle Wipe With A Clean Soft Dry Cloth When Needed.",
-            "Do Not Spray Deo/perfume Directly On Case Or Strap",
-            "Refer To The Care Instructions On The Box",
-            "Remove Dust And Grime By Gently Wiping The Glass With A Dry Cloth.",
-            "Wipe With Clean Dry Cloth",
-            "Remove Dust And Grime By Gently Wiping The Glass With A Cloth",
-            "Gently Wipe Off Your Watch From Time-to-time To Remove Dust, Dirt, Perspiration And Moisture Build-up."
-        ],
-        "Pack contains":[
-            "1 Watch With Warranty Card",
-            "2 Watch",
-            "2 Watches",
-            "1 Watch",
-            "1 Watch, 4 Bracelets",
-            "1 Watch, 1 Case",
-            "1 Watch, 1 User Manual, 1 Warranty Card, 1 Box",
-            "1 Watch, 1 Box, 5 Bracelets, 1 Warranty Card, 1 User Manual",
-            "1 Watch With Warrenty Card",
-            "1 Watch , 1 Warranty Card , 1 Watch Pillow",
-            "1 Watch, 1 Bracelet",
-            "1 Smart Watch",
-            "1 Watch , 1 Warranty Card",
-            "1 Watch, 1 Warranty Card",
-            "1 Watch, 1 Extra Strap",
-            "1 Watch , 1 Strap",
-            "1 Watch, 3 Bracelets",
-            "1 Watch, 1 Watch Strap"
-        ],
-        "Model number":"fix",
-        "Address of Manufacturer/ Packer/ Importer":[
-            "Plot No. 10, Industrial Area- Katha, Bhatoli Kalan, Baddi, Himachal Pradesh – 173205",
-            "Timex Group India Limited, Plot No. 10, Industrial Area- Katha, Bhatoli Kalan, Baddi, Himachal Pradesh – 173205",
-            "305, 3rd Floor, Hubtown Solaris, N.s. Phadke Marg, Near East West Flyover, Andheri East, Mumbai - 400069.",
-            "No 38 A1, Ii Phase, Doddanekundi Industrial Area, Mahadevapura Post, Bangalore 560 048",
-            "305, 3rd Floor, Hubtown Solaris, N.s. Phadke Marg, Near East West Flyover, Andheri East, Mumbai-400069.",
-            "Plot No 18 Industrial Area Phase - 2, Panchkula ( Haryana)-134113",
-            "A-41, First Floor, Mathura Road, Mohan Cooperative Industrial Estate, New Delhi - 110044",
-            "A-41, First Floor, Mathura Road, Mohan Cooperative Industrial Estate, New Delhi-110044",
-            "Solar Time Ltd. Kowloon Centre, Ashley Road, Tst Kowloon, Hong Kong",
-            "210/2,2nd Floor, Upper Palace Orchards, Bellary Road Sadashiv Nagar Bengaluru 560080",
-            "Tms Times And Jewels Limited, Flat A, 26/f, Egl Tower, 83 Hung To Road, Kwun Tong, Hong Kong , T-852 2208 6100 F- 852 2776 3969",
-            "Unit 401 - 406, 4/f, New East Ocean Center, No.9 Science Meseum Tst, Kow Loon Ct C Bonia, Chiu Hong Kong.",
-            "43f, Tanglangcheng Square, Liuxian Bivd, Nanshan Dist., Shenzhen, China",
-            "210/2, ‘terratana’ 2nd Floor, Upper Palace Orchards, Bellary Road Sadashiv Nagar Bengaluru Bangalore Ka 560080",
-            "Unit 401-406, 4/f, New East Ocean Center. No.9, Science Meseum 1st, Kow Loon, Ctc Bonia Chiu, Hong Kong",
-            "Unit B, 12/f, Chung Shun Knitting Centre, Hong Kong",
-            "Plot No 18, Industrial Area Phase - 2, Panchkula, Haryana - 134113",
-            "Office No. 1, 2nd Floor, Aman Chambers, Opera House, 113 Mama Parmanand Marg, Charni Road East, Mumbai - 400 004",
-            "15/f, Kowloon Centre, 29-39 Ashley Road, Tst Kowloon, Hong Kong",
-            "Ilg India, Ilg Asia Limited, Unit 401-406, 4/f, New East Ocean Center. No.9 Science Meseum Tst, Kow Loon Ct C Bonia Chiu Hong Kong",
-            "3rd Floor, Hubtown Solaris, N.s. Phadke Marg, Near East West Flyover, Andheri East, Mumbai-400069.",
-            "210/2, Terratana, 2nd Floor, Upper Palace Orchards, Bellary Road Sadashiva Nagar Bengaluru 560080",
-            "Sipcot Industrial Complex, Hosur, Tamil Nadu-635129",
-            "Plot No 18, Industrial Area, Phase - 2, Panchkula, Haryana - 134113",
-            "Unit 401-406, 4/f, New East Ocean Center. No.9 Science Meseum Tst, Kow Loon Ct C Bonia Chiu Hong Kong.",
-            "Khata Khatoni No-147/150 Min, Village-tipra Barotiwala Teh- Nalagarh Distt.-solan (h.p) - 174103",
-            "Ilg Asia, Ilg Asia Limited, Unit 401-406, 4/f, New East Ocean Center. No.9 Science Meseum Tst, Kow Loon Ct C Bonia Chiu Hong Kong.",
-            "Khata Khatoni No - 147/150 Min, Village-tipra Barotiwala, Nalagarh Dist-solan (h.p) - 174103",
-            "520, Cmh Road, 1st Stage, Indiranagar, Bangalore - 560038",
-            "Hunnenweg 4, P.o. Box 4503, Solothum, Switzerland",
-            "No. 210/2, Upper Palace Orchards, Bellary Road, Sadashiva Nagar, Armane Nagar, Bengaluru, Karnataka, Pin 560080",
-            "Bizotico, Maruti Complex, 3rd Floor, Rt Nagar Main Road, Bangalore, India - 560032, Customer Care -7711889191",
-            "Plot No. 10, Industrial Area- Katha, Bhatoli Kalan, Baddi, Himachal Pradesh - 173205",
-            "Imported By : A-41, First Floor, Mathura Road, Mohan Cooperative Industrial Estate, New Delhi-110044",
-            "Plot No. 10, Industrial Area - Katha, Bhatoli Kalan, Baddi, Himachal Pradesh - 173205",
-            "3rd Floor, Rt Nagar Main Road, Bangalore, India - 560032",
-            "Ilg Asia Limited, Unit 101-406, New East Ocean Center,no.9, Science Meseum, Kowloon Ct C Bonia Chiu, Hong Kong - 999077",
-            "Swp Swiss Watch Partners Sa, 7 Avenue Krieg, 1208 Geneva Switzerland",
-            "No 38 A1, Ii Phase, Doddanekundi Industrial Area, Mahadevapura Post, Bangalore, 560 048",
-            "36 - G, Heera Panna Arcade, Haji Ali, Mumbai - 400026",
-            "60-15 Little Neck Pkwy, Little Neck, Ny 11362",
-            "Plot No 18, Industrial Area, Phase-2, Panchkula, Pin 134113"
-        ],
-        "Sold By":[
-            "Designer Progressive India Llp_parent",
-            "Bizotico",
-            "Ethos Limited.",
-            "Bappa Associates",
-            "M.p. Enterprise",
-            "Tirupati Biz Link Llp",
-            "Timehut Retail (india) Pvt Ltd.",
-            "Titan Company Limited",
-            "Ilg India Fashion Llp",
-            "Watches Of Switzerland",
-            "Adonis Kommerce",
-            "Chumbak Design Private Limited - Parent",
-            "Designer World Brands Llp.",
-            "M/s. Crystalarc Lifestyle",
-            "Effects Industrial Concepts",
-            "Brandzstorm India Marketing Pvt. Ltd._mp",
-            "Shantam International"
-        ],
-        "Name of Manufacturer/ Packer/ Importer":[
-            "Mgi Distribution Private Limited",
-            "Times And Jewels Limited",
-            "Fossil India Pvt Ltd",
-            "Casio India Company",
-            "Mathey-tissot",
-            "E Gluck Corporation",
-            "Chumbak Design Private Limited",
-            "Titan Company Limited",
-            "Ilg India, Ilg Asia Limited",
-            "Brandzstorm India Marketing Private Limited",
-            "Casio Corporate Office",
-            "Swissam Products Limited",
-            "Timex Group India Limited",
-            "M P Enterprise",
-            "Ciga Design",
-            "Luminox",
-            "Bizotico",
-            "Ilg Asia",
-            "Slazenger",
-            "French Connection",
-            "Solar Time Ltd.",
-            "Maserati",
-            "Watches Of Switzerland, 36-g, Heera Panna Arcade, Haji Ali, Mumbai 400026, India, Telephone No: (91-22) 614 63 838",
-            "Designer Progressive India Llp",
-            "Casio",
-            "Ilg Asia Limited",
-            "Mgi Distribution Pvt. Ltd",
-            "Roamer Ag",
-            "Solar Time Ltd",
-            "Brandzstorm India Marketing Pvt Ltd",
-            "Zeppelin",
-            "Citizen Watches (india) Private Limited"
-        ],
-        "Water Resistant":[
-            "Not Water Resistant",
-            "Water Resistant",
-            "200 Meters",
-            "1 Meter"
-        ],
-        "Chronograph":[
-            "Yes",
-            "No"
         ],
         "Dial Type":[
             "Analog + Digital",
@@ -6555,7 +3807,7 @@ all = {
             "Brown",
             "Navy Blue",
             "Clear"
-        ],
+        ], # refine
         "Pack Size":[
             "Single",
             "Pack of 2"
@@ -6585,275 +3837,230 @@ all = {
             "Black",
             "Brown",
             "Navy Blue"
-        ],
-        "Diameter":[
-            "8 cm",
-            "43 mm",
-            "4.6 cm",
-            "44 mm",
-            "5.2 cm",
-            "3.1 cm",
-            "3.35 cm",
-            "4.7 cm",
-            "4.4 cm",
-            "46 mm",
-            "4 cm",
-            "2.2 cm",
-            "3.2 cm",
-            "3.5 cm",
-            "2.8 cm",
-            "34 cm",
-            "3.7 cm",
-            "4.5 cm",
-            "5.3 cm",
-            "3.9 cm",
-            "4.3 cm",
-            "41 mm",
-            "3.62 cm",
-            "5.1 cm",
-            "2.5 cm",
-            "42 mm",
-            "4.9 cm",
-            "4.1 cm",
-            "30 mm",
-            "2.9 cm",
-            "4.8 cm",
-            "40 mm",
-            "3.3 cm",
-            "3.65 cm",
-            "2.4 cm",
-            "42 cm",
-            "2.55 cm",
-            "3.4 cm",
-            "2.7 cm",
-            "3.6 cm",
-            "2.3 cm",
-            "3.8 cm",
-            "4.2 cm",
-            "3.46 cm",
-            "45 mm",
-            "3 cm"
-        ],
-        "Unit Count":[
-            "1.0 count",
-            "1 Count"
-        ],
+        ], # refine
         "Display Technology":[
             "LCD",
             "AMOLED",
             "Analog"
-        ],
-        "Wattage":[
-            "40 Watts",
-            "20 Watts"
-        ],
-        "Resolution":[
-            "360 x 360",
-            "240 x 240"
-        ],
-        "Controller Type":[
-            "Touch control",
-            "Touch Control"
-        ],
-        "Add-Ons":[
-            "Additional Straps"
-        ],
-        "Dimensions":[
-            "Strap: 44.4 mm",
-            "0.665 cm x 3.8 cm x 1.8 cm (Thickness x Diameter x Width)",
-            "0.73 cm x 2.55 cm x 1.2 cm (Thickness x Diameter x Width)",
-            "0.81 cm x 3 cm x 1.2 cm (Thickness x Diameter x Width)",
-            "1.12 cm x 4.5 cm x 2.2 cm (Thickness x Diameter x Width)",
-            "0.77 cm x 3.8 cm x 1.4 cm (Thickness x Diameter x Width)",
-            "1.105 cm x 4.4 cm x 2.2 cm (Thickness x Diameter x Width)",
-            "Strap Width: 2 cm",
-            "1.23 cm x 4.3 cm x 2.2 cm (Thickness x Diameter x Width)",
-            "0.84 cm x 3.4 cm x 1.4 cm (Thickness x Diameter x Width)"
-        ],
-        "Connectivity Technology":[
-            "NFC",
-            "Bluetooth",
-            "HDMI"
-        ],
-        "Number of Memory Sticks":[
-            "1"
-        ],
-        "Item Length (Description)":[
-            "Mini"
-        ],
-        "Age Range (Description)":[
-            "Adult"
-        ],
-        "Item Length Description":[
-            "Mini"
         ],
         "Material":[
             "Alloy Steel",
             "Glass",
             "Metal",
             "Plastic"
-        ],
-        "Ring Size":[
-            "Adjustable"
-        ],
-        "Ring Size Lower Range":[
-            "2"
-        ],
-        "Resizable?":[
-            "Y"
-        ],
-        "Ring Size Upper Range":[
-            "3"
-        ],
-        "Number of Pieces":[
-            "2"
-        ],
-        "Size":[
-            "Medium"
-        ],
-        "Material Type":[
-            "Glass",
-            "Plastic"
-        ],
-        "Screen Size":[
-            "1.78 Inches",
-            "1.73 Inches"
-        ],
-        "Screen Surface Description":[
-            "Smooth, Matte"
-        ],
-        "Clarity":[
-            "0.99"
-        ],
-        "Display Size":[
-            "1.78 Inches"
-        ],
-        "Wireless Type":[
-            "Bluetooth"
-        ],
+        ], # name chg - watch material or drop
         "Device interface - primary":[
             "Buttons",
             "Touchscreen"
-        ],
-        "Connector Type":[
-            "NFC",
-            "Bluetooth"
-        ],
-        "Operating System":[
-            "Smartwatch",
-            "Android"
-        ],
-        "Standing screen display size":[
-            "1.28 Inches",
-            "1.73 Inches"
-        ],
-        "Mounting Hardware":[
-            "Wristwatch",
-            "1",
-            "Luxe Glamour Strap, User Manual, Trendy Casual Strap, Timeless Formal Strap, Charging Cable, Smart Watch"
-        ],
-        "Wireless Communication Standard":[
-            "Bluetooth"
-        ],
-        "Number of items":[
-            "2",
-            "1"
-        ],
-        "Enclosure Material":[
-            "Plastic"
-        ],
-        "Light Source Type":[
-            "Led"
-        ],
-        "Network Connectivity Technology":[
-            "Bluetooth",
-            "HDMI"
-        ],
-        "Human Interface Types":[
-            "Touchscreen, Buttons",
-            "Buttons"
-        ],
-        "Item Volume":[
-            "50 Millilitres"
-        ],
-        "Item Form":[
-            "Liquid"
-        ],
-        "Scent":[
-            "Fresh"
-        ],
-        "GPS":[
-            "No GPS"
-        ],
-        "Item Weight Unit of Measure":[
-            "390 Grams",
-            "200 Grams",
-            "100 Grams",
-            "20 Grams"
-        ],
-        "Supported Application":[
-            "Time Display"
-        ],
-        "Number of Bands":[
-            "1"
-        ],
-        "Face Style":[
-            "Gilt"
-        ],
+        ], # imp + name change
         "Pattern":[
             "Floral",
             "Classic"
-        ],
-        "Series Number":[
-            "4",
-            "1514150"
-        ],
-        "Bluetooth Version":[
-            "V5.0"
-        ],
-        "Special Feature(s)1 - Special Feature(s)3":[
-            "Water Resistant",
-            "Manual"
-        ],
-        "Capacity":[
-            "Standard"
-        ],
-        "Item Model Number":[
-            "ben 10 bul"
-        ],
-        "Primary material":[
-            "Others"
-        ],
-        "Band Length":[
-            "235 Millimetres"
-        ],
-        "Operating Systems":[
-            "Smartwatch",
-            "Android"
-        ],
-        "Item Dimensions D x W x H":[
-            "6D x 7W x 6H Centimeters"
-        ],
-        "Watch Movement":[
-            "Quartz"
-        ],
-        "UPC":[
-            "761371081684"
-        ],
-        "Item Dimensions W x H":[
-            "34W x 30H Centimeters"
-        ],
-        "Battery Cell Composition":[
-            "Lead Calcium"
-        ],
-        "Battery Cell Type":[
-            "Lead Calcium"
-        ],
-        "Metal Stamp":[
-            "stainless steel"
-        ],
-        "Global Trade Identification Number":[
-            "07613272587891"
-        ]
+        ], # may keep
     }
+}
+
+
+
+
+ex = {
+    'jeans' : {
+
+        "Neckline": [
+            "Scoop Neck",
+            "Peak Lapels",
+            "Notched",
+            "Funnel Neck",
+            "Cardigan Collar",
+            "Polo",
+            "High Neck",
+            "Mandarin Collar",
+            "Waterfall",
+            "Peter Pan Collar",
+            "Square Neck",
+            "Halter",
+            "Tie Neck",
+            "Hooded",
+            "V neck",
+            "Stand Collar",
+            "Deep V Neck",
+            "Contrast Collar",
+            "Straps",
+            "Lapel",
+            "Flounce Collar",
+            "Round Neck",
+            "Baseball Collar",
+            "Spaghetti Strap",
+            "Keyhole Neckline",
+            "Shawl Collar",
+            "Strapless",
+            "Shirt Collar",
+            "Sweetheart",
+            "Off the Shoulder",
+            "Collar",
+            "Asymmetrical Neck"
+        ],  # whats sense ?
+        "Sleeve Type": [
+            "Drop Shoulder",
+            "Cold Shoulder",
+            "Batwing Sleeve",
+            "Flounce Sleeve",
+            "Petal Sleeve",
+            "Flare Sleeve",
+            "Leg-of-mutton Sleeve",
+            "Layered Sleeve",
+            "Cloak Sleeve",
+            "Split Sleeve",
+            "Puff Sleeve",
+            "Roll Up Sleeve",
+            "Bishop Sleeve",
+            "Regular Sleeve",
+            "Raglan Sleeve"
+        ],  # whats sense ?
+        "Sleeve Length": [
+            "Wrist-Length Sleeve",
+            "Sleeveless",
+            "Extra-Long Sleeve",
+            "Short Sleeve",
+            "Cap Sleeve",
+            "Three Quarter Length Sleeve",
+            "Half Sleeve",
+            "Long Sleeve"
+        ],  # what sense ?
+        "Tops Sleeve Length": [
+            "Long Sleeve",
+            "Sleeveless",
+            "Short Sleeve",
+            "Half Sleeve",
+            "Wrist-Length Sleeve"
+        ],
+        "Tops Material": [
+            "Woven Fabric",
+            "Cotton",
+            "Fabric",
+            "Denim"
+        ],
+        "Tops Composition": [
+            "82.0% Cotton, 14.0% Viscose, 4.0% Polyester",
+            "70% Cotton, 30% Polyester",
+            "87% Cotton, 7% Polyester, 6% Viscose",
+            "69% Cotton, 19% Viscose, 12% Polyester",
+            "52% Cotton, 28% Polyester, 18% Viscose, 2% Elastane",
+            "74.0% Cotton, 13.0% Polyester, 11.0% Viscose, 2.0% Linen",
+            "100% Cotton",
+            "74% Cotton, 12% Polyester, 7% Viscose, 7% Lyocell",
+            "70% Cotton, 14% Viscose, 13% Polyester, 3% Modal",
+            "82% Cotton, 13% Polyester, 5% Viscose",
+            "63% Cotton, 25% Polyester, 10% Viscose, 2% Elastane",
+            "64% Cotton, 22% Polyester, 14% Viscose",
+            "73% Cotton, 18% Polyester, 9% Viscose",
+            "80% Cotton, 13% Polyester, 7% Viscose",
+            "60.0% Cotton, 25.0% Polyester, 15.0% Viscose",
+            "71% Cotton, 18% Polyester, 10% Viscose, 1% Polyamide",
+            "75% Cotton, 19% Polyester, 6% Viscose",
+            "55% Cotton, 31% Polyester, 12% Viscose, 2% Elastane",
+            "72.0% Cotton, 15.0% Viscose, 12.0% Polyester, 1.0% Modal",
+            "70% Cotton, 24% Polyester, 6% Viscose",
+            "80% Cotton, 20% Polyester",
+            "57% Cotton, 27% Polyester, 16% Viscose",
+            "70% Cotton, 16% Polyester, 14% Viscose",
+            "98% Cotton, 1% Polyester, 1% Viscose",
+            "75% Cotton, 12% Viscose, 9% Polyester, 4% Modal",
+            "60% Cotton, 27% Polyester, 10% Lyocell, 3% Viscose",
+            "68% Cotton, 17% Viscose, 14% Polyester, 1% Modal",
+            "51% Cotton, 28% Viscose, 21% Polyester",
+            "57% Cotton, 37% Polyester, 5% Viscose, 1% Elastane",
+            "48% Cotton, 35% Polyester, 17% Viscose",
+            "89% Cotton, 6% Polyester, 5% Viscose",
+            "62.0% Cotton, 21.0% Polyester, 10.0% Viscose, 6.0% Lyocell, 1.0% Modal",
+            "91% Cotton, 5% Viscose, 4% Polyester",
+            "76% Cotton, 18% Polyester, 6% Viscose",
+            "79% Cotton, 14% Polyester, 7% Viscose",
+            "95% Polyester, 5% Elastane",
+            "93% Cotton, 4% Polyester, 3% Viscose"
+        ],
+        "Tops Length": [
+            "Long",
+            "Regular",
+            "Micro Crop",
+            "Crop",
+            "Short"
+        ],
+        "Tops Body": [
+            "Unlined",
+            "No"
+        ],
+        "Shirts Length": [
+            "Regular",
+            "Short",
+            "Long"
+        ],
+        "Shirts Sleeve Length": [
+            "Wrist-Length Sleeve",
+            "Half Sleeve",
+            "Long Sleeve",
+            "Short Sleeve"
+        ],
+        "Shirts Composition": [
+            "80% Cotton, 20% Polyester",
+            "69% Cotton, 19% Viscose, 12% Polyester",
+            "77% Cotton, 12% Polyester, 9% Viscose, 2% Lyocell",
+            "79% Cotton, 14% Polyester, 7% Viscose",
+            "100% Cotton",
+            "60% Cotton, 25% Polyester, 15% Viscose",
+            "95% Cotton, 5% Elastane",
+            "68% Cotton, 17% Viscose, 14% Polyester, 1% Modal"
+        ],
+        "Shirts Material": [
+            "Woven Fabric",
+            "Polyester",
+            "Viscose",
+            "Cotton",
+            "Denim"
+        ],
+        "Chest pad": [
+            "Removable Padding",
+            "Yes",
+            "No Padding"
+        ],
+        "Top Type": [
+            "Blouse",
+            "Women Tops",
+            "Jackets",
+            "Bandeau",
+            "Sweatshirt",
+            "Camisole"
+        ],
+        "Bra Type": [
+            "Bralettes",
+            "Strapless",
+            "Wireless Bra"
+        ],
+        "Lining Level": [
+            "Unlined",
+            "Molded"
+        ],
+        "Straps Type": [
+            "Clear Straps"
+        ],
+        "Placket": [
+            "Snap Button",
+            "Pullover",
+            "Open Front",
+            "Single Button",
+            "Single Breasted",
+            "Lace-up",
+            "Zipper",
+            "Double Breasted"
+        ],
+        "Panty Type": [
+            "Thongs",
+            "Briefs"
+        ],
+        "Underwear & Sleepwear Users": [
+            "Teen"
+        ],
+
+    }
+
 }
