@@ -323,24 +323,9 @@ all = {
             "Regular, Regular"
         ],
     },
-    "Dresses":{
-        "Sleeve Length":[
-            "Short sleeve",
-            "Wrist-Length Sleeve",
-            "Sleeveless",
-            "Extra-Long Sleeve",
-            "Short Sleeve",
-            "Cap Sleeve",
-            "Three Quarter Length Sleeve",
-            "Half Sleeve",
-            "Long sleeve, Sleeveless",
-            "Long sleeve",
-            "Long Sleeve",
-            "3/4 sleeve",
-            "Extra long sleeve"
-        ],
-        "Size":"fix",
-        "Material":[
+    "Dresses": {       
+        "Size": "fix",
+        "Material": [
             "Chiffon",
             "Dobby",
             "Embroidery",
@@ -401,35 +386,13 @@ all = {
             "Cotton, Dobby",
             "French Terry"
         ],
-        "Fit":[
+        "Fit": [
             "Loose fit",
             "Regular fit",
             "Oversized",
             "Slim fit"
         ],
-        "Country of production":[
-            "Indonesia",
-            "Myanmar",
-            "Cambodia",
-            "China",
-            "Bangladesh",
-            "India",
-            "Vietnam",
-            "Turkey/Türkiye",
-            "Morocco"
-        ],
-        "Date of manufacture":[
-            "06-2024",
-            "07-2024",
-            "09-2024",
-            "08-2024",
-            "05-2024",
-            "04-2024",
-            "03-2024",
-            "10-2024",
-            "02-2024",
-        ],
-        "Length":[
+        "Length": [
             "Knee length",
             "Cropped, Long",
             "Long",
@@ -439,26 +402,14 @@ all = {
             "Knee Length",
             "Short"
         ],
-        "Style":"fix",
-        "Common generic name":[
+        "Style": "fix",
+        "Common generic name": [
             "Blazer",
             "Jacket",
             "SWEATSHIRT",
             "Dress"
         ],
-        "Net Quantity":[
-            "3 N (1 Pack)",
-            "1 N"
-        ],
-        "Concept":[
-            "BASICS, DIVIDED",
-            "H&M Move",
-            "BASICS",
-            "H&M EDITION",
-            "DIVIDED",
-            "BASICS, DIVIDED, H&M+"
-        ],
-        "Neckline":[
+        "Neckline": [
             "Queen Anne Neckline",
             "Deep neckline, V-neck",
             "Scoop Neck",
@@ -513,13 +464,13 @@ all = {
             "Square neckline",
             "Boat neck"
         ],
-        "Collection":[
+        "Collection": [
             "H&M Studio Collection",
             "H&M x Wicked",
             "A/W 2024",
             "HOLIDAY 2024"
         ],
-        "Sleeve Style":[
+        "Sleeve Style": [
             "Raglan sleeve",
             "Puff sleeve, Raglan sleeve",
             "Butterfly sleeve",
@@ -532,13 +483,28 @@ all = {
             "Balloon sleeve",
             "Balloon sleeve, Raglan sleeve"
         ],
-        "Nice to know":[
+        "Sleeve Length": [
+            "Short sleeve",
+            "Wrist-Length Sleeve",
+            "Sleeveless",
+            "Extra-Long Sleeve",
+            "Short Sleeve",
+            "Cap Sleeve",
+            "Three Quarter Length Sleeve",
+            "Half Sleeve",
+            "Long sleeve, Sleeveless",
+            "Long sleeve",
+            "Long Sleeve",
+            "3/4 sleeve",
+            "Extra long sleeve"
+        ],
+        "Nice to know": [
             "Built-in bra, Removable pads",
             "Lined",
             "H&M Premium Selection",
             "With pocket"
-        ],
-        "Collar":[
+        ], # name chg
+        "Collar": [
             "Band collar",
             "Notch lapels",
             "Peter Pan collar",
@@ -557,8 +523,9 @@ all = {
             "Frilled collar",
             "Turn-down collar"
         ],
-        "Color":"fix",
-        "Sleeve Type":[
+        "Color": "fix",
+        
+        "Sleeve Type": [
             "Drop Shoulder",
             "Cold Shoulder",
             "Batwing Sleeve",
@@ -578,7 +545,7 @@ all = {
             "Regular Sleeve",
             "Raglan Sleeve"
         ],
-        "Hem Shaped":[
+        "Hem Shaped": [
             "Wrap",
             "Pencil",
             "Ball Gown",
@@ -592,13 +559,13 @@ all = {
             "Flared",
             "Flounce"
         ],
-        "Waist Line":[
+        "Waist Line": [
             "Drop Waist",
             "High Waist",
             "Natural",
             "High Waist, Natural"
         ],
-        "Type":[
+        "Type": [
             "Pinafore, Tank",
             "Kaftan",
             "Tank",
@@ -658,33 +625,15 @@ all = {
             "Tee, Tunic",
             "Shirt, Bodycon"
         ],
-        "Details":"fix",
-        "Fit Type":[
+        "Details": "fix",
+        "Fit Type": [
             "Loose",
             "Slim Fit",
             "Regular Fit",
             "Oversized"
         ],
-        "Pattern Type":"fix",
-        "Lining":[
-            "90% Polyester, 10% Elastane",
-            "97% Polyester, 3% Elastane",
-            "92% Polyester, 8% Elastane",
-            "95% Polyester, 5% Spandex",
-            "94% Polyester, 6% Elastane",
-            "100% Polyester",
-            "89% Polyester, 11% Elastane",
-            "93% Polyester, 7% Elastane",
-            "100% Cotton",
-            "100% Polyamide",
-            "91% Polyester, 9% Elastane",
-            "90% Polyamide, 10% Elastane",
-            "94% Polyamide, 6% Elastane",
-            "95% Polyester, 5% Elastane",
-            "95% Viscose, 5% Elastane",
-            "82% Polyamide, 18% Elastane"
-        ],
-        "Fabric":[
+        "Pattern Type": "fix",
+        "Fabric": [
             "Non-Stretch, Slight Stretch",
             "Medium Stretch, Non-Stretch",
             "Slight Stretch",
@@ -699,12 +648,12 @@ all = {
             "Medium Stretch, High Stretch",
             "High Stretch"
         ],
-        "Sheer":[
+        "Sheer": [
             "Yes",
             "No",
             "Semi-Sheer"
         ],
-        "Body":[
+        "Body": [
             "Lined top, unlined bottom",
             "Lined",
             "Yes, Lined top, unlined bottom",
@@ -715,12 +664,12 @@ all = {
             "Unlined",
             "Unlined top, lined bottom"
         ],
-        "Pockets":[
+        "Pockets": [
             "Yes",
             "Fake Pockets",
             "No"
         ],
-        "Occasion":[
+        "Occasion": [
             "Beach, Night Out, Office, Home, Street",
             "Beach, Night Out",
             "Night Out, Garden",
@@ -754,15 +703,15 @@ all = {
             "Beach, Night Out, Garden",
             "Beach, Night Out, Wedding, Street"
         ],
-        "Lined For Added Warmth":[
+        "Lined For Added Warmth": [
             "Yes",
             "No"
         ],
-        "Belt":[
+        "Belt": [
             "Yes",
             "No"
         ],
-        "Features":[
+        "Features": [
             "Great quality, Soft & Lightweight",
             "Comfortable, Lightweight",
             "Great quality, Stretch",
@@ -797,31 +746,17 @@ all = {
             "Feels Like Skin",
             "Great quality, Maximum Comfort"
         ],
-        "Chest pad":[
+        "Chest pad": [
             "Yes",
             "No Padding"
         ],
-        "Special Features":[
+        "Special Features": [
             "Forest-Safe Fibers",
             "Rescued Material",
             "Recycled Material",
             "Recycled Material, Forest-Safe Fibers"
         ],
-        "Dresses Composition":[
-            "97% Polyester, 3% Elastane",
-            "100% Polyester",
-            "88% Polyester, 12% Elastane",
-            "94% Polyester, 6% Elastane",
-            "95% Polyester, 5% Elastane, 95% Polyester, 5% Elastane, 95% Polyester, 5% Elastane, 95% Polyester, 5% Elastane",
-            "100% Polyamide",
-            "96% Polyester, 4% Elastane",
-            "98% Polyester, 2% Elastane",
-            "100% Polyester, 100% Polyester",
-            "95% Polyester, 5% Elastane",
-            "95% Polyester, 5% Elastane, 95% Polyester, 5% Elastane",
-            "95% Polyester, 5% Elastane, 95% Polyester, 5% Elastane, 95% Polyester, 5% Elastane"
-        ],
-        "Dresses Material":[
+        "Dresses Material": [
             "Woven Fabric",
             "Knitted Fabric, Knitted Fabric, Knitted Fabric",
             "Fabric",
@@ -834,8 +769,8 @@ all = {
             "Knitted Fabric",
             "Satin",
             "Mesh Fabric"
-        ],
-        "Dresses Sleeve Length":[
+        ], # name chg
+        "Dresses Sleeve Length": [
             "Sleeveless, Sleeveless",
             "Long Sleeve",
             "Sleeveless",
@@ -846,8 +781,8 @@ all = {
             "Long Sleeve, Sleeveless",
             "Wrist-Length Sleeve",
             "Long Sleeve, Long Sleeve"
-        ],
-        "Dresses Length":[
+        ], # name chg
+        "Dresses Length": [
             "Long",
             "Short, Short, Short",
             "Maxi",
@@ -856,55 +791,44 @@ all = {
             "Short, Short",
             "Short, Mini",
             "Short"
-        ],
-        "Coating":[
-            "100% Polyester",
-            "100% Polyurethane",
-            "96% Polyester, 4% Spandex"
-        ],
-        "Skirts Length":[
-            "Short",
-            "Maxi"
-        ],
-        "Skirts Material":[
-            "Woven Fabric",
-            "Organza"
-        ],
-        "Outerwear Length":[
+        ], # name chg
+        
+        "Outerwear Length": [
             "Crop",
             "Long"
-        ],
-        "Outerwear Body":[
+        ], 
+        "Outerwear Body": [
             "Lined",
             "Unlined"
         ],
-        "Outerwear Material":[
+        "Outerwear Material": [
             "Knitted Fabric",
             "Fabric",
             "Lace"
-        ],
-        "Outerwear Composition":[
-            "98% Polyester, 2% Elastane",
-            "100% Polyester",
-            "95% Polyester, 5% Elastane"
-        ],
-        "Gloves Material":[
-            "Polyester",
-            "Lace"
-        ],
-        "Gloves Composition":[
-            "87% Polyamide, 13% Elastane",
-            "88% Polyester, 12% Elastane"
-        ],
-        "Tops Composition":[
-            "100% Polyester",
-            "98% Polyester, 2% Elastane"
-        ],
-        "Tops Length":[
-            "Regular",
-            "Long"
         ]
     },
+    "Skirts": {
+        "Skirts Length": [
+                "Short",
+                "Maxi"
+            ],
+        "Skirts Material": [
+                "Woven Fabric",
+                "Organza"
+            ]
+    }, # extract by dresses
+    "Gloves": {
+        "Gloves Material": [
+            "Polyester",
+            "Lace"
+        ]
+    }, # extract by dresses
+    "tops": {
+            "Tops Length": [
+                "Regular",
+                "Long"
+            ]
+    } # extract by dresses
     "Earrings":{
         "Size & Fit":"fix",
         "Details & Care":[
