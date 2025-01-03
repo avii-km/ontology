@@ -9,7 +9,7 @@
         "Jeans": {},
         "Saree": {}, // ✅
         "shirts": {},
-        "Sneakers": {},
+        "Sneakers": {}, // ✅
         "Watches": {} // ✅
         "kurties" : {} // only single attribute is present
     }
