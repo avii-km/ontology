@@ -862,14 +862,6 @@ all = {
             "100% Polyurethane",
             "96% Polyester, 4% Spandex"
         ],
-        "Skirts Length":[
-            "Short",
-            "Maxi"
-        ],
-        "Skirts Material":[
-            "Woven Fabric",
-            "Organza"
-        ],
         "Outerwear Length":[
             "Crop",
             "Long"
@@ -1079,9 +1071,142 @@ all = {
             "1 month"
         ]
     },
+    'pants': {
+        "Pants Material": [
+            "Woven Fabric",
+            "Polyester",
+            "Knitted Fabric",
+            "Viscose",
+            "Denim"
+        ],
+        "Pants Body": [
+            "Lined",
+            "Unlined"
+        ],  # name chg
+        "Pants Length": [
+            "Mini Shorts",
+            "Long",
+            "Extra Long",
+            "Bermuda shorts",
+            "Short"
+        ],
+        "Pants Composition": [
+            "82.0% Cotton, 14.0% Viscose, 4.0% Polyester",
+            "58% Cotton, 35% Polyester, 7% Viscose",
+            "70% Cotton, 30% Polyester",
+            "69% Cotton, 19% Viscose, 12% Polyester",
+            "87% Cotton, 7% Polyester, 6% Viscose",
+            "74.0% Cotton, 13.0% Polyester, 11.0% Viscose, 2.0% Linen",
+            "100% Cotton",
+            "71% Cotton, 27% Polyester, 2% Elastane",
+            "80% Cotton, 13% Viscose, 5% Polyester, 2% Modal",
+            "90% Cotton, 5% Polyester, 5% Viscose",
+            "46% Cotton, 31% Polyester, 23% Viscose",
+            "74% Cotton, 12% Polyester, 7% Viscose, 7% Lyocell",
+            "70% Cotton, 14% Viscose, 13% Polyester, 3% Modal",
+            "64% Cotton, 22% Polyester, 14% Viscose",
+            "50% Cotton, 27% Polyester, 23% Viscose",
+            "73% Cotton, 18% Polyester, 9% Viscose",
+            "80% Cotton, 13% Polyester, 7% Viscose",
+            "60.0% Cotton, 25.0% Polyester, 15.0% Viscose",
+            "71% Cotton, 18% Polyester, 10% Viscose, 1% Polyamide",
+            "78% Cotton, 14% Polyester, 7% Viscose, 1% Lyocell",
+            "75% Cotton, 19% Polyester, 6% Viscose",
+            "62% Cotton, 21% Polyester, 17% Viscose",
+            "70% Cotton, 26% Polyester, 3% Viscose, 1% Lyocell",
+            "70% Cotton, 24% Polyester, 6% Viscose",
+            "78% Cotton, 9% Polyester, 8% Viscose, 5% Lyocell",
+            "80% Cotton, 20% Polyester",
+            "57% Cotton, 27% Polyester, 16% Viscose",
+            "79% Cotton, 20% Polyester, 1% Viscose",
+            "55% Cotton, 31% Polyester, 12% Viscose, 2% Elastane",
+            "72.0% Cotton, 15.0% Viscose, 12.0% Polyester, 1.0% Modal",
+            "67% Cotton, 26% Polyester, 6% Viscose, 1% Elastane",
+            "70% Cotton, 16% Polyester, 14% Viscose",
+            "68% Cotton, 16% Polyester, 14% Viscose, 2% Modal",
+            "85% Cotton, 15% Polyester",
+            "48% Cotton, 27% Polyester, 25% Viscose",
+            "66% Cotton, 29% Polyester, 5% Viscose",
+            "75% Cotton, 12% Viscose, 9% Polyester, 4% Modal",
+            "86% Cotton, 8% Viscose, 6% Polyester",
+            "51% Cotton, 34% Polyester, 8% Viscose, 4% Acrylic, 3% Polyamide",
+            "60% Cotton, 27% Polyester, 10% Lyocell, 3% Viscose",
+            "64% Cotton, 21% Viscose, 14% Polyester, 1% Modal",
+            "66% Cotton, 30% Polyester, 2% Elastane, 2% Viscose",
+            "68% Cotton, 17% Viscose, 14% Polyester, 1% Modal",
+            "51% Cotton, 28% Viscose, 21% Polyester",
+            "63% Cotton, 34% Polyester, 2% Viscose, 1% Modal",
+            "52% Cotton, 28% Polyester, 20% Viscose",
+            "89% Cotton, 6% Polyester, 5% Viscose",
+            "48% Cotton, 35% Polyester, 17% Viscose",
+            "62.0% Cotton, 21.0% Polyester, 10.0% Viscose, 6.0% Lyocell, 1.0% Modal",
+            "91% Cotton, 5% Viscose, 4% Polyester",
+            "76% Cotton, 18% Polyester, 6% Viscose",
+            "43% Cotton, 28% Polyester, 13% Lyocell, 12% Viscose, 2% Acrylic, 2% Polyamide",
+            "54% Cotton, 27% Polyester, 19% Viscose",
+            "77% Cotton, 12% Polyester, 9% Viscose, 2% Lyocell",
+            "79% Cotton, 14% Polyester, 7% Viscose",
+            "95% Polyester, 5% Elastane",
+            "93% Cotton, 4% Polyester, 3% Viscose",
+            "52% Cotton, 24% Polyester, 24% Viscose"
+        ],
+    },
+    'outwear':{
+        "Outerwear Sleeve Length": [
+            "Sleeveless",
+            "Long Sleeve",
+            "Wrist-Length Sleeve",
+            "Short Sleeve"
+        ],
+        "Outerwear Length": [
+            "Regular",
+            "Short"
+        ],
+        "Outerwear Body": [
+            "Lined",
+            "Unlined"
+        ],
+        "Outerwear Material": [
+            "Woven Fabric",
+            "Denim"
+        ],
+        "Outerwear Composition": [
+            "76% Cotton, 13% Viscose, 11% Polyester",
+            "58% Cotton, 35% Polyester, 7% Viscose",
+            "87% Cotton, 7% Polyester, 6% Viscose",
+            "88% Cotton, 7% Polyester, 5% Viscose",
+            "100% Cotton",
+            "46% Cotton, 31% Polyester, 23% Viscose",
+            "70% Cotton, 14% Viscose, 13% Polyester, 3% Modal",
+            "100% Polyester",
+            "64% Cotton, 22% Polyester, 14% Viscose",
+            "50% Cotton, 27% Polyester, 23% Viscose",
+            "73% Cotton, 18% Polyester, 9% Viscose",
+            "78% Cotton, 14% Polyester, 7% Viscose, 1% Lyocell",
+            "62% Cotton, 21% Polyester, 17% Viscose",
+            "70% Cotton, 26% Polyester, 3% Viscose, 1% Lyocell",
+            "78% Cotton, 9% Polyester, 8% Viscose, 5% Lyocell",
+            "79% Cotton, 20% Polyester, 1% Viscose",
+            "68% Cotton, 16% Polyester, 14% Viscose, 2% Modal",
+            "85% Cotton, 15% Polyester",
+            "48% Cotton, 27% Polyester, 25% Viscose",
+            "75% Cotton, 12% Viscose, 9% Polyester, 4% Modal",
+            "86% Cotton, 8% Viscose, 6% Polyester",
+            "51% Cotton, 34% Polyester, 8% Viscose, 4% Acrylic, 3% Polyamide",
+            "60% Cotton, 27% Polyester, 10% Lyocell, 3% Viscose",
+            "64% Cotton, 21% Viscose, 14% Polyester, 1% Modal",
+            "63% Cotton, 34% Polyester, 2% Viscose, 1% Modal",
+            "52% Cotton, 28% Polyester, 20% Viscose",
+            "91% Cotton, 5% Viscose, 4% Polyester",
+            "43% Cotton, 28% Polyester, 13% Lyocell, 12% Viscose, 2% Acrylic, 2% Polyamide",
+            "77% Cotton, 12% Polyester, 9% Viscose, 2% Lyocell",
+            "52% Cotton, 24% Polyester, 24% Viscose"
+        ],
+
+    },
     "Jeans":{
-        "Composition":"fix",
-        "Color":"fix",
+        "Composition":"fix", # add
+        "Color":"fix", # add
         "Material":[
             "Wool",
             "Chiffon",
@@ -1117,28 +1242,13 @@ all = {
             "Ultra High Waist",
             "Natural"
         ],
-        "Type":"fix",
-        "Details":"fix",
+        "Type":"fix", # add
         "Fit Type":[
             "Oversized",
             "Skinny",
             "Loose",
             "Slim Fit",
             "Regular Fit"
-        ],
-        "Care Instructions":[
-            "Hand wash or professional dry clean",
-            "Machine wash or professional dry clean",
-            "Hand wash,do not dry clean",
-            "Do not wash",
-            "Damp wipe only",
-            "Machine wash, do not dry clean,wash with the soft detergent",
-            "Dry clean or Hand wash",
-            "Machine wash, do not dry clean"
-        ],
-        "Lined For Added Warmth":[
-            "Yes",
-            "No"
         ],
         "Belt":[
             "Yes",
@@ -1164,7 +1274,7 @@ all = {
             "Crop",
             "Short"
         ],
-        "Pattern Type":"fix",
+        "Pattern Type":"fix", # add
         "Features":[
             "Great quality, Stretch, Soft",
             "Great quality, Comfortable, Lightweight",
@@ -1257,7 +1367,7 @@ all = {
             "Comfortable, Great quality, Stretch, Long-Lasting, Soft",
             "Seamless, Push Up",
             "Comfortable, Great quality, Breathable, Lightweight, Skin-friendly, Long-Lasting"
-        ],
+        ], # refine + name chg
         "Closure Type":[
             "Drawstring Waist",
             "Elastic Waist",
@@ -1299,171 +1409,18 @@ all = {
             "Unlined",
             "Unlined top, lined bottom"
         ],
-        "Number of Pieces":[
-            "1 Piece Set",
-            "3 Piece Set",
-            "2 Piece Set"
-        ],
-        "Lining":[
-            "98% Cotton, 2% Elastane",
-            "90% Polyester, 10% Elastane",
-            "62% Cotton, 35% Polyester, 3% Elastane",
-            "77% Polyester, 23% Elastane",
-            "65% Cotton, 32% Polyester, 3% Elastane",
-            "70% Cotton, 30% Polyester",
-            "80% Polyester, 20% Cotton",
-            "100% Polyester",
-            "65% Cotton, 35% Polyester",
-            "100% Cotton",
-            "97% Cotton, 3% Elastane",
-            "100% Polyamide",
-            "100% Elastane",
-            "99% Cotton, 1% Spandex",
-            "78% Cotton, 14% Polyester, 7% Viscose, 1% Lyocell",
-            "64% Cotton, 21% Viscose, 14% Polyester, 1% Modal"
-        ],
-        "Coating":[
-            "98% Cotton, 2% Elastane",
-            "71% Cotton, 28% Polyester, 1% Elastane",
-            "100% Rayon",
-            "73% Viscose, 25% Polyester, 2% Elastane",
-            "90% Cotton, 6% Polyester, 4% Viscose",
-            "85% Cotton, 15% Polyester",
-            "100% Polyurethane",
-            "100% Cotton",
-            "96% Cotton, 4% Elastane"
-        ],
         "Special Features":[
             "Forest-Safe Fibers",
             "Rescued Material",
             "Recycled Material",
             "Organic Fibers",
             "Recycled Material, Organic Fibers"
-        ],
+        ], # name chg
         "Temperature":[
             "Winter (<10℃/50℉)",
             "Late Fall (10-17℃/50-63℉)",
             "Spring/Fall (18-25℃/63-77℉)"
-        ],
-        "Outerwear Sleeve Length":[
-            "Sleeveless",
-            "Long Sleeve",
-            "Wrist-Length Sleeve",
-            "Short Sleeve"
-        ],
-        "Outerwear Length":[
-            "Regular",
-            "Short"
-        ],
-        "Neckline":[
-            "Scoop Neck",
-            "Peak Lapels",
-            "Notched",
-            "Funnel Neck",
-            "Cardigan Collar",
-            "Polo",
-            "High Neck",
-            "Mandarin Collar",
-            "Waterfall",
-            "Peter Pan Collar",
-            "Square Neck",
-            "Halter",
-            "Tie Neck",
-            "Hooded",
-            "V neck",
-            "Stand Collar",
-            "Deep V Neck",
-            "Contrast Collar",
-            "Straps",
-            "Lapel",
-            "Flounce Collar",
-            "Round Neck",
-            "Baseball Collar",
-            "Spaghetti Strap",
-            "Keyhole Neckline",
-            "Shawl Collar",
-            "Strapless",
-            "Shirt Collar",
-            "Sweetheart",
-            "Off the Shoulder",
-            "Collar",
-            "Asymmetrical Neck"
-        ],
-        "Outerwear Body":[
-            "Lined",
-            "Unlined"
-        ],
-        "Outerwear Material":[
-            "Woven Fabric",
-            "Denim"
-        ],
-        "Sleeve Type":[
-            "Drop Shoulder",
-            "Cold Shoulder",
-            "Batwing Sleeve",
-            "Flounce Sleeve",
-            "Petal Sleeve",
-            "Flare Sleeve",
-            "Leg-of-mutton Sleeve",
-            "Layered Sleeve",
-            "Cloak Sleeve",
-            "Split Sleeve",
-            "Puff Sleeve",
-            "Roll Up Sleeve",
-            "Bishop Sleeve",
-            "Regular Sleeve",
-            "Raglan Sleeve"
-        ],
-        "Pants Material":[
-            "Woven Fabric",
-            "Polyester",
-            "Knitted Fabric",
-            "Viscose",
-            "Denim"
-        ],
-        "Pants Body":[
-            "Lined",
-            "Unlined"
-        ],
-        "Pants Length":[
-            "Mini Shorts",
-            "Long",
-            "Extra Long",
-            "Bermuda shorts",
-            "Short"
-        ],
-        "Outerwear Composition":[
-            "76% Cotton, 13% Viscose, 11% Polyester",
-            "58% Cotton, 35% Polyester, 7% Viscose",
-            "87% Cotton, 7% Polyester, 6% Viscose",
-            "88% Cotton, 7% Polyester, 5% Viscose",
-            "100% Cotton",
-            "46% Cotton, 31% Polyester, 23% Viscose",
-            "70% Cotton, 14% Viscose, 13% Polyester, 3% Modal",
-            "100% Polyester",
-            "64% Cotton, 22% Polyester, 14% Viscose",
-            "50% Cotton, 27% Polyester, 23% Viscose",
-            "73% Cotton, 18% Polyester, 9% Viscose",
-            "78% Cotton, 14% Polyester, 7% Viscose, 1% Lyocell",
-            "62% Cotton, 21% Polyester, 17% Viscose",
-            "70% Cotton, 26% Polyester, 3% Viscose, 1% Lyocell",
-            "78% Cotton, 9% Polyester, 8% Viscose, 5% Lyocell",
-            "79% Cotton, 20% Polyester, 1% Viscose",
-            "68% Cotton, 16% Polyester, 14% Viscose, 2% Modal",
-            "85% Cotton, 15% Polyester",
-            "48% Cotton, 27% Polyester, 25% Viscose",
-            "75% Cotton, 12% Viscose, 9% Polyester, 4% Modal",
-            "86% Cotton, 8% Viscose, 6% Polyester",
-            "51% Cotton, 34% Polyester, 8% Viscose, 4% Acrylic, 3% Polyamide",
-            "60% Cotton, 27% Polyester, 10% Lyocell, 3% Viscose",
-            "64% Cotton, 21% Viscose, 14% Polyester, 1% Modal",
-            "63% Cotton, 34% Polyester, 2% Viscose, 1% Modal",
-            "52% Cotton, 28% Polyester, 20% Viscose",
-            "91% Cotton, 5% Viscose, 4% Polyester",
-            "43% Cotton, 28% Polyester, 13% Lyocell, 12% Viscose, 2% Acrylic, 2% Polyamide",
-            "77% Cotton, 12% Polyester, 9% Viscose, 2% Lyocell",
-            "52% Cotton, 24% Polyester, 24% Viscose"
-        ],
+        ], # name update remove degrees
         "Bottom Type":[
             "Shorts",
             "Pants",
@@ -1548,241 +1505,11 @@ all = {
             "Cute, Sexy",
             "Straight Leg, Wide leg"
         ],
-        "Pants Composition":[
-            "82.0% Cotton, 14.0% Viscose, 4.0% Polyester",
-            "58% Cotton, 35% Polyester, 7% Viscose",
-            "70% Cotton, 30% Polyester",
-            "69% Cotton, 19% Viscose, 12% Polyester",
-            "87% Cotton, 7% Polyester, 6% Viscose",
-            "74.0% Cotton, 13.0% Polyester, 11.0% Viscose, 2.0% Linen",
-            "100% Cotton",
-            "71% Cotton, 27% Polyester, 2% Elastane",
-            "80% Cotton, 13% Viscose, 5% Polyester, 2% Modal",
-            "90% Cotton, 5% Polyester, 5% Viscose",
-            "46% Cotton, 31% Polyester, 23% Viscose",
-            "74% Cotton, 12% Polyester, 7% Viscose, 7% Lyocell",
-            "70% Cotton, 14% Viscose, 13% Polyester, 3% Modal",
-            "64% Cotton, 22% Polyester, 14% Viscose",
-            "50% Cotton, 27% Polyester, 23% Viscose",
-            "73% Cotton, 18% Polyester, 9% Viscose",
-            "80% Cotton, 13% Polyester, 7% Viscose",
-            "60.0% Cotton, 25.0% Polyester, 15.0% Viscose",
-            "71% Cotton, 18% Polyester, 10% Viscose, 1% Polyamide",
-            "78% Cotton, 14% Polyester, 7% Viscose, 1% Lyocell",
-            "75% Cotton, 19% Polyester, 6% Viscose",
-            "62% Cotton, 21% Polyester, 17% Viscose",
-            "70% Cotton, 26% Polyester, 3% Viscose, 1% Lyocell",
-            "70% Cotton, 24% Polyester, 6% Viscose",
-            "78% Cotton, 9% Polyester, 8% Viscose, 5% Lyocell",
-            "80% Cotton, 20% Polyester",
-            "57% Cotton, 27% Polyester, 16% Viscose",
-            "79% Cotton, 20% Polyester, 1% Viscose",
-            "55% Cotton, 31% Polyester, 12% Viscose, 2% Elastane",
-            "72.0% Cotton, 15.0% Viscose, 12.0% Polyester, 1.0% Modal",
-            "67% Cotton, 26% Polyester, 6% Viscose, 1% Elastane",
-            "70% Cotton, 16% Polyester, 14% Viscose",
-            "68% Cotton, 16% Polyester, 14% Viscose, 2% Modal",
-            "85% Cotton, 15% Polyester",
-            "48% Cotton, 27% Polyester, 25% Viscose",
-            "66% Cotton, 29% Polyester, 5% Viscose",
-            "75% Cotton, 12% Viscose, 9% Polyester, 4% Modal",
-            "86% Cotton, 8% Viscose, 6% Polyester",
-            "51% Cotton, 34% Polyester, 8% Viscose, 4% Acrylic, 3% Polyamide",
-            "60% Cotton, 27% Polyester, 10% Lyocell, 3% Viscose",
-            "64% Cotton, 21% Viscose, 14% Polyester, 1% Modal",
-            "66% Cotton, 30% Polyester, 2% Elastane, 2% Viscose",
-            "68% Cotton, 17% Viscose, 14% Polyester, 1% Modal",
-            "51% Cotton, 28% Viscose, 21% Polyester",
-            "63% Cotton, 34% Polyester, 2% Viscose, 1% Modal",
-            "52% Cotton, 28% Polyester, 20% Viscose",
-            "89% Cotton, 6% Polyester, 5% Viscose",
-            "48% Cotton, 35% Polyester, 17% Viscose",
-            "62.0% Cotton, 21.0% Polyester, 10.0% Viscose, 6.0% Lyocell, 1.0% Modal",
-            "91% Cotton, 5% Viscose, 4% Polyester",
-            "76% Cotton, 18% Polyester, 6% Viscose",
-            "43% Cotton, 28% Polyester, 13% Lyocell, 12% Viscose, 2% Acrylic, 2% Polyamide",
-            "54% Cotton, 27% Polyester, 19% Viscose",
-            "77% Cotton, 12% Polyester, 9% Viscose, 2% Lyocell",
-            "79% Cotton, 14% Polyester, 7% Viscose",
-            "95% Polyester, 5% Elastane",
-            "93% Cotton, 4% Polyester, 3% Viscose",
-            "52% Cotton, 24% Polyester, 24% Viscose"
-        ],
-        "Sleeve Length":[
-            "Wrist-Length Sleeve",
-            "Sleeveless",
-            "Extra-Long Sleeve",
-            "Short Sleeve",
-            "Cap Sleeve",
-            "Three Quarter Length Sleeve",
-            "Half Sleeve",
-            "Long Sleeve"
-        ],
-        "Hem Shaped":[
-            "Wrap",
-            "Pencil",
-            "Layered/Tiered",
-            "Regular",
-            "Pleated",
-            "Mermaid",
-            "Asymmetrical",
-            "Straight",
-            "Tight Hem",
-            "Slit",
-            "Flared",
-            "Flounce"
-        ],
-        "Placket":[
-            "Snap Button",
-            "Pullover",
-            "Open Front",
-            "Single Button",
-            "Single Breasted",
-            "Lace-up",
-            "Zipper",
-            "Double Breasted"
-        ],
-        "Chest pad":[
-            "Removable Padding",
-            "Yes",
-            "No Padding"
-        ],
-        "Tops Sleeve Length":[
-            "Long Sleeve",
-            "Sleeveless",
-            "Short Sleeve",
-            "Half Sleeve",
-            "Wrist-Length Sleeve"
-        ],
-        "Tops Material":[
-            "Woven Fabric",
-            "Cotton",
-            "Fabric",
-            "Denim"
-        ],
-        "Tops Composition":[
-            "82.0% Cotton, 14.0% Viscose, 4.0% Polyester",
-            "70% Cotton, 30% Polyester",
-            "87% Cotton, 7% Polyester, 6% Viscose",
-            "69% Cotton, 19% Viscose, 12% Polyester",
-            "52% Cotton, 28% Polyester, 18% Viscose, 2% Elastane",
-            "74.0% Cotton, 13.0% Polyester, 11.0% Viscose, 2.0% Linen",
-            "100% Cotton",
-            "74% Cotton, 12% Polyester, 7% Viscose, 7% Lyocell",
-            "70% Cotton, 14% Viscose, 13% Polyester, 3% Modal",
-            "82% Cotton, 13% Polyester, 5% Viscose",
-            "63% Cotton, 25% Polyester, 10% Viscose, 2% Elastane",
-            "64% Cotton, 22% Polyester, 14% Viscose",
-            "73% Cotton, 18% Polyester, 9% Viscose",
-            "80% Cotton, 13% Polyester, 7% Viscose",
-            "60.0% Cotton, 25.0% Polyester, 15.0% Viscose",
-            "71% Cotton, 18% Polyester, 10% Viscose, 1% Polyamide",
-            "75% Cotton, 19% Polyester, 6% Viscose",
-            "55% Cotton, 31% Polyester, 12% Viscose, 2% Elastane",
-            "72.0% Cotton, 15.0% Viscose, 12.0% Polyester, 1.0% Modal",
-            "70% Cotton, 24% Polyester, 6% Viscose",
-            "80% Cotton, 20% Polyester",
-            "57% Cotton, 27% Polyester, 16% Viscose",
-            "70% Cotton, 16% Polyester, 14% Viscose",
-            "98% Cotton, 1% Polyester, 1% Viscose",
-            "75% Cotton, 12% Viscose, 9% Polyester, 4% Modal",
-            "60% Cotton, 27% Polyester, 10% Lyocell, 3% Viscose",
-            "68% Cotton, 17% Viscose, 14% Polyester, 1% Modal",
-            "51% Cotton, 28% Viscose, 21% Polyester",
-            "57% Cotton, 37% Polyester, 5% Viscose, 1% Elastane",
-            "48% Cotton, 35% Polyester, 17% Viscose",
-            "89% Cotton, 6% Polyester, 5% Viscose",
-            "62.0% Cotton, 21.0% Polyester, 10.0% Viscose, 6.0% Lyocell, 1.0% Modal",
-            "91% Cotton, 5% Viscose, 4% Polyester",
-            "76% Cotton, 18% Polyester, 6% Viscose",
-            "79% Cotton, 14% Polyester, 7% Viscose",
-            "95% Polyester, 5% Elastane",
-            "93% Cotton, 4% Polyester, 3% Viscose"
-        ],
-        "Tops Length":[
-            "Long",
-            "Regular",
-            "Micro Crop",
-            "Crop",
-            "Short"
-        ],
-        "Tops Body":[
-            "Unlined",
-            "No"
-        ],
-        "Filling":[
-            "100% Polyester"
-        ],
-        "Shirts Length":[
-            "Regular",
-            "Short",
-            "Long"
-        ],
-        "Shirts Sleeve Length":[
-            "Wrist-Length Sleeve",
-            "Half Sleeve",
-            "Long Sleeve",
-            "Short Sleeve"
-        ],
-        "Shirts Composition":[
-            "80% Cotton, 20% Polyester",
-            "69% Cotton, 19% Viscose, 12% Polyester",
-            "77% Cotton, 12% Polyester, 9% Viscose, 2% Lyocell",
-            "79% Cotton, 14% Polyester, 7% Viscose",
-            "100% Cotton",
-            "60% Cotton, 25% Polyester, 15% Viscose",
-            "95% Cotton, 5% Elastane",
-            "68% Cotton, 17% Viscose, 14% Polyester, 1% Modal"
-        ],
-        "Shirts Material":[
-            "Woven Fabric",
-            "Polyester",
-            "Viscose",
-            "Cotton",
-            "Denim"
-        ],
-        "Panty Type":[
-            "Thongs",
-            "Briefs"
-        ],
-        "Underwear & Sleepwear Users":[
-            "Teen"
-        ],
-        "Rise":[
-            "Low Rise"
-        ],
-        "Press On Nails Material":[
-            "ABS"
-        ],
-        "Nail Shapes":[
-            "Coffin"
-        ],
-        "Product Technique":[
-            "Solid Color"
-        ],
-        "Liner Weight GSM":[
-            "None"
-        ],
-        "Attached Rope":[
-            "No"
-        ],
         "Occasion":[
             "Beach, Night Out, Wedding, Office, Babymoon, Garden, Photoshoot",
             "Night Out, Wedding, Office, Street",
             "Beach, Night Out, Wedding, Office, Photoshoot, Street",
             "Home"
-        ],
-        "Curtain Hanging Method":[
-            "Velcro"
-        ],
-        "Washing Temperature":[
-            "The washing temperature is below 30 degrees Celsius"
-        ],
-        "Room":[
-            "Living Room, Bedroom, Kitchen"
-        ],
-        "Shirts Body":[
-            "Unlined"
         ],
         "Fit":[
             "Skinny fit",
@@ -1796,82 +1523,6 @@ all = {
             "DENIM, H&M+",
             "H&M EDITION",
             "DENIM"
-        ],
-        "Size":[
-            "Waist: Circumference: 83.9 in. (Size 8), Inner leg: Length: 78.6 in. (Size 8)",
-            "Waist: Circumference: 81.5 in. (Size 8), Inner leg: Length: 81.0 in. (Size 8)",
-            "Inner leg: Length: 79.5 in. (Size 33/32), Waist: Circumference: 90.5 in. (Size 33/32)",
-            "Inner leg: Length: 83.0 in. (Size 6), Waist: Circumference: 76.0 in. (Size 6)",
-            "Inner leg: Length: 80.0 in. (Size 8), Waist: Circumference: 80.0 in. (Size 8)",
-            "Waist: Circumference: 82.5 in. (Size 8), Inner leg: Length: 78.0 in. (Size 8)",
-            "Waist: Circumference: 77.5 in. (Size 8), Inner leg: Length: 82.5 in. (Size 8)",
-            "Waist: Circumference: 82.0 in. (Size 8), Inner leg: Length: 76.5 in. (Size 8)",
-            "Waist: Circumference: 91.0 in. (Size 33/32), Inner leg: Length: 77.5 in. (Size 33/32)",
-            "Inner leg: Length: 76.0 in. (Size M)",
-            "Waist: Circumference: 85.0 in. (Size 8), Inner leg: Length: 79.0 in. (Size 8)",
-            "Waist: Circumference: 85.5 in. (Size 8), Inner leg: Length: 76.5 in. (Size 8)",
-            "Waist: Circumference: 87.0 in. (Size 8), Inner leg: Length: 75.0 in. (Size 8)",
-            "Inner leg: Length: 77.5 in. (Size 6), Waist: Circumference: 86.0 in. (Size 6)",
-            "Waist: Circumference: 81.5 in. (Size 6), Inner leg: Length: 80.0 in. (Size 6)",
-            "Inner leg: Length: 77.0 in. (Size 33/32), Waist: Circumference: 91.0 in. (Size 33/32)",
-            "Inner leg: Length: 83.5 in. (Size 6)",
-            "Waist: Circumference: 88.5 in. (Size 8), Inner leg: Length: 78.0 in. (Size 8)",
-            "Inner leg: Length: 78.0 in. (Size L)",
-            "Inner leg: Length: 79.5 in. (Size 33/32)",
-            "Inner leg: Length: 73.5 in. (Size 6), Waist: Circumference: 83.0 in. (Size 6)",
-            "Inner leg: Length: 81.0 in. (Size 8)",
-            "Inner leg: Length: 80.5 in. (Size 8), Waist: Circumference: 79.0 in. (Size 8)",
-            "Waist: Circumference: 88.0 in. (Size 8), Inner leg: Length: 76.5 in. (Size 8)",
-            "Inner leg: Length: 78.0 in. (Size 6), Waist: Circumference: 78.0 in. (Size 6)",
-            "Waist: Circumference: 77.5 in. (Size 8), Inner leg: Length: 67.0 in. (Size 8)",
-            "Waist: Circumference: 73.8 in. (Size 8), Inner leg: Length: 79.0 in. (Size 8)",
-            "Waist: Circumference: 91.0 in. (Size 33/32), Inner leg: Length: 78.0 in. (Size 33/32)",
-            "Waist: Circumference: 76.5 in. (Size 8), Inner leg: Length: 78.5 in. (Size 8)",
-            "Waist: Circumference: 88.0 in. (Size 8), Inner leg: Length: 69.0 in. (Size 8)",
-            "Inner leg: Length: 78.5 in. (Size 33/32), Waist: Circumference: 90.5 in. (Size 33/32)",
-            "Waist: Circumference: 80.0 in. (Size 8), Inner leg: Length: 71.0 in. (Size 8)",
-            "Waist: Circumference: 81.0 in. (Size 8), Inner leg: Length: 78.0 in. (Size 8)",
-            "Inner leg: Length: 83.5 in. (Size 40), Waist: Circumference: 110.0 in. (Size 40)"
-        ],
-        "imported":[
-            "Yes"
-        ],
-        "Detailed Description":[
-            "Gray-blue, Solid-color",
-            "Pale denim blue, Solid-color",
-            "Dark gray",
-            "Dark gray, Solid-color",
-            "Light denim blue/light beige",
-            "Light denim blue/beige",
-            "Light denim blue",
-            "Denim blue, Solid-color",
-            "Vintage black, Solid-color",
-            "White, Solid-color",
-            "Dark denim blue, Solid-color",
-            "Light gray",
-            "Light denim blue, Solid-color",
-            "Light gray, Solid-color",
-            "Blue, Solid-color",
-            "Black, Solid-color",
-            "Denim gray, Solid-color",
-            "Denim blue/beige",
-            "Dark blue, Solid-color",
-            "Beige, Solid-color",
-            "Denim blue/beige, Solid-color",
-            "Denim black, Solid-color",
-            "Black/dark gray, Color-block",
-            "Dark ice blue, Solid-color",
-            "Dark brown, Solid-color",
-            "Gray, Solid-color",
-            "Brown, Solid-color",
-            "Black",
-            "Denim blue",
-            "Faded black, Solid-color",
-            "Light denim blue/denim blue",
-            "Dark brown/black",
-            "Light denim gray, Solid-color",
-            "Navy blue, Solid-color",
-            "Dark denim gray, Solid-color"
         ],
         "Waist Rise":[
             "Low waist",
@@ -1889,48 +1540,6 @@ all = {
             "H&M Studio Collection",
             "A/W 2024"
         ],
-        "Care instructions":[
-            "Only non-chlorine bleach when needed, Medium iron, Machine wash cold, The color of this denim may transfer onto light colored materials., Line dry, Can be dry cleaned",
-            "Only non-chlorine bleach when needed, Medium iron, Machine wash cool, Wash with like colors, Tumble dry low, Can be dry cleaned",
-            "Tumble dry medium, Only non-chlorine bleach when needed, Medium iron, Machine wash cool, Wash with like colors, Can be dry cleaned",
-            "Only non-chlorine bleach when needed, Machine wash cool, Wash with like colors, High iron, Line dry, Can be dry cleaned",
-            "Only non-chlorine bleach when needed, Tumble dry medium, Can be dry cleaned, Machine wash cold, Wash with like colors, High iron, The color of this denim may transfer onto light colored materials.",
-            "Only non-chlorine bleach when needed, No dry clean, Medium iron, Machine wash cold, Line dry",
-            "Only non-chlorine bleach when needed, No dry clean, Medium iron, The colour of this product may transfer onto light-coloured materials., Line dry, Wash inside out, Machine wash cold",
-            "Only non-chlorine bleach when needed, Tumble dry medium, Machine wash cool, Can be dry cleaned, Wash with like colors, High iron, The color of this denim may transfer onto light colored materials.",
-            "Only non-chlorine bleach when needed, Medium iron, Can be dry cleaned, Machine wash cold, Wash with like colors, The color of this denim may transfer onto light colored materials., Tumble dry low",
-            "Only non-chlorine bleach when needed, Tumble dry medium, Medium iron, Can be dry cleaned, Machine wash cold, Wash with like colors, The color of this denim may transfer onto light colored materials.",
-            "Only non-chlorine bleach when needed, No dry clean, Medium iron, Do not iron on decoration, Line dry, Not washable, Spot clean only",
-            "Only non-chlorine bleach when needed, Tumble dry medium, Medium iron, Machine wash cool, Can be dry cleaned, Wash with like colors, The color of this denim may transfer onto light colored materials.",
-            "Tumble dry medium, Only non-chlorine bleach when needed, Machine wash cold, Wash with like colors, High iron, Can be dry cleaned",
-            "Only non-chlorine bleach when needed, Tumble dry medium, Can be dry cleaned, Iron on reverse, Wash inside out, Machine wash cold, Wash with like colors, High iron, The color of this denim may transfer onto light colored materials.",
-            "Only non-chlorine bleach when needed, No dry clean, Tumble dry medium, Machine wash cool, Wash with like colors, High iron, The color of this denim may transfer onto light colored materials.",
-            "Only non-chlorine bleach when needed, Medium iron, Machine wash cool, Line dry, Can be dry cleaned",
-            "Only non-chlorine bleach when needed, Medium iron, Machine wash cold, Line dry, Can be dry cleaned",
-            "Only non-chlorine bleach when needed, Medium iron, Machine wash cool, Wash with like colors, Line dry, Can be dry cleaned",
-            "Only non-chlorine bleach when needed, No dry clean, Medium iron, Line dry, Machine wash cold, Wash with like colors, The color of this denim may transfer onto light colored materials.",
-            "Only non-chlorine bleach when needed, Medium iron, Line dry, Can be dry cleaned, Machine wash cold, Wash with like colors, The color of this denim may transfer onto light colored materials.",
-            "Only non-chlorine bleach when needed, Medium iron, Machine wash cool, Can be dry cleaned, Wash with like colors, The color of this denim may transfer onto light colored materials., Tumble dry low",
-            "Tumble dry medium, Only non-chlorine bleach when needed, Medium iron, Machine wash cool, The color of this denim may transfer onto light colored materials., Can be dry cleaned",
-            "Only non-chlorine bleach when needed, Line dry, Can be dry cleaned, Machine wash cold, Wash with like colors, High iron, The color of this denim may transfer onto light colored materials.",
-            "Only non-chlorine bleach when needed, No dry clean, Tumble dry medium, Iron on reverse, Wash inside out, Machine wash cold, Wash with like colors, High iron",
-            "Tumble dry medium, Only non-chlorine bleach when needed, Medium iron, Machine wash cool, Can be dry cleaned",
-            "Only non-chlorine bleach when needed, Medium iron, Line dry, Can be dry cleaned, Machine wash cold, Wash with like colors, The color of this denim may transfer onto light colored materials., Spot clean only",
-            "Tumble dry medium, Only non-chlorine bleach when needed, Machine wash cool, Wash with like colors, High iron, Can be dry cleaned"
-        ],
-        "Additional material information":[
-            "The total weight of this product contains 20% Recycled cotton We exclude the weight of minor components such as, but not exclusively: threads, buttons, zippers, embellishments and prints.The total weight of the product is calculated by adding the weight of all layers and main components together. Based on that, we calculate how much of that weight is made out by each material. For sets and multipacks, all pieces are counted together as one product in calculations.",
-            "The total weight of this product contains 19% Recycled cotton We exclude the weight of minor components such as, but not exclusively: threads, buttons, zippers, embellishments and prints.The total weight of the product is calculated by adding the weight of all layers and main components together. Based on that, we calculate how much of that weight is made out by each material. For sets and multipacks, all pieces are counted together as one product in calculations.",
-            "The total weight of this product contains 37% Recycled polyester We exclude the weight of minor components such as, but not exclusively: threads, buttons, zippers, embellishments and prints.The total weight of the product is calculated by adding the weight of all layers and main components together. Based on that, we calculate how much of that weight is made out by each material. For sets and multipacks, all pieces are counted together as one product in calculations."
-        ],
-        "Top Type":[
-            "Blouse",
-            "Women Tops",
-            "Jackets",
-            "Bandeau",
-            "Sweatshirt",
-            "Camisole"
-        ],
         "Jeans Style":[
             "Boyfriend Fit",
             "Cargo Pants, Baggy, Boyfriend Fit",
@@ -1947,82 +1556,24 @@ all = {
             "Bootcut",
             "Cargo Pants"
         ],
-        "Lens Material":[
-            "PC"
-        ],
-        "Shape":[
-            "Round"
-        ],
-        "Frame Structure":[
-            "Full Rim Glasses"
-        ],
-        "Element":[
-            "None"
-        ],
-        "Frame Material":[
-            "PC"
-        ],
-        "Bra Type":[
-            "Bralettes",
-            "Strapless",
-            "Wireless Bra"
-        ],
-        "Lining Level":[
-            "Unlined",
-            "Molded"
-        ],
-        "Wires":[
-            "Wireless"
-        ],
-        "Skirts Composition":[
-            "57% Cotton, 37% Polyester, 5% Viscose, 1% Elastane",
-            "91% Cotton, 5% Viscose, 4% Polyester",
-            "63% Cotton, 25% Polyester, 10% Viscose, 2% Elastane",
-            "87% Cotton, 7% Polyester, 6% Viscose",
-            "69% Cotton, 19% Viscose, 12% Polyester",
-            "52% Cotton, 28% Polyester, 18% Viscose, 2% Elastane",
-            "100% Cotton",
-            "98% Cotton, 1% Polyester, 1% Viscose",
-            "95% Polyester, 5% Elastane"
-        ],
-        "Skirts Length":[
+
+
+    },
+    'skirts':{
+        "Skirts Length": [
             "Midi",
             "Mini",
             "Short",
             "Long"
         ],
-        "Cup Type":[
-            "Full Cup"
-        ],
-        "Skirts Material":[
+        "Skirts Material": [
             "Woven Fabric",
             "Fabric",
             "Denim"
         ],
-        "Festivals":[
-            "Halloween"
-        ],
-        "Body Accessories Composition":[
-            "95% Polyester, 5% Elastane, 95% Polyester, 5% Elastane"
-        ],
-        "Body Accessories Material":[
-            "Fabric, Fabric"
-        ],
-        "Support":[
-            "Medium Support"
-        ],
-        "Straps Type":[
-            "Clear Straps"
-        ],
-        "Plating":[
-            "No Precious Metal Plated"
-        ],
-        "Skirts Body":[
-            "Unlined"
-        ]
+
     },
     "Saree":{
-        "Supplier Information":"fix",
         "Pattern":[
             "Mirror Work",
             "Colorblock",
@@ -2044,94 +1595,7 @@ all = {
             "Textured",
             "Checks",
             "Tie & Dye"
-        ],
-        "Care instructions":[
-            "Hand Wash Or Dry Clean",
-            "Dry Clean Recommended",
-            "Dry Clean Only. Do Not Machine Wash. Please Do Not Spray Deodorant, Mist Or A Perfume On The Saree Directly. Hand Dyed & Printed Sarees ,may Fade Or Bleed Color In The First Wash Due To The Traditional Dying & Printing Process Involved.",
-            "Hand-wash With Mild Detergent In Cold Water. Pre-soak Dark Colors With Salt To Set Dyes.",
-            "Dry Clean Recomended",
-            "Dry Wash Only.",
-            "Dry Clean Only . Do Not Machine Wash. Please Do Not Spray Deodorant, Mist Or A Perfume On The Saree Directly. Hand Dyed & Hand Printed Sarees ,may Fade Or Bleed Color In The First Wash Due To The Traditional Dying & Printing Process Involved.",
-            "First Machine Wash Recommended; After That Cold Hand Wash Can Be Done",
-            "Sarees Should Be Stored - Folded And Stacked – Wrapped In Clean White Unbleached Cotton/ Muslin. <br/>merchandise Should Be Stored In Clean Dry And Protected Wardrobes Or Closet Spaces. <br/>dry Cleaning Is Recommended For All Merchandise.",
-            "First-time Dry Wash Then Home Wash With Care.",
-            "Dry Cleaning Is Recommended For All Saree.",
-            "Dry Clean Only, Do Not Machine Wash. Please Do Not Spray Deodorant, Mist Or A Perfume On The Saree Directly.",
-            "Dry Clean And Hand Wash Only.",
-            "Hand Wash In Mild Detergent Separately Or Dry Clean",
-            "Gentle Hand Wash Separately, Hang Dry The Sarees And Avoid Drying In Direct Sunlight.",
-            "Dry Clean Gentle Wash",
-            "Dry Clean",
-            "Do Not Tumble Dry Iron Low Heat Professional Dry Clean, Do Not Bleach",
-            "Easy Hand Wash",
-            "Dryclean Only This Handpainted Chanderi Silk Saree With Blouse Piece. These Are Handcrafted Items, Please Cherish The Little Imperfections In Weave And Prints.",
-            "Sarees Should Be Stored Folded And Stacked Wrapped In Clean White Unbleached Cotton/ Muslin. <br/>merchandise Should Be Stored In Clean Dry And Protected Wardrobes Or Closet Spaces. <br/>dry Cleaning Is Recommended For All Merchandise.",
-            "First Dry Clean Recommended; After That Cold Hand Wash Can Be Done",
-            "Dry Clean And Hand Wash",
-            "Hand Wash",
-            "Dry Clean, Do Not Use Steam Iron, Use Only Extreme Low Heat Iron",
-            "Hand Wash , 100%poly",
-            "Dry Clean Only",
-            "Mild Hand Wash,do Not Tumble Dry Iron Low Heat Professional Dry Clean, Do Not Bleach",
-            "Strictly Dry Clean Only For Digitally Printed Garments & Non-petroleum Dry Clean For Hand-printed Garments.",
-            "Folded And Stacked - Wrapped In Clean White Unbleached Cotton/ Muslin. Merchandise Should Be Stored In Clean Dry And Protected Wardrobes Or Closet Spaces. Dry Cleaning Is Recommended For All Merchandise.",
-            "Handwash Or Soft Machine Wash This Mulmul Pure Cotton Saree With Blouse Piece Separately In Cold Water With Mild Detergent. Do Not Soak And Dry In Shade. These Are Handcrafted Items, Please Cherish The Little Imperfections In Weave And Prints.",
-            "Do Not Tumble Dry Iron Low Heat Professional Dry Clean. Do Not Bleach",
-            "Safe To Dry Clean. Can Be Hand Washed With Cold Water. Do Not Soak, Do Not Bleach. Gentle Spin To Remove Water. Dry It In A Shaded Area - Avoid Direct Sunlight. Medium Steam Ironing. Store Your Saree In A Cotton Bag Or Box When Not In Use.",
-            "Mild Hand Wash, Do Not Tumble Dry, Iron Low Heat, Professional Dry Clean, Do Not Bleach",
-            "Handwash Separately",
-            "Dry Clean Only. Color May Vary Slightly Due To Photographic Lighting And Screen Resolution.",
-            "Do Not Tumble Dry. Iron Low Heat. Professional Dry Clean. Do Not Bleach",
-            "Dry Clean , Do Not Machine Wash",
-            "First Wash Of The Garment Should Always Be Dry Clean",
-            "Hand Wash With Mild Detergent In Cold Water, Pre-soak Dark Colors With Salt To Set Dyes.",
-            "Cold Hand Wash",
-            "Dry Cleaning Is Recommended For All Sarees.",
-            "Only Dry Clean, No Steam Iron, Low Heat Iron",
-            "Handwash Lightly With Mild Detergent. Do Not Soak. Dry Inside Out In Shade.",
-            "For The First Wash, Hand Wash In Cold Water With A Mild Detergent And Lay Flat To Dry.",
-            "Preferably Dry Clean Or Handwash Separately In Cold Water With Mild Detergent Only. These Are Handcrafted Items, Please Cherish The Little Imperfections In Weave And Prints.",
-            "First Machine Wash Recommended, After That Cold Hand Wash Can Be Done",
-            "Mild Hand Wash",
-            "Hand Wash, Do Not Bleach Or Use Hard Detergent.mild Hand Wash,do Not Tumble Dry Iron Low Heat Professional Dry Clean.",
-            "Dry Clean & Hand Wash Only",
-            "Handwash Lightly With Mild Detergent.do Not Soak. Dry Inside Out In Shade.dry Clean Is Ideal But Hand Wash Also Works.iron On The Wrong Side.we Use Natural Dyes Which Tend To Bleed In The First Few Washes. Therefore, Do Not Mix With Whites.",
-            "1. Do Not Machine Wash Or Hand Wash 2. Incase Of Stains, Immediately Wipe-off The Stain With Cold Water 3. It Is Advised To Only Dry Clean 4. Do Not Keep It Bundled Up 5. Keep Away From Direct Sunlight",
-            "Dry Wash",
-            "Sarees Should Be Stored - Folded And Stacked - Wrapped In Clean White Unbleached Cotton/ Muslin. Merchandise Should Be Stored In Clean Dry And Protected Wardrobes Or Closet Spaces. Dry Cleaning Is Recommended For All Merchandise.",
-            "Dry Clean Or Hand Wash",
-            "First Wash Should Preferably Be Dry Clean.",
-            "Sarees Should Be Stored, Folded And Stacked And By Wrapped In Clean White Unbleached Cotton/ Muslin, Merchandise Should Be Stored In Clean Dry And Protected Wardrobes Or Closet Spaces, Dry Cleaning Is Recommended For All Merchandise.",
-            "Normal Hand Wash In Cold Water With Mild Detergent. Donot Bleach. Iron, Steam Or Dry With Low Heat. Dry In Shade.",
-            "Cold Handwash",
-            "Sarees Should Be Stored - Folded And Stacked – Wrapped In Clean White Unbleached Cotton/ Muslin. Merchandise Should Be Stored In Clean Dry And Protected Wardrobes Or Closet Spaces. Dry Cleaning Is Recommended For All Merchandise.",
-            "Gentle Handwash Separately",
-            "Dry Cleaing Only",
-            "Mul Cotton, Hand Wash",
-            "Machine Wash After Hand Wash",
-            "Recommend Dry Clean Only",
-            "Handwash Or Soft Machine Wash Modal Clothes Separately In Cold Water With Mild Detergent. Do Not Soak And Dry In Shade. These Are Handcrafted Items, Please Cherish The Little Imperfections In Weave And Prints.",
-            "First Wash Of The Saree Should Always Be Dry Clean",
-            "Dry Wash Recommended",
-            "Machine Wash",
-            "Dry Clean Only Steam Iron Only",
-            "Silk Sarees Should Be Stored - Folded And Stacked - Wrapped In Clean, White, Unbleached Cotton/ Muslin. Merchandise Should Be Stored In Clean, Dry, And Protected Wardrobes Or Closet Spaces. Dry Cleaning Is Recommended For All Merchandise.",
-            "Dry Clean Only, Do Not Machine Wash. Please Do Not Spray Deodorant, Mist, Or Perfume On The Saree Directly.",
-            "Hand Wash Only",
-            "Dry Clean, Do Not Machine Wash",
-            "Do Not Tumble, Dry Iron, Low Heat Professional Dry Clean, Do Not Bleach",
-            "First Wash Dry Clean",
-            "Do Not Tumble Dry, Iron Low Heat, Professional Dry Clean, Do Not Bleach",
-            "Gentle Hand Wash With Mild Detergent, Dry In Shades, Steam Iron",
-            "Dry Clean, Gentle Wash",
-            "Hand Wash With Mild Detergent In Cold Water. Pre-soak Dark Colors With Salt To Set Dyes.",
-            "Hand Wash Separately",
-            "Handwash",
-            "Do Not Tumble, Dry Iron Low Heat, Professional Dry Clean, Do Not Bleach",
-            "Hand Wash/dry Wash",
-            "Machine Wash / Hand Wash"
-        ],
+        ], # imp
         "Type of Work":[
             "Mirror Work",
             "Mukaish",
@@ -2161,7 +1625,7 @@ all = {
             "Bandhani",
             "Tassels",
             "Chikankari"
-        ],
+        ], # name cng
         "Occasion":[
             "Casual",
             "Wedding",
@@ -2171,70 +1635,7 @@ all = {
             "Semi Formal",
             "Festive",
             "Party"
-        ],
-        "Pack Size":[
-            "Single"
-        ],
-        "Pack contains":[
-            "1 Saree,1 Unstitched Blouse",
-            "1 Saree, 1 Unstitch Blouse",
-            "1 Saree, 1 Blouse Piece",
-            "1 Saree,1 Stitched Blouse",
-            "1 Saree Without Blouse Piece",
-            "1 Pre Draped Saree, 1 Unstitched Blouse",
-            "1 Pre-drape Saree With Attached Blouse, 1 Belt",
-            "1 Saree",
-            "1 Saree , 1 Unstitched Blouse",
-            "1 Saree, 1 Stitched Blouse, 1 Belt",
-            "1 Saree Without Blouse",
-            "1 Saree, 1 Unstitched Blouse",
-            "1 Pre-draped Saree, 1 Stitched Blouse",
-            "1 Jacket, 1 Saree",
-            "1 Saree, 1 Unstitiched Blouse",
-            "1 Pre Drape Saree, 1 Stitched Blouse, 1 Belt",
-            "1 Saree, 1 Unstiched Blouse",
-            "1 Saree , 1 Unstitched Blouse Piece",
-            "1 Saree, 1 Unstitched Bloue",
-            "1 Saree, 1 Stitched Blouse",
-            "1 Saree, 1 Unstitched Blouse Piece",
-            "1 Saree With Unstitched Blouse",
-            "1 Saree Comes With 1 Attached Unstitched Blouse Piece",
-            "1 Stitched Blouse, 1 Saree",
-            "1 Saree With Unstitched Blouse Piece",
-            "1 Saree 1 Unstitched Blouse",
-            "1 Pre-drape Saree, 1 Blouse",
-            "1 Skirt, 1 Blouse, 1 Cape",
-            "1 Pre-drape Saree, 1 Stitched Blouse",
-            "1 Saree, 1 Blazer",
-            "1 Pre-draped Saree",
-            "1 Saree With 1 Unstitched Blouse Piece",
-            "1 Draped Saree, 1 Stitched Blouse, 1 Jacket, 1 Belt",
-            "1 Saree, 1 Unstitched Blouse, 1 Belt",
-            "1 Saree, 1 Blouse",
-            "1 Blouse, 1 Sharara Saree",
-            "1 Saree, 1 Unstiched Blouse, 1 Belt",
-            "1 Saree With Unstitch Blouse",
-            "1 Saree With Attached Unstitched Blouse Fabric",
-            "1 Saree, 1 Semi-stitched Blouse",
-            "1 Saree, 1 Unstitched Blouse, 1 Dupatta",
-            "1 Pre-draped Saree, 1 Unstitched Blouse",
-            "1 Saree, 1 Stitched Blouse, 1 Petticoat",
-            "1 Blouse, 1 Saree"
-        ],
-        "Address of Manufacturer/ Packer/ Importer":"fix",
-        "Sold By":"fix",
-        "Country of Origin":[
-            "India"
-        ],
-        "Name of Manufacturer/ Packer/ Importer":"fix",
-        "Responsiblity Criteria":[
-            "Sustainable materials",
-            "Vegan",
-            "Responsible production",
-            "Low waste",
-            "Handwoven handloomed",
-            "Handmade by artisans"
-        ],
+        ], # imp
         "Padding":[
             "Padded",
             "Non-Padded"
@@ -2243,61 +1644,6 @@ all = {
             "High Waist",
             "Mid Waist"
         ],
-        "Dimensions":[
-            "Length: 5.5mtr (Approx), Blouse- 0.8 x 1.1 mtr (Approx) (L x W)",
-            "Length: 5.5 metres plus 0.8 metre blouse piece,Width: 1.06 metres (approx)",
-            "Saree- 550 x 80 cm (L x W), Blouse-105 cm (W)",
-            "Saree Length: 5.5 metres|550 cm, Blouse Length : 0.8 metre|80 cm",
-            "Saree Length:5.5 m Blouse Piece: 0.80m",
-            "Saree (L x W): 5.5 x 1.2 m, Blouse- 0.8 m",
-            "Saree: 5.5 metres|550 cm, Blouse: 0.8 metre|80 cm",
-            "(L x W) : 5.5 x 1.92 mtr, Blouse Piece: 0.80 mtr",
-            "Saree Length - 550 cm",
-            "Saree Length: 5.5 meter|550 cm",
-            "Saree - 6.1 Meter|610 cm including blouse piece",
-            "Dupatta Length:6.4 Mtr|640 cm",
-            "Saree with Blouse Piece: (550 plus (80 cm) ) x 110 cm (L x W)",
-            "Saree Length: 5.5 metre|550 cm, Blouse Length: 0.8 metre|80 cm",
-            "(L x W) : 6.4 x 1.16 Mtr",
-            "Saree : (L x W) : 6.30 x 115 cm, Blouse piece : 90 cm",
-            "Saree Length-5.5 mtr, Running Blouse Piece-0.8 mtr, Saree Width-1.2 mtr",
-            "650",
-            "Length: 5.5m(Approx), Width: 1.1m (Approx), 0.8m(Approx) Blouse Piece",
-            "Length=5.5 M, Width= 47",
-            "Saree Length: 650 cm",
-            "Saree - 5.5 mtr, Blouse - 0.8 mtr",
-            "5.5 meter x 1.2 meter (L x W)",
-            "6.4 x 1.16 mtr (L x W)",
-            "Length: 6.3 Meters Including 0.8-Meter Blouse Piece",
-            "Saree- 5.5 meter (550 cms) x 0.8 meter (80 cms) (L x W), Saree Blouse: 1.2 meter (105 cms) (W)",
-            "Saree Length - 6.4 meter|640 cm",
-            "Saree : 5.5 mtr, Blouse :0.8 mtr",
-            "The Saree length is 5.5 metres comes with unstitched blouse of 0.8 metre. The blouse in the images is only for styling purposes.",
-            "Saree - 5.50 Meter|550 cm, Blouse Piece - 0.80 Meter|80 cm",
-            "Saree length 5.5 meter, Blouse - 0.80 meter, Saree width -1.2 meter",
-            "Saree Length 5.5 mtr x Saree Width 1.2 mtr, Blouse: 0.8 mtr",
-            "Saree: 550 x 80 cm (L x W), Running Blouse- 120 cm (W)",
-            "Saree Length - 5.5 mtr, Blouse Length - 1 mtr",
-            "Saree Length-5.5. 0.8 meter running blouse piece, Saree Width-1.2 meter",
-            "Saree Length-5.5 m, No Running Blouse pc, Saree Width-1.2 meter",
-            "Saree Length: 6.4 meter|640 cm",
-            "Saree Length :- 5.5 Mtr & Blouse Length :- 90 CM",
-            "Saree Length-5.5 Mtr, 0.8 Mtr Blouse Pc ,Saree Width-1.2 Meter",
-            "Saree length - 5.5 metres|550 cm, Blouse Piece - 0.8 metre|80 cm",
-            "Saree Length: 5.5 meter|550 cm, Blouse Length: 0.8 meter|80 cm",
-            "6.5 metres – includes coordinated unstitched blouse piece",
-            "Dupatta Length:5.5 Mtr|550 cm",
-            "Saree size is 5.5 mtr (550 cm) and Blouse is 0.8 mtr (80 cm)",
-            "Saree Length :5.5 Mtr, Blouse Length :0.80 Mtr",
-            "6.5 Metres : Includes Coordinated Unstitched Blouse Piece, 650 cm : Includes Coordinated Unstitched Blouse Piece",
-            "530"
-        ],
-        "Pocket Description":[
-            "Slit Pocket"
-        ],
-        "Leg Style":[
-            "Flared"
-        ]
     },
     "shirts_":{
         "Composition":"fix",
@@ -4129,7 +3475,6 @@ all = {
             "Silver Diamond",
             "I.N.O.X.",
             "Seven Color Digital Watch",
-            "4",
             "Unika",
             "ASGARD",
             "WEDDING AND PARTYWEAR",
@@ -4507,10 +3852,215 @@ all = {
         "Device interface - primary":[
             "Buttons",
             "Touchscreen"
-        ], # imp
+        ], # imp + name change
         "Pattern":[
             "Floral",
             "Classic"
         ], # may keep
     }
+}
+
+
+
+
+ex = {
+    'jeans' : {
+
+        "Neckline": [
+            "Scoop Neck",
+            "Peak Lapels",
+            "Notched",
+            "Funnel Neck",
+            "Cardigan Collar",
+            "Polo",
+            "High Neck",
+            "Mandarin Collar",
+            "Waterfall",
+            "Peter Pan Collar",
+            "Square Neck",
+            "Halter",
+            "Tie Neck",
+            "Hooded",
+            "V neck",
+            "Stand Collar",
+            "Deep V Neck",
+            "Contrast Collar",
+            "Straps",
+            "Lapel",
+            "Flounce Collar",
+            "Round Neck",
+            "Baseball Collar",
+            "Spaghetti Strap",
+            "Keyhole Neckline",
+            "Shawl Collar",
+            "Strapless",
+            "Shirt Collar",
+            "Sweetheart",
+            "Off the Shoulder",
+            "Collar",
+            "Asymmetrical Neck"
+        ],  # whats sense ?
+        "Sleeve Type": [
+            "Drop Shoulder",
+            "Cold Shoulder",
+            "Batwing Sleeve",
+            "Flounce Sleeve",
+            "Petal Sleeve",
+            "Flare Sleeve",
+            "Leg-of-mutton Sleeve",
+            "Layered Sleeve",
+            "Cloak Sleeve",
+            "Split Sleeve",
+            "Puff Sleeve",
+            "Roll Up Sleeve",
+            "Bishop Sleeve",
+            "Regular Sleeve",
+            "Raglan Sleeve"
+        ],  # whats sense ?
+        "Sleeve Length": [
+            "Wrist-Length Sleeve",
+            "Sleeveless",
+            "Extra-Long Sleeve",
+            "Short Sleeve",
+            "Cap Sleeve",
+            "Three Quarter Length Sleeve",
+            "Half Sleeve",
+            "Long Sleeve"
+        ],  # what sense ?
+        "Tops Sleeve Length": [
+            "Long Sleeve",
+            "Sleeveless",
+            "Short Sleeve",
+            "Half Sleeve",
+            "Wrist-Length Sleeve"
+        ],
+        "Tops Material": [
+            "Woven Fabric",
+            "Cotton",
+            "Fabric",
+            "Denim"
+        ],
+        "Tops Composition": [
+            "82.0% Cotton, 14.0% Viscose, 4.0% Polyester",
+            "70% Cotton, 30% Polyester",
+            "87% Cotton, 7% Polyester, 6% Viscose",
+            "69% Cotton, 19% Viscose, 12% Polyester",
+            "52% Cotton, 28% Polyester, 18% Viscose, 2% Elastane",
+            "74.0% Cotton, 13.0% Polyester, 11.0% Viscose, 2.0% Linen",
+            "100% Cotton",
+            "74% Cotton, 12% Polyester, 7% Viscose, 7% Lyocell",
+            "70% Cotton, 14% Viscose, 13% Polyester, 3% Modal",
+            "82% Cotton, 13% Polyester, 5% Viscose",
+            "63% Cotton, 25% Polyester, 10% Viscose, 2% Elastane",
+            "64% Cotton, 22% Polyester, 14% Viscose",
+            "73% Cotton, 18% Polyester, 9% Viscose",
+            "80% Cotton, 13% Polyester, 7% Viscose",
+            "60.0% Cotton, 25.0% Polyester, 15.0% Viscose",
+            "71% Cotton, 18% Polyester, 10% Viscose, 1% Polyamide",
+            "75% Cotton, 19% Polyester, 6% Viscose",
+            "55% Cotton, 31% Polyester, 12% Viscose, 2% Elastane",
+            "72.0% Cotton, 15.0% Viscose, 12.0% Polyester, 1.0% Modal",
+            "70% Cotton, 24% Polyester, 6% Viscose",
+            "80% Cotton, 20% Polyester",
+            "57% Cotton, 27% Polyester, 16% Viscose",
+            "70% Cotton, 16% Polyester, 14% Viscose",
+            "98% Cotton, 1% Polyester, 1% Viscose",
+            "75% Cotton, 12% Viscose, 9% Polyester, 4% Modal",
+            "60% Cotton, 27% Polyester, 10% Lyocell, 3% Viscose",
+            "68% Cotton, 17% Viscose, 14% Polyester, 1% Modal",
+            "51% Cotton, 28% Viscose, 21% Polyester",
+            "57% Cotton, 37% Polyester, 5% Viscose, 1% Elastane",
+            "48% Cotton, 35% Polyester, 17% Viscose",
+            "89% Cotton, 6% Polyester, 5% Viscose",
+            "62.0% Cotton, 21.0% Polyester, 10.0% Viscose, 6.0% Lyocell, 1.0% Modal",
+            "91% Cotton, 5% Viscose, 4% Polyester",
+            "76% Cotton, 18% Polyester, 6% Viscose",
+            "79% Cotton, 14% Polyester, 7% Viscose",
+            "95% Polyester, 5% Elastane",
+            "93% Cotton, 4% Polyester, 3% Viscose"
+        ],
+        "Tops Length": [
+            "Long",
+            "Regular",
+            "Micro Crop",
+            "Crop",
+            "Short"
+        ],
+        "Tops Body": [
+            "Unlined",
+            "No"
+        ],
+        "Shirts Length": [
+            "Regular",
+            "Short",
+            "Long"
+        ],
+        "Shirts Sleeve Length": [
+            "Wrist-Length Sleeve",
+            "Half Sleeve",
+            "Long Sleeve",
+            "Short Sleeve"
+        ],
+        "Shirts Composition": [
+            "80% Cotton, 20% Polyester",
+            "69% Cotton, 19% Viscose, 12% Polyester",
+            "77% Cotton, 12% Polyester, 9% Viscose, 2% Lyocell",
+            "79% Cotton, 14% Polyester, 7% Viscose",
+            "100% Cotton",
+            "60% Cotton, 25% Polyester, 15% Viscose",
+            "95% Cotton, 5% Elastane",
+            "68% Cotton, 17% Viscose, 14% Polyester, 1% Modal"
+        ],
+        "Shirts Material": [
+            "Woven Fabric",
+            "Polyester",
+            "Viscose",
+            "Cotton",
+            "Denim"
+        ],
+        "Chest pad": [
+            "Removable Padding",
+            "Yes",
+            "No Padding"
+        ],
+        "Top Type": [
+            "Blouse",
+            "Women Tops",
+            "Jackets",
+            "Bandeau",
+            "Sweatshirt",
+            "Camisole"
+        ],
+        "Bra Type": [
+            "Bralettes",
+            "Strapless",
+            "Wireless Bra"
+        ],
+        "Lining Level": [
+            "Unlined",
+            "Molded"
+        ],
+        "Straps Type": [
+            "Clear Straps"
+        ],
+        "Placket": [
+            "Snap Button",
+            "Pullover",
+            "Open Front",
+            "Single Button",
+            "Single Breasted",
+            "Lace-up",
+            "Zipper",
+            "Double Breasted"
+        ],
+        "Panty Type": [
+            "Thongs",
+            "Briefs"
+        ],
+        "Underwear & Sleepwear Users": [
+            "Teen"
+        ],
+
+    }
+
 }
