@@ -1,17 +1,17 @@
 # Record completed filter json
 
-``` json
+``` python
 {
     "root": {
-        "Tshirts": {},  // ✅
+        "Tshirts": {},  # ✅
         "Dresses": {},
-        "Earrings": {}, // ✅
+        "Earrings": {}, # ✅
         "Jeans": {},
-        "Saree": {}, // ✅
+        "Saree": {}, # ✅
         "shirts": {},
-        "Sneakers": {}, // ✅
-        "Watches": {} // ✅
-        "kurties" : {} // only single attribute is present
+        "Sneakers": {}, # ✅
+        "Watches": {} # ✅
+        "kurties" : {} # only single attribute is present
     }
 }
 ```
