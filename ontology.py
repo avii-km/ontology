@@ -1,4 +1,6 @@
 all = {
+    
+    # ✅
     "Tshirts":{
         "Fit":[
             "Regular fit",
@@ -323,6 +325,8 @@ all = {
             "Regular, Regular"
         ],
     },
+    
+    # ✅
     "Dresses": {       
         "Size": "fix",
         "Material": [
@@ -824,11 +828,13 @@ all = {
         ]
     }, # extract by dresses
     "tops": {
-            "Tops Length": [
+        "Tops Length": [
                 "Regular",
                 "Long"
             ]
-    } # extract by dresses
+    }, # extract by dresses
+    
+    # ✅
     "Earrings":{
         "Size & Fit":"fix",
         "Shape":[
@@ -950,6 +956,7 @@ all = {
             "Zircon"
         ],   
     },
+    
     "Jeans":{
         "Composition":"fix",
         "Color":"fix",
@@ -997,16 +1004,7 @@ all = {
             "Slim Fit",
             "Regular Fit"
         ],
-        "Care Instructions":[
-            "Hand wash or professional dry clean",
-            "Machine wash or professional dry clean",
-            "Hand wash,do not dry clean",
-            "Do not wash",
-            "Damp wipe only",
-            "Machine wash, do not dry clean,wash with the soft detergent",
-            "Dry clean or Hand wash",
-            "Machine wash, do not dry clean"
-        ],
+        
         "Lined For Added Warmth":[
             "Yes",
             "No"
@@ -1760,40 +1758,8 @@ all = {
             "H&M Studio Collection",
             "A/W 2024"
         ],
-        "Care instructions":[
-            "Only non-chlorine bleach when needed, Medium iron, Machine wash cold, The color of this denim may transfer onto light colored materials., Line dry, Can be dry cleaned",
-            "Only non-chlorine bleach when needed, Medium iron, Machine wash cool, Wash with like colors, Tumble dry low, Can be dry cleaned",
-            "Tumble dry medium, Only non-chlorine bleach when needed, Medium iron, Machine wash cool, Wash with like colors, Can be dry cleaned",
-            "Only non-chlorine bleach when needed, Machine wash cool, Wash with like colors, High iron, Line dry, Can be dry cleaned",
-            "Only non-chlorine bleach when needed, Tumble dry medium, Can be dry cleaned, Machine wash cold, Wash with like colors, High iron, The color of this denim may transfer onto light colored materials.",
-            "Only non-chlorine bleach when needed, No dry clean, Medium iron, Machine wash cold, Line dry",
-            "Only non-chlorine bleach when needed, No dry clean, Medium iron, The colour of this product may transfer onto light-coloured materials., Line dry, Wash inside out, Machine wash cold",
-            "Only non-chlorine bleach when needed, Tumble dry medium, Machine wash cool, Can be dry cleaned, Wash with like colors, High iron, The color of this denim may transfer onto light colored materials.",
-            "Only non-chlorine bleach when needed, Medium iron, Can be dry cleaned, Machine wash cold, Wash with like colors, The color of this denim may transfer onto light colored materials., Tumble dry low",
-            "Only non-chlorine bleach when needed, Tumble dry medium, Medium iron, Can be dry cleaned, Machine wash cold, Wash with like colors, The color of this denim may transfer onto light colored materials.",
-            "Only non-chlorine bleach when needed, No dry clean, Medium iron, Do not iron on decoration, Line dry, Not washable, Spot clean only",
-            "Only non-chlorine bleach when needed, Tumble dry medium, Medium iron, Machine wash cool, Can be dry cleaned, Wash with like colors, The color of this denim may transfer onto light colored materials.",
-            "Tumble dry medium, Only non-chlorine bleach when needed, Machine wash cold, Wash with like colors, High iron, Can be dry cleaned",
-            "Only non-chlorine bleach when needed, Tumble dry medium, Can be dry cleaned, Iron on reverse, Wash inside out, Machine wash cold, Wash with like colors, High iron, The color of this denim may transfer onto light colored materials.",
-            "Only non-chlorine bleach when needed, No dry clean, Tumble dry medium, Machine wash cool, Wash with like colors, High iron, The color of this denim may transfer onto light colored materials.",
-            "Only non-chlorine bleach when needed, Medium iron, Machine wash cool, Line dry, Can be dry cleaned",
-            "Only non-chlorine bleach when needed, Medium iron, Machine wash cold, Line dry, Can be dry cleaned",
-            "Only non-chlorine bleach when needed, Medium iron, Machine wash cool, Wash with like colors, Line dry, Can be dry cleaned",
-            "Only non-chlorine bleach when needed, No dry clean, Medium iron, Line dry, Machine wash cold, Wash with like colors, The color of this denim may transfer onto light colored materials.",
-            "Only non-chlorine bleach when needed, Medium iron, Line dry, Can be dry cleaned, Machine wash cold, Wash with like colors, The color of this denim may transfer onto light colored materials.",
-            "Only non-chlorine bleach when needed, Medium iron, Machine wash cool, Can be dry cleaned, Wash with like colors, The color of this denim may transfer onto light colored materials., Tumble dry low",
-            "Tumble dry medium, Only non-chlorine bleach when needed, Medium iron, Machine wash cool, The color of this denim may transfer onto light colored materials., Can be dry cleaned",
-            "Only non-chlorine bleach when needed, Line dry, Can be dry cleaned, Machine wash cold, Wash with like colors, High iron, The color of this denim may transfer onto light colored materials.",
-            "Only non-chlorine bleach when needed, No dry clean, Tumble dry medium, Iron on reverse, Wash inside out, Machine wash cold, Wash with like colors, High iron",
-            "Tumble dry medium, Only non-chlorine bleach when needed, Medium iron, Machine wash cool, Can be dry cleaned",
-            "Only non-chlorine bleach when needed, Medium iron, Line dry, Can be dry cleaned, Machine wash cold, Wash with like colors, The color of this denim may transfer onto light colored materials., Spot clean only",
-            "Tumble dry medium, Only non-chlorine bleach when needed, Machine wash cool, Wash with like colors, High iron, Can be dry cleaned"
-        ],
-        "Additional material information":[
-            "The total weight of this product contains 20% Recycled cotton We exclude the weight of minor components such as, but not exclusively: threads, buttons, zippers, embellishments and prints.The total weight of the product is calculated by adding the weight of all layers and main components together. Based on that, we calculate how much of that weight is made out by each material. For sets and multipacks, all pieces are counted together as one product in calculations.",
-            "The total weight of this product contains 19% Recycled cotton We exclude the weight of minor components such as, but not exclusively: threads, buttons, zippers, embellishments and prints.The total weight of the product is calculated by adding the weight of all layers and main components together. Based on that, we calculate how much of that weight is made out by each material. For sets and multipacks, all pieces are counted together as one product in calculations.",
-            "The total weight of this product contains 37% Recycled polyester We exclude the weight of minor components such as, but not exclusively: threads, buttons, zippers, embellishments and prints.The total weight of the product is calculated by adding the weight of all layers and main components together. Based on that, we calculate how much of that weight is made out by each material. For sets and multipacks, all pieces are counted together as one product in calculations."
-        ],
+        
+        
         "Top Type":[
             "Blouse",
             "Women Tops",
@@ -1845,17 +1811,7 @@ all = {
         "Wires":[
             "Wireless"
         ],
-        "Skirts Composition":[
-            "57% Cotton, 37% Polyester, 5% Viscose, 1% Elastane",
-            "91% Cotton, 5% Viscose, 4% Polyester",
-            "63% Cotton, 25% Polyester, 10% Viscose, 2% Elastane",
-            "87% Cotton, 7% Polyester, 6% Viscose",
-            "69% Cotton, 19% Viscose, 12% Polyester",
-            "52% Cotton, 28% Polyester, 18% Viscose, 2% Elastane",
-            "100% Cotton",
-            "98% Cotton, 1% Polyester, 1% Viscose",
-            "95% Polyester, 5% Elastane"
-        ],
+        
         "Skirts Length":[
             "Midi",
             "Mini",
@@ -1873,9 +1829,7 @@ all = {
         "Festivals":[
             "Halloween"
         ],
-        "Body Accessories Composition":[
-            "95% Polyester, 5% Elastane, 95% Polyester, 5% Elastane"
-        ],
+        
         "Body Accessories Material":[
             "Fabric, Fabric"
         ],
@@ -1916,93 +1870,7 @@ all = {
             "Checks",
             "Tie & Dye"
         ],
-        "Care instructions":[
-            "Hand Wash Or Dry Clean",
-            "Dry Clean Recommended",
-            "Dry Clean Only. Do Not Machine Wash. Please Do Not Spray Deodorant, Mist Or A Perfume On The Saree Directly. Hand Dyed & Printed Sarees ,may Fade Or Bleed Color In The First Wash Due To The Traditional Dying & Printing Process Involved.",
-            "Hand-wash With Mild Detergent In Cold Water. Pre-soak Dark Colors With Salt To Set Dyes.",
-            "Dry Clean Recomended",
-            "Dry Wash Only.",
-            "Dry Clean Only . Do Not Machine Wash. Please Do Not Spray Deodorant, Mist Or A Perfume On The Saree Directly. Hand Dyed & Hand Printed Sarees ,may Fade Or Bleed Color In The First Wash Due To The Traditional Dying & Printing Process Involved.",
-            "First Machine Wash Recommended; After That Cold Hand Wash Can Be Done",
-            "Sarees Should Be Stored - Folded And Stacked – Wrapped In Clean White Unbleached Cotton/ Muslin. <br/>merchandise Should Be Stored In Clean Dry And Protected Wardrobes Or Closet Spaces. <br/>dry Cleaning Is Recommended For All Merchandise.",
-            "First-time Dry Wash Then Home Wash With Care.",
-            "Dry Cleaning Is Recommended For All Saree.",
-            "Dry Clean Only, Do Not Machine Wash. Please Do Not Spray Deodorant, Mist Or A Perfume On The Saree Directly.",
-            "Dry Clean And Hand Wash Only.",
-            "Hand Wash In Mild Detergent Separately Or Dry Clean",
-            "Gentle Hand Wash Separately, Hang Dry The Sarees And Avoid Drying In Direct Sunlight.",
-            "Dry Clean Gentle Wash",
-            "Dry Clean",
-            "Do Not Tumble Dry Iron Low Heat Professional Dry Clean, Do Not Bleach",
-            "Easy Hand Wash",
-            "Dryclean Only This Handpainted Chanderi Silk Saree With Blouse Piece. These Are Handcrafted Items, Please Cherish The Little Imperfections In Weave And Prints.",
-            "Sarees Should Be Stored Folded And Stacked Wrapped In Clean White Unbleached Cotton/ Muslin. <br/>merchandise Should Be Stored In Clean Dry And Protected Wardrobes Or Closet Spaces. <br/>dry Cleaning Is Recommended For All Merchandise.",
-            "First Dry Clean Recommended; After That Cold Hand Wash Can Be Done",
-            "Dry Clean And Hand Wash",
-            "Hand Wash",
-            "Dry Clean, Do Not Use Steam Iron, Use Only Extreme Low Heat Iron",
-            "Hand Wash , 100%poly",
-            "Dry Clean Only",
-            "Mild Hand Wash,do Not Tumble Dry Iron Low Heat Professional Dry Clean, Do Not Bleach",
-            "Strictly Dry Clean Only For Digitally Printed Garments & Non-petroleum Dry Clean For Hand-printed Garments.",
-            "Folded And Stacked - Wrapped In Clean White Unbleached Cotton/ Muslin. Merchandise Should Be Stored In Clean Dry And Protected Wardrobes Or Closet Spaces. Dry Cleaning Is Recommended For All Merchandise.",
-            "Handwash Or Soft Machine Wash This Mulmul Pure Cotton Saree With Blouse Piece Separately In Cold Water With Mild Detergent. Do Not Soak And Dry In Shade. These Are Handcrafted Items, Please Cherish The Little Imperfections In Weave And Prints.",
-            "Do Not Tumble Dry Iron Low Heat Professional Dry Clean. Do Not Bleach",
-            "Safe To Dry Clean. Can Be Hand Washed With Cold Water. Do Not Soak, Do Not Bleach. Gentle Spin To Remove Water. Dry It In A Shaded Area - Avoid Direct Sunlight. Medium Steam Ironing. Store Your Saree In A Cotton Bag Or Box When Not In Use.",
-            "Mild Hand Wash, Do Not Tumble Dry, Iron Low Heat, Professional Dry Clean, Do Not Bleach",
-            "Handwash Separately",
-            "Dry Clean Only. Color May Vary Slightly Due To Photographic Lighting And Screen Resolution.",
-            "Do Not Tumble Dry. Iron Low Heat. Professional Dry Clean. Do Not Bleach",
-            "Dry Clean , Do Not Machine Wash",
-            "First Wash Of The Garment Should Always Be Dry Clean",
-            "Hand Wash With Mild Detergent In Cold Water, Pre-soak Dark Colors With Salt To Set Dyes.",
-            "Cold Hand Wash",
-            "Dry Cleaning Is Recommended For All Sarees.",
-            "Only Dry Clean, No Steam Iron, Low Heat Iron",
-            "Handwash Lightly With Mild Detergent. Do Not Soak. Dry Inside Out In Shade.",
-            "For The First Wash, Hand Wash In Cold Water With A Mild Detergent And Lay Flat To Dry.",
-            "Preferably Dry Clean Or Handwash Separately In Cold Water With Mild Detergent Only. These Are Handcrafted Items, Please Cherish The Little Imperfections In Weave And Prints.",
-            "First Machine Wash Recommended, After That Cold Hand Wash Can Be Done",
-            "Mild Hand Wash",
-            "Hand Wash, Do Not Bleach Or Use Hard Detergent.mild Hand Wash,do Not Tumble Dry Iron Low Heat Professional Dry Clean.",
-            "Dry Clean & Hand Wash Only",
-            "Handwash Lightly With Mild Detergent.do Not Soak. Dry Inside Out In Shade.dry Clean Is Ideal But Hand Wash Also Works.iron On The Wrong Side.we Use Natural Dyes Which Tend To Bleed In The First Few Washes. Therefore, Do Not Mix With Whites.",
-            "1. Do Not Machine Wash Or Hand Wash 2. Incase Of Stains, Immediately Wipe-off The Stain With Cold Water 3. It Is Advised To Only Dry Clean 4. Do Not Keep It Bundled Up 5. Keep Away From Direct Sunlight",
-            "Dry Wash",
-            "Sarees Should Be Stored - Folded And Stacked - Wrapped In Clean White Unbleached Cotton/ Muslin. Merchandise Should Be Stored In Clean Dry And Protected Wardrobes Or Closet Spaces. Dry Cleaning Is Recommended For All Merchandise.",
-            "Dry Clean Or Hand Wash",
-            "First Wash Should Preferably Be Dry Clean.",
-            "Sarees Should Be Stored, Folded And Stacked And By Wrapped In Clean White Unbleached Cotton/ Muslin, Merchandise Should Be Stored In Clean Dry And Protected Wardrobes Or Closet Spaces, Dry Cleaning Is Recommended For All Merchandise.",
-            "Normal Hand Wash In Cold Water With Mild Detergent. Donot Bleach. Iron, Steam Or Dry With Low Heat. Dry In Shade.",
-            "Cold Handwash",
-            "Sarees Should Be Stored - Folded And Stacked – Wrapped In Clean White Unbleached Cotton/ Muslin. Merchandise Should Be Stored In Clean Dry And Protected Wardrobes Or Closet Spaces. Dry Cleaning Is Recommended For All Merchandise.",
-            "Gentle Handwash Separately",
-            "Dry Cleaing Only",
-            "Mul Cotton, Hand Wash",
-            "Machine Wash After Hand Wash",
-            "Recommend Dry Clean Only",
-            "Handwash Or Soft Machine Wash Modal Clothes Separately In Cold Water With Mild Detergent. Do Not Soak And Dry In Shade. These Are Handcrafted Items, Please Cherish The Little Imperfections In Weave And Prints.",
-            "First Wash Of The Saree Should Always Be Dry Clean",
-            "Dry Wash Recommended",
-            "Machine Wash",
-            "Dry Clean Only Steam Iron Only",
-            "Silk Sarees Should Be Stored - Folded And Stacked - Wrapped In Clean, White, Unbleached Cotton/ Muslin. Merchandise Should Be Stored In Clean, Dry, And Protected Wardrobes Or Closet Spaces. Dry Cleaning Is Recommended For All Merchandise.",
-            "Dry Clean Only, Do Not Machine Wash. Please Do Not Spray Deodorant, Mist, Or Perfume On The Saree Directly.",
-            "Hand Wash Only",
-            "Dry Clean, Do Not Machine Wash",
-            "Do Not Tumble, Dry Iron, Low Heat Professional Dry Clean, Do Not Bleach",
-            "First Wash Dry Clean",
-            "Do Not Tumble Dry, Iron Low Heat, Professional Dry Clean, Do Not Bleach",
-            "Gentle Hand Wash With Mild Detergent, Dry In Shades, Steam Iron",
-            "Dry Clean, Gentle Wash",
-            "Hand Wash With Mild Detergent In Cold Water. Pre-soak Dark Colors With Salt To Set Dyes.",
-            "Hand Wash Separately",
-            "Handwash",
-            "Do Not Tumble, Dry Iron Low Heat, Professional Dry Clean, Do Not Bleach",
-            "Hand Wash/dry Wash",
-            "Machine Wash / Hand Wash"
-        ],
+        
         "Type of Work":[
             "Mirror Work",
             "Mukaish",
@@ -2170,6 +2038,8 @@ all = {
             "Flared"
         ]
     },
+    
+    # ✅
     "Shirts":{
         "Composition":"fix",
         "Sleeve Length":[
@@ -2610,189 +2480,193 @@ all = {
             "Padded"
         ],
     },
+    
+    # ✅
     "Sneakers": {
-            "Sole Material": [
-                "TPR",
-                "Resin",
-                "PU",
-                "Phylon",
-                "PVC",
-                "Rubber",
-                "EVA",
-                "Synthetic",
-                "TPU",
-                "Leather",
-                "Tunit"
-            ], # imp
+        "Sole Material": [
+            "TPR",
+            "Resin",
+            "PU",
+            "Phylon",
+            "PVC",
+            "Rubber",
+            "EVA",
+            "Synthetic",
+            "TPU",
+            "Leather",
+            "Tunit"
+        ], # imp
             "Pattern": [
-                "Perforations",
-                "Striped",
-                "Textured",
-                "Printed",
-                "Woven Design",
-                "Colourblocked",
-                "Solid"
-            ], # imp
+            "Perforations",
+            "Striped",
+            "Textured",
+            "Printed",
+            "Woven Design",
+            "Colourblocked",
+            "Solid"
+        ], # imp
             "Toe Shape": [
-                "Pointed Toe",
-                "Round Toe",
-                "Square Toe"
-            ],
-            "Occasion": [
-                "Evening",
-                "Everyday",
-                "Smart Casual",
-                "Party",
-                "Ethnic"
-            ], # imp
+            "Pointed Toe",
+            "Round Toe",
+            "Square Toe"
+        ],
+        "Occasion": [
+            "Evening",
+            "Everyday",
+            "Smart Casual",
+            "Party",
+            "Ethnic"
+        ], # imp
             "Material & Care": "fix", # name chg
             "Micro Trend": [
-                "Unlined Leather",
-                "Metallic",
-                "Lace-Up Espadrilles",
-                "Contrast Sole",
-                "Chunky Embellishments",
-                "Chunky Sole",
-                "Horsebit Loafers",
-                "Full Brogues",
-                "Basics",
-                "Cleated Sole",
-                "Chelsea Boots",
-                "Chukka or Desert Boots",
-                "Animal",
-                "Tassel Loafers",
-                "Denim",
-                "Penny Loafers",
-                "Half Brogues"
-            ], # name chg
+            "Unlined Leather",
+            "Metallic",
+            "Lace-Up Espadrilles",
+            "Contrast Sole",
+            "Chunky Embellishments",
+            "Chunky Sole",
+            "Horsebit Loafers",
+            "Full Brogues",
+            "Basics",
+            "Cleated Sole",
+            "Chelsea Boots",
+            "Chukka or Desert Boots",
+            "Animal",
+            "Tassel Loafers",
+            "Denim",
+            "Penny Loafers",
+            "Half Brogues"
+        ], # name chg
             "Material": [
-                "Textile",
-                "Mesh",
-                "Synthetic Suede",
-                "Synthetic Leather",
-                "Croslite",
-                "PU",
-                "Plastic",
-                "Suede",
-                "Nubuck",
-                "Patent Leather",
-                "Synthetic",
-                "Velvet",
-                "Synthetic Patent",
-                "Canvas",
-                "Leather"
-            ], # imp
+            "Textile",
+            "Mesh",
+            "Synthetic Suede",
+            "Synthetic Leather",
+            "Croslite",
+            "PU",
+            "Plastic",
+            "Suede",
+            "Nubuck",
+            "Patent Leather",
+            "Synthetic",
+            "Velvet",
+            "Synthetic Patent",
+            "Canvas",
+            "Leather"
+        ], # imp
             "Insole": [
-                "Padded",
-                "EVA or Rubber",
-                "Comfort Insole",
-                "Custom Orthotics",
-                "Arch Support",
-                "Memory Foam",
-                "Leather",
-                "Support Insole"
-            ], # imp
+            "Padded",
+            "EVA or Rubber",
+            "Comfort Insole",
+            "Custom Orthotics",
+            "Arch Support",
+            "Memory Foam",
+            "Leather",
+            "Support Insole"
+        ], # imp
             "Type": [
-                "Loafers",
-                "Sneakers",
-                "Derbys",
-                "Mules",
-                "Slip-On Sneakers",
-                "Winter Boots",
-                "Driving Shoes"
-            ], # imp
+            "Loafers",
+            "Sneakers",
+            "Derbys",
+            "Mules",
+            "Slip-On Sneakers",
+            "Winter Boots",
+            "Driving Shoes"
+        ], # imp
             "Fastening": [
-                "Buckle",
-                "Zip",
-                "Slip-On",
-                "Lace-Ups",
-                "Velcro"
-            ],
-            "seller_name": "fix",
-            "Shoe Width": [
-                "Regular",
-                "Narrow",
-                "Wide"
-            ], # name chg
+            "Buckle",
+            "Zip",
+            "Slip-On",
+            "Lace-Ups",
+            "Velcro"
+        ],
+        "seller_name": "fix",
+        "Shoe Width": [
+            "Regular",
+            "Narrow",
+            "Wide"
+        ], # name chg
             "Ankle Height": [
-                "Regular",
-                "High-Top",
-                "Mid-Top"
-            ], # name chg
+            "Regular",
+            "High-Top",
+            "Mid-Top"
+        ], # name chg
             "Sustainable": [
-                "Regular",
-                "Sustainable"
-            ],
-            "Package Contains": "fix",
-            "Ornamentation": [
-                "Western - Embellished",
-                "Buckles",
-                "Bows",
-                "Laser Cuts",
-                "Tassels",
-                "LED",
-                "Ethnic - Embellished",
-                "Other"
-            ],
-            "Technology": [
-                "Latex Lined",
-                "Antibacterial",
-                "Massage Footbed",
-                "Flyknit",
-                "Sublimation",
-                "Orthotic Friendly",
-                "None",
-                "Moisture Wicking",
-                "ZoomX",
-                "Waterproof Lining",
-                "Water Repellent Upper",
-                "Lightweight"
-            ],
-            "Collection Name": "fix",
-            "Character": [
-                "Punisher",
-                "Star Wars",
-                "Joker",
-                "Ninja Hattori",
-                "Hulk",
-                "Iron Man",
-                "Disney",
-                "Aladdin",
-                "Captain America",
-                "Black Panther",
-                "Batman",
-                "Angry Birds",
-                "Avengers"
-            ],
-            "Complete The Look": "fix",
-            "Cushioning": [
-                "Medium",
-                "Low",
-                "High"
-            ],
-            "Sport": [
-                "Tennis",
-                "Running",
-                "Walking"
-            ],
-            "Cleats": [
-                "No Cleats"
-            ],
-            "Outsole Type": [
-                "Marking"
-            ],
-            "Surface Type": [
-                "Outdoor",
-                "All-Rounder"
-            ],  # name chg
+            "Regular",
+            "Sustainable"
+        ],
+        "Package Contains": "fix",
+        "Ornamentation": [
+            "Western - Embellished",
+            "Buckles",
+            "Bows",
+            "Laser Cuts",
+            "Tassels",
+            "LED",
+            "Ethnic - Embellished",
+            "Other"
+        ],
+        "Technology": [
+            "Latex Lined",
+            "Antibacterial",
+            "Massage Footbed",
+            "Flyknit",
+            "Sublimation",
+            "Orthotic Friendly",
+            "None",
+            "Moisture Wicking",
+            "ZoomX",
+            "Waterproof Lining",
+            "Water Repellent Upper",
+            "Lightweight"
+        ],
+        "Collection Name": "fix",
+        "Character": [
+            "Punisher",
+            "Star Wars",
+            "Joker",
+            "Ninja Hattori",
+            "Hulk",
+            "Iron Man",
+            "Disney",
+            "Aladdin",
+            "Captain America",
+            "Black Panther",
+            "Batman",
+            "Angry Birds",
+            "Avengers"
+        ],
+        "Complete The Look": "fix",
+        "Cushioning": [
+            "Medium",
+            "Low",
+            "High"
+        ],
+        "Sport": [
+            "Tennis",
+            "Running",
+            "Walking"
+        ],
+        "Cleats": [
+            "No Cleats"
+        ],
+        "Outsole Type": [
+            "Marking"
+        ],
+        "Surface Type": [
+            "Outdoor",
+            "All-Rounder"
+        ],  # name chg
             "Heel Type": [
-                "Platform"
-            ], # imp
+            "Platform"
+        ], # imp
             "Distance": [
-                "Medium",
-                "Long"
-            ] # imp
-        }
+            "Medium",
+            "Long"
+        ] # imp
+    },
+    
+    # ✅
     "cabinet": {
         "Cabinet Color": [
             "Red",
@@ -3124,7 +2998,8 @@ all = {
             "Gray"
         ],
     },
-    "Watches":{
+    # ✅
+    "Watches":{ 
         "Calendar Type":[
             "Day-Month",
             "Date",
