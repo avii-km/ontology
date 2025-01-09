@@ -15,3 +15,16 @@
     }
 }
 ```
+
+``` python
+{
+    "ayush_data": {
+        "Tshirts": {},  # 
+        "Jeans": {},
+        "Saree": {}, # 
+        "Watches": {} #
+        "bathroom vanities": {} # 
+
+    }
+}
+```
