@@ -13,6 +13,13 @@
         "Watches": {} # ✅
         "kurties" : {} # only single attribute is present
     }
+    "sahil_data": {
+        "Dresses": {},
+        "Earrings": {}, 
+        "shirts": {}, 
+        "Sneakers": {}, 
+        "kurties" : {}
+    }
 }
 ```
 
